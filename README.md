@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="300" src="https://www.quo.digital/static/python-708b5ac0115ddf9730087ceb075e9679.gif" height="175px"/></a>
+<a href="#"><img width="100%" height="300" src="fb.gif" height="175px"/></a>
 
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm <b>Prince Singh</b></h1>
@@ -27,12 +27,19 @@
 <p align="left"> 
     <img src="https://img.icons8.com/color/96/000000/python--v1.png"/>
     <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/96/000000/java-coffee-cup-logo--v1.png"/> </a>
-    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
-    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
-    <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
-    <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
-    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a>
+    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/96/000000/html-5--v1.png"/> </a> 
+    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/96/000000/css3.png"/> </a> 
+    <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/96/000000/bootstrap.png"/> </a> 
+    <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/color/96/000000/mysql-logo.png"/> </a>
+    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/96/000000/git.png"/> </a>
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/ios-filled/100/000000/github.png"/> </a> 
+    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/96/000000/pycharm.png"/> </a>
+    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/96/000000/intellij-idea.png"/> </a>
+    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/96/000000/visual-studio--v2.png"/> </a>
+    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/96/000000/linux--v1.png"/> </a> 
+    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/ios-filled/100/000000/django.png"/> </a> 
+    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/96/000000/c-sharp-logo-2.png"/> </a>
+    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/96/000000/adobe-photoshop--v1.png"/> </a>  
     <!-- <img src="https://img.icons8.com/ios-filled/100/000000/github.png"/> -->
 </p>
 
