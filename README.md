@@ -16,7 +16,7 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 Check Me! [**CodingProfile**](https://princesinghhub.github.io/CodingProfile/)
+- 👨‍💻 Check Me! [**CodingProfile**](https://princesinghhub.github.io/MyCodingProfiles/)
 
 - 📫 How to reach me **thisisprincesingh@gmail.com**
 
