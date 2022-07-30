@@ -10,7 +10,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **II Year IV SEM STUDENT**
+- 🔭 I’m currently working on **3rd Year V SEM STUDENT**
 
 - 🌱 I’m currently learning **Machine Learning & Backend Developement**
 
