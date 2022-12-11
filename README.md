@@ -1,8 +1,9 @@
 <img src="DSAwithPrinceSingh.png">
 
-
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm <b>Prince Singh</b></h1>
 <h3 align="center"><b>I'm a Passionate for Coding and Developement from India.</b></h3>
+<h3 align="center"><b>Problem Solving Enthusiast || 3.5⭐ LEETCODE || 6⭐ Problem Solving || Institute 1st🥇 Rank GFG || Global 99th🥇 Rank InterviewBit || Expert on CodeStudio || Amateur HackerEarth || 1474+ Rating 2⭐ CodeChef || Newbie CodeForces || 1500+ Problems Solved on DSA
+</b></h3>
 
 
 <!-- <img align="right" alt="Coding" width="400" src="bn.gif"> -->
