@@ -9,37 +9,43 @@
 
 
 ## 🙋‍♂️ About Me
-- 📔 Live [**MyResume**](https://princesinghhub.github.io/MYWebResume/)
+
+- 📔 Live [**MyResume**](https://princesinghhub.github.io/MYWebResume/) 
 - 👨‍💻 Check Me! [**CodingProfile**](https://princesinghhub.github.io/MyCodingProfiles/)
 - 🔭 I’m currently Studing in **3rd Year**
 - 📘 I’m currently learning **MERN Stack Developement**
 - 👯 I’m looking to collaborate on **OpenSource Projects**
-- ⚡ Fun fact **I play games and interested in Rosting,Mems**
+- ⚡ For Fun **I play games and interested in Rosting,Mems**
 - 📫 How to reach me **thisisprincesingh@gmail.com**
 
 ## 🚀 Languages and Tools:
 
 <p align="left"> 
     <img src="https://img.icons8.com/color/96/000000/python--v1.png"/>
-    <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/96/000000/java-coffee-cup-logo--v1.png"/> </a>
-    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/96/000000/html-5--v1.png"/> </a> 
-    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/96/000000/css3.png"/> </a> 
-    <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/96/000000/bootstrap.png"/> </a> 
-    <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/color/96/000000/mysql-logo.png"/> </a>
-    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/96/000000/git.png"/> </a>
-    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/ios-filled/100/000000/github.png"/> </a> 
-    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/96/000000/pycharm.png"/> </a>
-    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/96/000000/intellij-idea.png"/> </a>
-    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/96/000000/visual-studio--v2.png"/> </a>
-    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/96/000000/linux--v1.png"/> </a> 
-    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/ios-filled/100/000000/django.png"/> </a> 
-    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/96/000000/c-sharp-logo-2.png"/> </a>
-    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/96/000000/adobe-photoshop--v1.png"/> </a>  
-    <!-- <img src="https://img.icons8.com/ios-filled/100/000000/github.png"/> -->
+    <a href="#"> <img src="https://img.icons8.com/color/96/000000/java-coffee-cup-logo--v1.png"/> </a>
+    <a href="#"> <img src="https://img.icons8.com/color/96/000000/html-5--v1.png"/> </a> 
+    <a href="#"> <img src="https://img.icons8.com/color/96/000000/css3.png"/> </a> 
+    <a href="#"> <img src="https://img.icons8.com/color/96/000000/bootstrap.png"/> </a> 
+    <a href="#"> <img src="https://img.icons8.com/color/96/000000/mysql-logo.png"/> </a>
+    <a href="#"> <img src="https://img.icons8.com/color/96/000000/git.png"/> </a>
+    <a href="#"> <img src="https://img.icons8.com/ios-filled/100/000000/github.png"/> </a> 
+    <a href="#"> <img src="https://img.icons8.com/color/96/000000/pycharm.png"/> </a>
+    <a href="#"> <img src="https://img.icons8.com/color/96/000000/intellij-idea.png"/> </a>
+    <a href="#"> <img src="https://img.icons8.com/color/96/000000/visual-studio--v2.png"/> </a>
+    <a href="#"> <img src="https://img.icons8.com/color/96/000000/linux--v1.png"/> </a> 
+    <a href="#"> <img src="https://img.icons8.com/color/96/windows-10.png"/> </a>
+    <a href="#"> <img src="https://img.icons8.com/ios-filled/100/000000/django.png"/> </a> 
+    <a href="#"> <img src="https://img.icons8.com/color/96/000000/c-sharp-logo-2.png"/> </a>
+    <a href="#"> <img src="https://img.icons8.com/color/96/000000/adobe-photoshop--v1.png"/> </a>  
+    <a href="#"> <img src="https://img.icons8.com/color/96/mongodb.png"/> </a>  
+    <a href="#"> <img src="https://img.icons8.com/ios/96/express-js.png"/> </a>  
+    <a href="#"> <img src="https://img.icons8.com/officel/96/react.png"/> </a> 
+    <a href="#"> <img src="https://img.icons8.com/fluency/96/node-js.png"/> </a>
+    
+    
+    
 </p>
 
-<!-- [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) -->
-<br/>
 
 <p align="center">
     <a href="https://https://github.com/PrinceSinghhub/github-readme-streak-stats">
@@ -67,7 +73,7 @@
 ## Connect with me:
 <p align="left">
 
-<a href = "https://www.linkedin.com/in/prince-singh-314a65187/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://www.linkedin.com/in/prince-singh-314a65187/" target="_main"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "#"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "#"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 <a href = "#"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
