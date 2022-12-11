@@ -12,12 +12,13 @@
 ## 🙋‍♂️ About Me
 
 - 📔 Live [**MyResume**](https://princesinghhub.github.io/MYWebResume/) 
-- 👨‍💻 Check Me! [**CodingProfile**](https://princesinghhub.github.io/MyCodingProfiles/)
+- 👨‍💻 Check My! [**CodingProfile**](https://princesinghhub.github.io/MyCodingProfiles/)
 - 🔭 I’m currently Studing in **3rd Year**
 - 📘 I’m currently learning **MERN Stack Developement**
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 - ⚡ For Fun **I play games and interested in Rosting,Mems**
 - 📫 How to reach me **thisisprincesingh@gmail.com**
+- 🔗 Connect Me on [**Linkedin**](https://www.linkedin.com/in/prince-singh-314a65187/)
 
 ## 🚀 Languages and Tools:
 
