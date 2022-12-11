@@ -11,10 +11,10 @@
 ## 🙋‍♂️ About Me
 - 📔 Live [**MyResume**](https://princesinghhub.github.io/MYWebResume/)
 - 👨‍💻 Check Me! [**CodingProfile**](https://princesinghhub.github.io/MyCodingProfiles/)
-- 🔭 I’m currently working in **3rd Year V SEM STUDENT**
-- 📘 I’m currently learning **Machine Learning & Backend Developement**
+- 🔭 I’m currently Studing in **3rd Year**
+- 📘 I’m currently learning **MERN Stack Developement**
 - 👯 I’m looking to collaborate on **OpenSource Projects**
-- ⚡ Fun fact **I play games and interested in Rosting**
+- ⚡ Fun fact **I play games and interested in Rosting,Mems**
 - 📫 How to reach me **thisisprincesingh@gmail.com**
 
 ## 🚀 Languages and Tools:
