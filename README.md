@@ -72,6 +72,12 @@
 <br/>
 <br/>
 
+![Prince Singh GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=PrinceSunghHub&hide_border=true&theme=redical)
+
+<p align="center">
+   <img src="https://github.com/killshotxd/svgIcons/blob/main/github-contribution-grid-snake.svg" alt="snake">
+</p>
+
 ## Connect with me:
 <p align="left">
 
