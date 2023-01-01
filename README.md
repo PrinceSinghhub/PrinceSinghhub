@@ -21,27 +21,17 @@
 
 
 ## ❤️ DSA ZONE
-✅ I have solved almost 1500+ DSA Problems on, Different-Different Coding Platforms.
-
-✅ Problem Solving 6⭐ in Problem Solving
-
-✅ LeetCode 700+ Problem Solved || 3.5⭐ Star || Max Rating 1400+ || Under 20k Rank
-
-✅ GeeksForGeeks 1000+ Problem Solved || 2700+ Score || 1st Rank in Institue || 328 Global Rank
-
-✅ CodeStudio 800+ Problem Solved || 40325+ Score || 1st Rank in Institue || Expert on CodeStudio
-
-✅ InterviewBit 480+ Problem Solved || 103918+ Score || Level 7 || 58 Global Rank
-
-✅ HackerRank 200+ Problem Solved || 5⭐ in Python || 5⭐ in Java || 5⭐in Days of Code || 5⭐ in JS || 5⭐ in Statistics || 2⭐ in SQL
-
-✅ HackerEarth 30+ Problem Solved || 630+ Score || Amateur on HackerEarth || 5⭐ in Python || 3⭐ O(n)
-
-✅ CodeChef 2⭐ Div 3 || Max Rating 1530+ || Global Rank 37470 || 80+ Problem Solved
-
-✅ CodeForces 364 Max Rating (Newbie) || 40 Problem Solved
-
-✅ work@Tech 1510 Score || 999 Rank || 40 Problem Solved
+✅ I have solved almost 1500+ DSA Problems on, Different-Different Coding Platforms. <br>
+✅ Problem Solving 6⭐ in Problem Solving <br>
+✅ LeetCode 700+ Problem Solved || 3.5⭐ Star || Max Rating 1400+ || Under 20k Rank <br>
+✅ GeeksForGeeks 1000+ Problem Solved || 2700+ Score || 1st Rank in Institue || 328 Global Rank <br>
+✅ CodeStudio 800+ Problem Solved || 40325+ Score || 1st Rank in Institue || Expert on CodeStudio <br>
+✅ InterviewBit 480+ Problem Solved || 103918+ Score || Level 7 || 58 Global Rank <br>
+✅ HackerRank 200+ Problem Solved || 5⭐ in Python || 5⭐ in Java || 5⭐in Days of Code || 5⭐ in JS || 5⭐ in Statistics || 2⭐ in SQL <br>
+✅ HackerEarth 30+ Problem Solved || 630+ Score || Amateur on HackerEarth || 5⭐ in Python || 3⭐ O(n) <br>
+✅ CodeChef 2⭐ Div 3 || Max Rating 1530+ || Global Rank 37470 || 80+ Problem Solved <br>
+✅ CodeForces 364 Max Rating (Newbie) || 40 Problem Solved <br>
+✅ work@Tech 1510 Score || 999 Rank || 40 Problem Solved <br>
 
 ## 🚀 Languages and Tools:
 
