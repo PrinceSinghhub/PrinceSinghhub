@@ -9,7 +9,7 @@
 <!-- <img align="right" alt="Coding" width="400" src="bn.gif"> -->
 
 ## 🙋‍♂️ About Me
-<a><img align="right" src="MyLCGoldBedge.gif" width="400" height="270" /></a>
+<a><img align="right" src="MyLCGoldBedge.gif" width="400" height="250" /></a>
 - 📔 Live [**MyResume**](https://princesinghhub.github.io/MYWebResume/) 
 - 👨‍💻 Check My! [**CodingProfile**](https://princesinghhub.github.io/MyCodingProfiles/)
 - 🔭 I’m currently Studing in **3rd Year**
