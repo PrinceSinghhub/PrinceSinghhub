@@ -34,7 +34,7 @@
 ✅ work@Tech 1510 Score || 999 Rank || 40 Problem Solved <br>
 
 
-## 🚀 DSA:
+## 👨‍💻 Here I Code:
 
 <p align="left"> 
 <img src="lc.png">
@@ -45,7 +45,7 @@
 <img src="he.png" height="96px" width="96px">
 <img src="cc.png" height="96px" width="96px">
 <img src="cf.png">
-<img src="wk.png">
+<img src="wk.png" height="96px" width="96px">
 
 </p>
 
