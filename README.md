@@ -33,6 +33,22 @@
 ✅ CodeForces 364 Max Rating (Newbie) || 40 Problem Solved <br>
 ✅ work@Tech 1510 Score || 999 Rank || 40 Problem Solved <br>
 
+
+## 🚀 DSA:
+
+<p align="left"> 
+<img src="lc.png">
+<img src="gfg.png">
+<img src="ib.png" height="96px" width="96px">
+<img src="cn.png">
+<img src="hr.png">
+<img src="he.png" height="96px" width="96px">
+<img src="cc.png" height="96px" width="96px">
+<img src="cf.png">
+<img src="wk.png">
+
+</p>
+
 ## 🚀 Languages and Tools:
 
 <p align="left"> 
