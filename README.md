@@ -105,13 +105,15 @@
 <br/>
 <br/>
 
-![Prince Singh GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=PrinceSunghHub&hide_border=true&theme=redical)
-
+## 📈 Graph
 <p align="center">
    <img src="https://github.com/killshotxd/svgIcons/blob/main/github-contribution-grid-snake.svg" alt="snake">
 </p>
 
-## Connect with me:
+
+[![Prince Singh GitHub activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=PrinceSinghHub&theme=github-compact)](https://github.com/PrinceSinghHub/github-readme-activity-graph)
+
+## 📧 Connect with me:
 <p align="left">
 
 <a href = "https://www.linkedin.com/in/prince-singh-314a65187/" target="_main"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
