@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm <b>Prince Singh</b></h1>
 <h2 align="center"><b>I'm a Passionate for Coding and Developement from India 🏳️‍🌈</b></h2>
-<h4 align="center"><b>Problem Solving Enthusiast || 365DaysOfCode+ on @LeetCode || 3.5⭐ LEETCODE || 6⭐ Problem Solving || Institute 1st🥇 Rank GFG || Global 99th🥇 Rank InterviewBit || Master on CodeStudio || Amateur HackerEarth || 1474+ Rating 2⭐ CodeChef || Newbie CodeForces || 1500+ Problems Solved on DSA || HardCore DSA Lover ❤️
+<h4 align="center"><b>Problem Solving Enthusiast || 365DaysOfCode+ on @LeetCode || 3.5⭐ LEETCODE || 6⭐ Problem Solving || Institute 1st🥇 Rank GFG || Global 22th🥇 Rank InterviewBit || Master on CodeStudio || Amateur HackerEarth || 1474+ Rating 2⭐ CodeChef || Newbie CodeForces || 1500+ Problems Solved on DSA || HardCore DSA Lover ❤️
 </b></h4>
 
 
@@ -46,7 +46,7 @@
 ✅ LeetCode 700+ Problem Solved || 3.5⭐ Star || Max Rating 1400+ || Under 20k Rank <br>
 ✅ GeeksForGeeks 1000+ Problem Solved || 2700+ Score || 1st Rank in Institue || 328 Global Rank <br>
 ✅ CodeStudio 900+ Problem Solved || 50000+ Score || 1st Rank in Institue || Master on CodeStudio <br>
-✅ InterviewBit 480+ Problem Solved || 103918+ Score || Level 7 || 58 Global Rank <br>
+✅ InterviewBit 510+ Problem Solved || 112904+ Score || Level 8 || 58 Global Rank <br>
 ✅ HackerRank 200+ Problem Solved || 5⭐ in Python || 5⭐ in Java || 5⭐in Days of Code || 5⭐ in JS || 5⭐ in Statistics || 2⭐ in SQL <br>
 ✅ HackerEarth 30+ Problem Solved || 630+ Score || Amateur on HackerEarth || 5⭐ in Python || 3⭐ O(n) <br>
 ✅ CodeChef 2⭐ Div 3 || Max Rating 1530+ || Global Rank 37470 || 80+ Problem Solved <br>
