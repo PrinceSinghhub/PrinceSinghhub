@@ -1,7 +1,7 @@
 <img src="DSAwithPrinceSingh1 - Copy.png">
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm <b>Prince Singh</b></h1>
-<h2 align="center"><b>I'm a Passionate for Coding and 𝐌𝐄𝐑𝐍 𝐒𝐭𝐚𝐜𝐤 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 from India 🏳️‍🌈</b></h2>
+<h2 align="center"><b>I'm a Passionate for 𝐏𝐫𝐨𝐛𝐥𝐞𝐦 𝐒𝐨𝐥𝐯𝐢𝐧𝐠 and 𝐌𝐄𝐑𝐍 𝐒𝐭𝐚𝐜𝐤 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 from India 🏳️‍🌈</b></h2>
 <h4 align="center"><b>Problem Solving Enthusiast || 365DaysOfCode+ on @LeetCode || 3.5⭐ LEETCODE || 6⭐ Problem Solving || Institute 1st🥇 Rank GFG || Global 22th🥇 Rank InterviewBit || Master on CodeStudio || Amateur HackerEarth || 1474+ Rating 2⭐ CodeChef || Newbie CodeForces || 1500+ Problems Solved on DSA || HardCore DSA Lover ❤️ || 𝐌𝐄𝐑𝐍 𝐒𝐭𝐚𝐜𝐤 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫
 </b></h4>
 
@@ -77,11 +77,17 @@
     <a href="#"> <img src="https://img.icons8.com/ios/96/express-js.png"/> </a>  
     <a href="#"> <img src="https://img.icons8.com/officel/96/react.png"/> </a> 
     <a href="#"> <img src="https://img.icons8.com/fluency/96/node-js.png"/> </a>
-    
-    
-    
 </p>
 
+
+## 📝 PROJECT's ZONE
+
+-  MyCodingProfiles [**🔗**](https://github.com/PrinceSinghhub/MyCodingProfiles) 
+-  MYWebResume [**🔗**](https://github.com/PrinceSinghhub/MYWebResume)  
+-  ADVANCED-BINARY-CALCULATOR [**🔗**](https://github.com/PrinceSinghhub/ADVANCED-BINARY-CALCULATOR) 
+-  MY-AI-ASSISTANT [**🔗**](https://github.com/PrinceSinghhub/MY-AI-ASSISTANT) 
+-  Sorting-Algorithms-With-GUI [**🔗**](https://github.com/PrinceSinghhub/Sorting-Algorithms-With-GUI) 
+-  Get-System-Information [**🔗**](https://github.com/PrinceSinghhub/Get-System-Information) 
 
 <p align="center">
     <a href="https://https://github.com/PrinceSinghhub/github-readme-streak-stats">
