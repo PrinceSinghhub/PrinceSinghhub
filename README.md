@@ -13,7 +13,7 @@
 - 📔 Live [**MyResume**](https://princesinghhub.github.io/MYWebResume/) 
 - 👨‍💻 Check My! [**CodingProfile**](https://princesinghhub.github.io/MyCodingProfiles/)
 - 🔭 I’m Currently Studing in **3rd Year**
-- 📘 I’m Currently learning **𝐌𝐄𝐑𝐍 𝐒𝐭𝐚𝐜𝐤 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫**
+- 📘 I’m Currently learning **𝐌𝐄𝐑𝐍 𝐒𝐭𝐚𝐜𝐤 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐦𝐞𝐧𝐭**
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 - ⚡ For Fun **I play games and interested in Rosting,Mems**
 - 📫 How to reach me **thisisprincesingh@gmail.com**
