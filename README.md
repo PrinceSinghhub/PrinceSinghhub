@@ -72,7 +72,7 @@
     <a href="#"> <img src="https://img.icons8.com/color/96/windows-10.png"/> </a>
     <a href="#"> <img src="https://img.icons8.com/ios-filled/100/000000/django.png"/> </a> 
     <a href="#"> <img src="https://img.icons8.com/color/96/000000/c-sharp-logo-2.png"/> </a>
-    <a href="#"> <img src="https://img.icons8.com/color/96/000000/adobe-photoshop--v1.png"/> </a>  
+    <a href="#"> <img src="https://img.icons8.com/color/96/000000/adobe-photoshop--v1.png"/> </a>   
     <a href="#"> <img src="https://img.icons8.com/color/96/mongodb.png"/> </a>  
     <a href="#"> <img src="https://img.icons8.com/ios/96/express-js.png"/> </a>  
     <a href="#"> <img src="https://img.icons8.com/officel/96/react.png"/> </a> 
