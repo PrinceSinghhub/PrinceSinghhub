@@ -1,4 +1,4 @@
-<img src="DSAwithPrinceSingh1 - Copy.png">
+<img src="DSAwithPrinceSingh1 - Copy.png">                     
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm <b>Prince Singh</b></h1>
 <h2 align="center"><b>I'm a Passionate for 𝐏𝐫𝐨𝐛𝐥𝐞𝐦 𝐒𝐨𝐥𝐯𝐢𝐧𝐠 and 𝐌𝐄𝐑𝐍 𝐒𝐭𝐚𝐜𝐤 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 from India 🏳️‍🌈</b></h2>
