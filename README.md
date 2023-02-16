@@ -37,21 +37,21 @@
 
 
 ## 🏆 Achievements
-✅ I have solved almost 1500+ DSA Problems on, Different-Different Coding Platforms.
-✅ 𝟒𝟎𝟎𝐃𝐚𝐲𝐬+ 𝐨𝐧 @𝐋𝐞𝐞𝐭𝐂𝐨𝐝𝐞
-✅ 𝟑𝟓𝟓𝐃𝐚𝐲𝐬+ 𝐨𝐧 @𝐈𝐧𝐭𝐞𝐫𝐯𝐢𝐞𝐰𝐁𝐢𝐭
-✅ 𝟑𝟓𝟓𝐃𝐚𝐲𝐬+ 𝐨𝐧 @𝐂𝐨𝐝𝐞𝐒𝐭𝐮𝐝𝐢𝐨
-✅ 𝟏𝟓𝟎𝐃𝐚𝐲𝐬+ 𝐨𝐧 @𝐆𝐞𝐞𝐤𝐬𝐅𝐨𝐫𝐆𝐞𝐞𝐤𝐬
-✅ Problem Solving 6⭐ in Problem Solving
-✅ LeetCode 700+ Problem Solved || 3.5⭐ Star || Max Rating 1400+ || Under 20k Rank
-✅ GeeksForGeeks 1000+ Problem Solved || 3000+ Score || 1st Rank in Institue || 328 Global Rank
-✅ CodeStudio 900+ Problem Solved || 50000+ Score || 1st Rank in Institue || Expert on CodeStudio
-✅ InterviewBit 560+ Problem Solved || 112904+ Score || Level 8 || 14 Global Rank
-✅ HackerRank 200+ Problem Solved || 5⭐ in Python || 5⭐ in Java || 5⭐in Days of Code || 5⭐ in JS || 5⭐ in Statistics || 2⭐ in SQL
-✅ HackerEarth 30+ Problem Solved || 630+ Score || Amateur on HackerEarth || 5⭐ in Python || 3⭐ O(n)
-✅ CodeChef 2⭐ Div 3 || Max Rating 1530+ || Global Rank 37470 || 80+ Problem Solved
-✅ CodeForces 364 Max Rating (Newbie) || 40 Problem Solved
-✅ work@Tech 1510 Score || 999 Rank || 40 Problem Solved
+✅ I have solved almost 1500+ DSA Problems on, Different-Different Coding Platforms.  <br>
+✅ 𝟒𝟎𝟎𝐃𝐚𝐲𝐬+ 𝐨𝐧 @𝐋𝐞𝐞𝐭𝐂𝐨𝐝𝐞 <br>
+✅ 𝟑𝟓𝟓𝐃𝐚𝐲𝐬+ 𝐨𝐧 @𝐈𝐧𝐭𝐞𝐫𝐯𝐢𝐞𝐰𝐁𝐢𝐭 <br>
+✅ 𝟑𝟓𝟓𝐃𝐚𝐲𝐬+ 𝐨𝐧 @𝐂𝐨𝐝𝐞𝐒𝐭𝐮𝐝𝐢𝐨 <br>
+✅ 𝟏𝟓𝟎𝐃𝐚𝐲𝐬+ 𝐨𝐧 @𝐆𝐞𝐞𝐤𝐬𝐅𝐨𝐫𝐆𝐞𝐞𝐤𝐬 <br>
+✅ Problem Solving 6⭐ in Problem Solving <br>
+✅ LeetCode 700+ Problem Solved || 3.5⭐ Star || Max Rating 1400+ || Under 20k Rank <br>
+✅ GeeksForGeeks 1000+ Problem Solved || 3000+ Score || 1st Rank in Institue || 328 Global Rank <br>
+✅ CodeStudio 900+ Problem Solved || 50000+ Score || 1st Rank in Institue || Expert on CodeStudio <br>
+✅ InterviewBit 560+ Problem Solved || 112904+ Score || Level 8 || 14 Global Rank <br>
+✅ HackerRank 200+ Problem Solved || 5⭐ in Python || 5⭐ in Java || 5⭐in Days of Code || 5⭐ in JS || 5⭐ in Statistics || 2⭐ in SQL <br>
+✅ HackerEarth 30+ Problem Solved || 630+ Score || Amateur on HackerEarth || 5⭐ in Python || 3⭐ O(n) <br>
+✅ CodeChef 2⭐ Div 3 || Max Rating 1530+ || Global Rank 37470 || 80+ Problem Solved <br>
+✅ CodeForces 364 Max Rating (Newbie) || 40 Problem Solved <br>
+✅ work@Tech 1510 Score || 999 Rank || 40 Problem Solved <br>
 
 
 ## 🚀 Languages and Tools:
