@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm <b>Prince Singh</b></h1>
 <h2 align="center"><b>I'm a Passionate for 𝐏𝐫𝐨𝐛𝐥𝐞𝐦 𝐒𝐨𝐥𝐯𝐢𝐧𝐠 and 𝐌𝐄𝐑𝐍 𝐒𝐭𝐚𝐜𝐤 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 from India 🏳️‍🌈</b></h2>
-<h4 align="center"><b>Problem Solving Enthusiast || 400DaysOfCode+ on @LeetCode || 3.5⭐ LEETCODE || 6⭐ Problem Solving || Institute 1st🥇 Rank GFG || Global 14th🥇 Rank InterviewBit || Master on CodeStudio || Amateur HackerEarth || 1474+ Rating 2⭐ CodeChef || Newbie CodeForces || 1500+ Problems Solved on DSA || HardCore DSA Lover ❤️ || 𝐌𝐄𝐑𝐍 𝐒𝐭𝐚𝐜𝐤 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 
+<h4 align="center"><b>Problem Solving Enthusiast || 400DaysOfCode+ on @LeetCode || 3.5⭐ LEETCODE || 6⭐ Problem Solving || Institute 1st🥇 Rank GFG || Global 13th🥇 Rank InterviewBit || Master on CodeStudio || Amateur HackerEarth || 1474+ Rating 2⭐ CodeChef || Newbie CodeForces || 1500+ Problems Solved on DSA || HardCore DSA Lover ❤️ || 𝐌𝐄𝐑𝐍 𝐒𝐭𝐚𝐜𝐤 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 
 </b></h4> 
 
 
@@ -39,14 +39,14 @@
 ## 🏆 Achievements
 ✅ I have solved almost 1500+ DSA Problems on, Different-Different Coding Platforms.  <br>
 ✅ 𝟒𝟎𝟎𝐃𝐚𝐲𝐬+ 𝐨𝐧 @𝐋𝐞𝐞𝐭𝐂𝐨𝐝𝐞 <br>
-✅ 𝟑𝟓𝟓𝐃𝐚𝐲𝐬+ 𝐨𝐧 @𝐈𝐧𝐭𝐞𝐫𝐯𝐢𝐞𝐰𝐁𝐢𝐭 <br>
-✅ 𝟑𝟓𝟓𝐃𝐚𝐲𝐬+ 𝐨𝐧 @𝐂𝐨𝐝𝐞𝐒𝐭𝐮𝐝𝐢𝐨 <br>
+✅ 𝟑𝟔𝟓𝐃𝐚𝐲𝐬+ 𝐨𝐧 @𝐈𝐧𝐭𝐞𝐫𝐯𝐢𝐞𝐰𝐁𝐢𝐭 <br>
+✅ 𝟑𝟔𝟓𝐃𝐚𝐲𝐬+ 𝐨𝐧 @𝐂𝐨𝐝𝐞𝐒𝐭𝐮𝐝𝐢𝐨 <br>
 ✅ 𝟏𝟓𝟎𝐃𝐚𝐲𝐬+ 𝐨𝐧 @𝐆𝐞𝐞𝐤𝐬𝐅𝐨𝐫𝐆𝐞𝐞𝐤𝐬 <br>
 ✅ Problem Solving 6⭐ in Problem Solving <br>
 ✅ LeetCode 700+ Problem Solved || 3.5⭐ Star || Max Rating 1400+ || Under 20k Rank <br>
-✅ GeeksForGeeks 1000+ Problem Solved || 3000+ Score || 1st Rank in Institue || 328 Global Rank <br>
-✅ CodeStudio 900+ Problem Solved || 50000+ Score || 1st Rank in Institue || Expert on CodeStudio <br>
-✅ InterviewBit 560+ Problem Solved || 112904+ Score || Level 8 || 14 Global Rank <br>
+✅ GeeksForGeeks 1000+ Problem Solved || 3000+ Score || 1st Rank in Institue || 145 Global Rank <br>
+✅ CodeStudio 1000+ Problem Solved || 65291+ Score || 1st Rank in Institue || Expert on CodeStudio <br>
+✅ InterviewBit 570+ Problem Solved || 118903+ Score || Level 8 || 13 Global Rank <br>
 ✅ HackerRank 200+ Problem Solved || 5⭐ in Python || 5⭐ in Java || 5⭐in Days of Code || 5⭐ in JS || 5⭐ in Statistics || 2⭐ in SQL <br>
 ✅ HackerEarth 30+ Problem Solved || 630+ Score || Amateur on HackerEarth || 5⭐ in Python || 3⭐ O(n) <br>
 ✅ CodeChef 2⭐ Div 3 || Max Rating 1530+ || Global Rank 37470 || 80+ Problem Solved <br>
