@@ -43,9 +43,9 @@
 ✅ 𝟑𝟔𝟓𝐃𝐚𝐲𝐬+ 𝐨𝐧 @𝐂𝐨𝐝𝐞𝐒𝐭𝐮𝐝𝐢𝐨 <br>
 ✅ 𝟏𝟓𝟎𝐃𝐚𝐲𝐬+ 𝐨𝐧 @𝐆𝐞𝐞𝐤𝐬𝐅𝐨𝐫𝐆𝐞𝐞𝐤𝐬 <br>
 ✅ Problem Solving 6⭐ in Problem Solving <br>
-✅ LeetCode 700+ Problem Solved || 3.5⭐ Star || Max Rating 1400+ || Under 20k Rank <br>
-✅ GeeksForGeeks 1000+ Problem Solved || 3000+ Score || 1st Rank in Institue || 145 Global Rank <br>
-✅ CodeStudio 1000+ Problem Solved || 65291+ Score || 1st Rank in Institue || Expert on CodeStudio <br>
+✅ LeetCode 800+ Problem Solved || 3.5⭐ Star || Max Rating 1400+ || Under 20k Rank <br>
+✅ GeeksForGeeks 1100+ Problem Solved || 3000+ Score || 1st Rank in Institue || 145 Global Rank <br>
+✅ CodeStudio 1100+ Problem Solved || 65291+ Score || 1st Rank in Institue || Expert on CodeStudio <br>
 ✅ InterviewBit 570+ Problem Solved || 118903+ Score || Level 8 || 13 Global Rank <br>
 ✅ HackerRank 200+ Problem Solved || 5⭐ in Python || 5⭐ in Java || 5⭐in Days of Code || 5⭐ in JS || 5⭐ in Statistics || 2⭐ in SQL <br>
 ✅ HackerEarth 30+ Problem Solved || 630+ Score || Amateur on HackerEarth || 5⭐ in Python || 3⭐ O(n) <br>
