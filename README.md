@@ -10,7 +10,9 @@
 
 ## 🙋‍♂️ About Me
 <a><img align="right" src="MyLCGoldBedge.gif" width="350" height="240" /></a>
-- 📔 Live [**MyResume**](https://princesinghhub.github.io/MYWebResume/) 
+- 📔 Live [**MyResume**](https://princesinghhub.github.io/MYWebResume/)
+- 🔥 [**My DSA and Developement Skills**](https://linktr.ee/itsPrinceSingh)
+- 📞 Book Your Appointment with Me For [**DSA and Developement Guidance**](https://topmate.io/itsprincesingh)
 - 👨‍💻 Check My! [**CodingProfile**](https://princesinghhub.github.io/MyCodingProfiles/)
 - 🔭 I’m Currently Studing in **3rd Year**
 - 📘 I’m Currently learning **𝐌𝐄𝐑𝐍 𝐒𝐭𝐚𝐜𝐤 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐦𝐞𝐧𝐭**
@@ -44,8 +46,8 @@
 ✅ 𝟐𝟎𝟎𝐃𝐚𝐲𝐬+ 𝐨𝐧 @𝐆𝐞𝐞𝐤𝐬𝐅𝐨𝐫𝐆𝐞𝐞𝐤𝐬 <br>
 ✅ Problem Solving 6⭐ in Problem Solving <br>
 ✅ LeetCode 800+ Problem Solved || 3.5⭐ Star || Max Rating 1400+ || Under 20k Rank <br>
-✅ GeeksForGeeks 1100+ Problem Solved || 3000+ Score || 1st Rank in Institue || 145 Global Rank <br>
-✅ CodeStudio 1400+ Problem Solved || 78000+ Score || 1st Rank in Institue || Expert on CodeStudio <br>
+✅ GeeksForGeeks 1200+ Problem Solved || 3400+ Score || 1st Rank in Institue || 115 Global Rank <br>
+✅ CodeStudio 1400+ Problem Solved || 79000+ Score || 1st Rank in Institue || Expert on CodeStudio <br>
 ✅ InterviewBit 570+ Problem Solved || 118903+ Score || Level 8 || 13 Global Rank <br>
 ✅ HackerRank 200+ Problem Solved || 5⭐ in Python || 5⭐ in Java || 5⭐in Days of Code || 5⭐ in JS || 5⭐ in Statistics || 2⭐ in SQL <br>
 ✅ HackerEarth 30+ Problem Solved || 630+ Score || Amateur on HackerEarth || 5⭐ in Python || 3⭐ O(n) <br>
