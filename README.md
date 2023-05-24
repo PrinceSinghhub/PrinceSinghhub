@@ -39,73 +39,73 @@
 
 
 ## 🏆 Achievements
-I'm very Passionate For Programming and Problem-Solving Enthusiast. I'm always ready to learn new things with Effective ideas. HardCore DSA Lover
+I'm very Passionate For Programming and Problem-Solving Enthusiast. I'm always ready to learn new things with Effective ideas. HardCore DSA Lover <br>
 
--> Love to learn new technologies and to explore new set of areas.
--> 𝐌𝐄𝐑𝐍 𝐒𝐭𝐚𝐜𝐤 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫
+-> Love to learn new technologies and to explore new set of areas. <br>
+-> 𝐌𝐄𝐑𝐍 𝐒𝐭𝐚𝐜𝐤 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 <br>
 
-What's Special about me?
-Ability to quickly Learn and Master a new skill and to implement it to solve a realtime problems.
+What's Special about me? <br>
+Ability to quickly Learn and Master a new skill and to implement it to solve a realtime problems. <br>
 
 ❤️ DSA ZONE
 
-✅ I have solved almost 1500+ DSA Problems on, Different-Different Coding Platforms.
-✅ 𝟒𝟎𝟎𝐃𝐚𝐲𝐬+ 𝐨𝐧 @𝐋𝐞𝐞𝐭𝐂𝐨𝐝𝐞
-✅ 𝟑𝟔𝟓𝐃𝐚𝐲𝐬+ 𝐨𝐧 @𝐈𝐧𝐭𝐞𝐫𝐯𝐢𝐞𝐰𝐁𝐢𝐭
-✅ 𝟒𝟎𝟎𝐃𝐚𝐲𝐬+ 𝐨𝐧 @𝐂𝐨𝐝𝐞𝐒𝐭𝐮𝐝𝐢𝐨
-✅ 𝟐𝟎𝟎𝐃𝐚𝐲𝐬+ 𝐨𝐧 @𝐆𝐞𝐞𝐤𝐬𝐅𝐨𝐫𝐆𝐞𝐞𝐤𝐬
+✅ I have solved almost 1500+ DSA Problems on, Different-Different Coding Platforms. <br>
+✅ 𝟒𝟎𝟎𝐃𝐚𝐲𝐬+ 𝐨𝐧 @𝐋𝐞𝐞𝐭𝐂𝐨𝐝𝐞 <br>
+✅ 𝟑𝟔𝟓𝐃𝐚𝐲𝐬+ 𝐨𝐧 @𝐈𝐧𝐭𝐞𝐫𝐯𝐢𝐞𝐰𝐁𝐢𝐭 <br>
+✅ 𝟒𝟎𝟎𝐃𝐚𝐲𝐬+ 𝐨𝐧 @𝐂𝐨𝐝𝐞𝐒𝐭𝐮𝐝𝐢𝐨 <br>
+✅ 𝟐𝟎𝟎𝐃𝐚𝐲𝐬+ 𝐨𝐧 @𝐆𝐞𝐞𝐤𝐬𝐅𝐨𝐫𝐆𝐞𝐞𝐤𝐬 <br>
 
-✅  LeetCode
-    – 800+ Problems Solved
-    – 3.5⭐ Star || Max Rating 1400+
-    – Under 12K Rank.
+✅  LeetCode <br>
+    – 800+ Problems Solved <br>
+    – 3.5⭐ Star || Max Rating 1400+ <br>
+    – Under 12K Rank. <br>
 
-✅  GeeksForGeeks
-    – 1200+ Problems Solved
-    – Global Rank 115. and Under 100 Monthly Rank
-    – Institute Rank 1
-    – 3400+ Coding Score
+✅  GeeksForGeeks <br>
+    – 1200+ Problems Solved <br>
+    – Global Rank 115. and Under 100 Monthly Rank <br>
+    – Institute Rank 1 <br>
+    – 3400+ Coding Score <br>
 
-✅ CodeStudio
-    – 1400+ Problems Solved
-    – Institute Rank 1. with Level 8 Master
-    – 1700+ Rating
-    – Top Performer on Leader Board
-    – 79000+ Coding Score 
+✅ CodeStudio <br>
+    – 1400+ Problems Solved <br>
+    – Institute Rank 1. with Level 8 Master <br>
+    – 1700+ Rating <br>
+    – Top Performer on Leader Board <br>
+    – 79000+ Coding Score  <br>
 
-✅ InterviewBit
-    – 560+ Problems Solved
-    – Global Rank 13
-    – 119000+ Coding Score 
+✅ InterviewBit <br>
+    – 560+ Problems Solved <br>
+    – Global Rank 13 <br>
+    – 119000+ Coding Score  <br>
 
-✅ HackerRank
-    – 300+ Problems Solved
-    – 6⭐ in Problem Solving
-    – 5⭐ in Python || 5⭐ in Java || 5⭐in Days of Code || 5⭐ in JS || 5⭐ in Statistics || 2⭐ in SQL
+✅ HackerRank <br>
+    – 300+ Problems Solved <br>
+    – 6⭐ in Problem Solving <br>
+    – 5⭐ in Python || 5⭐ in Java || 5⭐in Days of Code || 5⭐ in JS || 5⭐ in Statistics || 2⭐ in SQL <br>
 
-✅ HackerEarth
-    – 30+ Problem Solved
-    – 630+ Points in Contest and Level Amateur
-    – 5⭐ in Python || 3⭐ O(n)
+✅ HackerEarth <br>
+    – 30+ Problem Solved <br>
+    – 630+ Points in Contest and Level Amateur <br>
+    – 5⭐ in Python || 3⭐ O(n) <br>
 
-✅ CodeChef
-    – 1530+ Rating
-    – Best Contest Rank Global Rank 345
-    – Global Rank 37470
-    – 80+ Problem Solved
+✅ CodeChef <br>
+    – 1530+ Rating <br>
+    – Best Contest Rank Global Rank 345 <br>
+    – Global Rank 37470 <br>
+    – 80+ Problem Solved <br>
 
-✅ CodeForces
-    – 364 Max Rating (Newbie) 
-    – 40 Problem Solved
+✅ CodeForces <br>
+    – 364 Max Rating (Newbie)  <br>
+    – 40 Problem Solved <br>
 
-✅ work@Tech
-    – 1510 Score || 999 Rank || 40 Problem Solved
+✅ work@Tech <br>
+    – 1510 Score || 999 Rank || 40 Problem Solved <br>
 
-Other Achievement 
-⭐ 1000+ Students Guide for Placements || DSA || CP 
-⭐ Top performer in College " Rank 1 " [Acadiemic & Coding ]
-⭐ 1M+ Views on LinkedIn
-⭐ 10K+ Folowers on LinkedIn
+Other Achievement  <br>
+⭐ 1000+ Students Guide for Placements || DSA || CP  <br>
+⭐ Top performer in College " Rank 1 " [Acadiemic & Coding ] <br>
+⭐ 1M+ Views on LinkedIn <br>
+⭐ 10K+ Folowers on LinkedIn <br>
 
 ## 🚀 Languages and Tools:
 
