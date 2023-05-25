@@ -10,16 +10,21 @@
 
 ## 🙋‍♂️ About Me
 <a><img align="right" src="MyLCGoldBedge.gif" width="350" height="240" /></a>
+- 🥋 I'm very Passionate For Programming and Problem-Solving Enthusiast. I'm always ready to learn new things with Effective ideas. HardCore DSA Lover ❤
+- 👨‍💻 Love to learn new technologies and to explore new set of areas.
+- 👁‍🗨 What's Special about me? <br>
+Ability to quickly Learn and Master a new skill and to implement it to solve a realtime problems.
 - 📔 Live [**MyResume**](https://princesinghhub.github.io/MYWebResume/)
 - 🔥 [**My DSA and Developement Skills**](https://linktr.ee/itsPrinceSingh)
-- 📞 Book Your Appointment with Me For [**DSA and Developement Guidance**](https://topmate.io/itsprincesingh)
+- 📞 Book Your 1:1 Call with Me For **DSA & Developement & Placement & Carrier Guidance** [**Link**](https://topmate.io/itsprincesingh)
 - 👨‍💻 Check My! [**CodingProfile**](https://princesinghhub.github.io/MyCodingProfiles/)
 - 🔭 I’m Currently Studing in **3rd Year**
 - 📘 I’m Currently learning **𝐌𝐄𝐑𝐍 𝐒𝐭𝐚𝐜𝐤 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐦𝐞𝐧𝐭**
 - 👯 I’m looking to collaborate on **OpenSource Projects**
-- ⚡ For Fun **I play games and interested in Rosting,Mems**
+- ⚡ For Fun **Games,Rosting,Mems,HipHop**
 - 📫 How to reach me **thisisprincesingh@gmail.com**
 - 🔗 Connect Me on [**Linkedin**](https://www.linkedin.com/in/prince-singh-314a65187/)
+- 🔗 Connect Me on [**Twitter**](https://twitter.com/NowPrinceSingh)
 
 
 ## ❤️ DSA ZONE
@@ -39,13 +44,6 @@
 
 
 ## 🏆 Achievements
-I'm very Passionate For Programming and Problem-Solving Enthusiast. I'm always ready to learn new things with Effective ideas. HardCore DSA Lover <br>
-
--> Love to learn new technologies and to explore new set of areas. <br>
--> 𝐌𝐄𝐑𝐍 𝐒𝐭𝐚𝐜𝐤 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 <br>
-
-What's Special about me? <br>
-Ability to quickly Learn and Master a new skill and to implement it to solve a realtime problems. <br>
 
 ❤️ DSA ZONE
 
