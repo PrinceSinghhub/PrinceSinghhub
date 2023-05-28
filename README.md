@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm <b>Prince Singh</b></h1>
 <h2 align="center"><b>I'm a Passionate for 𝐏𝐫𝐨𝐛𝐥𝐞𝐦 𝐒𝐨𝐥𝐯𝐢𝐧𝐠 and 𝐌𝐄𝐑𝐍 𝐒𝐭𝐚𝐜𝐤 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 from India 🏳️‍🌈</b></h2>
-<h4 align="center"><b>Problem Solving Enthusiast || 500DaysOfCode+ on @LeetCode || 3.5⭐ LEETCODE || 6⭐ Problem Solving || Institute 1st🥇 Rank GFG || Global 13th🥇 Rank InterviewBit || Master on CodeStudio || Amateur HackerEarth || 1474+ Rating 2⭐ CodeChef || Newbie CodeForces || 1500+ Problems Solved on DSA || HardCore DSA Lover ❤️ || 𝐌𝐄𝐑𝐍 𝐒𝐭𝐚𝐜𝐤 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 
+<h4 align="center"><b>Problem Solving Enthusiast || 500DaysOfCode+ on @LeetCode || 3.5⭐ LEETCODE || 6⭐ Problem Solving || Institute 1st🥇 Rank GFG || Global 13th🥇 Rank InterviewBit || Master on CodeStudio || Amateur HackerEarth || 1474+ Rating 2⭐ CodeChef || Newbie CodeForces || 1500+ Problems Solved on DSA || HardCore DSA Lover ❤️ || 𝐌𝐄𝐑𝐍 𝐒𝐭𝐚𝐜𝐤 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫  
 </b></h4> 
 
 
