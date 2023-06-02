@@ -54,50 +54,50 @@ Ability to quickly Learn and Master a new skill and to implement it to solve a r
 ✅ 𝟐𝟎𝟎𝐃𝐚𝐲𝐬𝐎𝐟𝐂𝐨𝐝𝐞+ 𝐨𝐧 @𝐆𝐞𝐞𝐤𝐬𝐅𝐨𝐫𝐆𝐞𝐞𝐤𝐬 <br>
 
 ✅  LeetCode <br>
-    – 800+ Problems Solved <br>
-    – 3.5⭐ Star || Max Rating 1400+ <br>
-    – Under 12K Rank. <br>
+    - 800+ Problems Solved <br>
+    - 3.5⭐ Star || Max Rating 1400+ <br>
+    - Under 12K Rank. <br>
 
 ✅  GeeksForGeeks <br>
-    – 1200+ Problems Solved <br>
-    – Global Rank 115. and Under 100 Monthly Rank <br>
-    – Institute Rank 1 <br>
-    – 3400+ Coding Score <br>
+    - 1200+ Problems Solved <br>
+    - Global Rank 115. and Under 100 Monthly Rank <br>
+    - Institute Rank 1 <br>
+    - 3400+ Coding Score <br>
 
 ✅ CodeStudio <br>
-    – 1400+ Problems Solved <br>
-    – Institute Rank 1. with Level 8 Master <br>
-    – 1700+ Rating <br>
-    – Top Performer on Leader Board <br>
-    – 79000+ Coding Score  <br>
+    - 1400+ Problems Solved <br>
+    - Institute Rank 1. with Level 8 Master <br>
+    - 1700+ Rating <br>
+    - Top Performer on Leader Board <br>
+    - 79000+ Coding Score  <br>
 
 ✅ InterviewBit <br>
-    – 560+ Problems Solved <br>
-    – Global Rank 13 <br>
-    – 119000+ Coding Score  <br>
+    - 560+ Problems Solved <br>
+    - Global Rank 13 <br>
+    - 119000+ Coding Score  <br>
 
 ✅ HackerRank <br>
-    – 300+ Problems Solved <br>
-    – 6⭐ in Problem Solving <br>
-    – 5⭐ in Python || 5⭐ in Java || 5⭐in Days of Code || 5⭐ in JS || 5⭐ in Statistics || 2⭐ in SQL <br>
+    - 300+ Problems Solved <br>
+    - 6⭐ in Problem Solving <br>
+    - 5⭐ in Python || 5⭐ in Java || 5⭐in Days of Code || 5⭐ in JS || 5⭐ in Statistics || 2⭐ in SQL <br>
 
 ✅ HackerEarth <br>
-    – 30+ Problem Solved <br>
-    – 630+ Points in Contest and Level Amateur <br>
-    – 5⭐ in Python || 3⭐ O(n) <br>
+    - 30+ Problem Solved <br>
+    - 630+ Points in Contest and Level Amateur <br>
+    - 5⭐ in Python || 3⭐ O(n) <br>
 
 ✅ CodeChef <br>
-    – 1530+ Rating <br>
-    – Best Contest Rank Global Rank 345 <br>
-    – Global Rank 37470 <br>
-    – 80+ Problem Solved <br>
+    - 1530+ Rating <br>
+    - Best Contest Rank Global Rank 345 <br>
+    - Global Rank 37470 <br>
+    - 80+ Problem Solved <br>
 
 ✅ CodeForces <br>
-    – 364 Max Rating (Newbie)  <br>
-    – 40 Problem Solved <br>
+    - 364 Max Rating (Newbie)  <br>
+    - 40 Problem Solved <br>
 
 ✅ work@Tech <br>
-    – 1510 Score || 999 Rank || 40 Problem Solved <br>
+    - 1510 Score || 999 Rank || 40 Problem Solved <br>
 
 Other Achievement  <br>
 ⭐ 1000+ Students Guide for Placements || DSA || CP  <br>
