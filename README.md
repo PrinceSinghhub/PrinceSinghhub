@@ -87,7 +87,7 @@ Ability to quickly Learn and Master a new skill and to implement it to solve a r
     - 5⭐ in Python || 3⭐ O(n) <br>
 
 ✅ CodeChef <br>
-    - 3⭐ Coder
+    - 3⭐ Coder <br>
     - 1600+ Rating <br>
     - Best Contest Rank Global Rank 345 <br>
     - Global Rank 16736 <br>
@@ -95,7 +95,7 @@ Ability to quickly Learn and Master a new skill and to implement it to solve a r
 
 ✅ CodeForces <br>
     - 600+ Max Rating (Newbie)  <br>
-    - 40 Problem Solved <br>
+    - 40+ Problem Solved <br>
 
 ✅ work@Tech <br>
     - 1510 Score || 999 Rank || 40 Problem Solved <br>
