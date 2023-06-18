@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm <b>Prince Singh</b></h1>
 <h2 align="center"><b>I'm a Passionate for 𝐏𝐫𝐨𝐛𝐥𝐞𝐦 𝐒𝐨𝐥𝐯𝐢𝐧𝐠 and 𝐌𝐄𝐑𝐍 𝐒𝐭𝐚𝐜𝐤 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 from India 🏳️‍🌈</b></h2>
-<h4 align="center"><b>Problem Solving Enthusiast || 500DaysOfCode+ on @LeetCode || 3.5⭐ LEETCODE || 6⭐ Problem Solving || Institute 1st🥇 Rank GFG || Global 13th🥇 Rank InterviewBit || Master on CodeStudio || Amateur HackerEarth || 1474+ Rating 2⭐ CodeChef || Newbie CodeForces || 1500+ Problems Solved on DSA || HardCore DSA Lover ❤️ || 𝐌𝐄𝐑𝐍 𝐒𝐭𝐚𝐜𝐤 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫  
+<h4 align="center"><b>Problem Solving Enthusiast || 500DaysOfCode+ on @LeetCode || 3.5⭐ LEETCODE || 6⭐ Problem Solving || Institute 1st🥇 Rank GFG || Global 13th🥇 Rank InterviewBit || Master on CodeStudio || Amateur HackerEarth || 1600+ Rating 3⭐ CodeChef || Newbie CodeForces || 1500+ Problems Solved on DSA || HardCore DSA Lover ❤️ || 𝐌𝐄𝐑𝐍 𝐒𝐭𝐚𝐜𝐤 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫  
 </b></h4> 
 
 
@@ -54,7 +54,7 @@ Ability to quickly Learn and Master a new skill and to implement it to solve a r
 ✅ 𝟐𝟎𝟎𝐃𝐚𝐲𝐬𝐎𝐟𝐂𝐨𝐝𝐞+ 𝐨𝐧 @𝐆𝐞𝐞𝐤𝐬𝐅𝐨𝐫𝐆𝐞𝐞𝐤𝐬 <br>
 
 ✅  LeetCode <br>
-    - 800+ Problems Solved <br>
+    - 900+ Problems Solved <br>
     - 3.5⭐ Star || Max Rating 1400+ <br>
     - Under 12K Rank. <br>
 
@@ -87,13 +87,14 @@ Ability to quickly Learn and Master a new skill and to implement it to solve a r
     - 5⭐ in Python || 3⭐ O(n) <br>
 
 ✅ CodeChef <br>
-    - 1530+ Rating <br>
+    - 3⭐ Coder
+    - 1600+ Rating <br>
     - Best Contest Rank Global Rank 345 <br>
-    - Global Rank 37470 <br>
-    - 80+ Problem Solved <br>
+    - Global Rank 16736 <br>
+    - 100+ Problem Solved <br>
 
 ✅ CodeForces <br>
-    - 364 Max Rating (Newbie)  <br>
+    - 600+ Max Rating (Newbie)  <br>
     - 40 Problem Solved <br>
 
 ✅ work@Tech <br>
@@ -103,7 +104,7 @@ Other Achievement  <br>
 ⭐ 1000+ Students Guide for Placements || DSA || CP  <br>
 ⭐ Top performer in College " Rank 1 " [Acadiemic & Coding ] <br>
 ⭐ 1M+ Views on LinkedIn <br>
-⭐ 10K+ Folowers on LinkedIn <br>
+⭐ 15K+ Followers on LinkedIn <br>
 
 ## 🚀 Languages and Tools:
 
