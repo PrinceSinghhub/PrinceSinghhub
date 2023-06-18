@@ -55,7 +55,7 @@ Ability to quickly Learn and Master a new skill and to implement it to solve a r
 
 ✅  LeetCode <br>
     - 900+ Problems Solved <br>
-    - 3.5⭐ Star || Max Rating 1400+ <br>
+    - 3.5⭐ Star || Max Rating 1500+ <br>
     - Under 12K Rank. <br>
 
 ✅  GeeksForGeeks <br>
