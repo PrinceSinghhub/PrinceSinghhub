@@ -25,6 +25,7 @@ Ability to quickly Learn and Master a new skill and to implement it to solve a r
 - 📫 How to reach me **princesingh.cse.2020@gmail.com**
 - 🔗 Connect Me on [**Linkedin**](https://www.linkedin.com/in/prince-singh-314a65187/)
 - 🔗 Connect Me on [**Twitter**](https://twitter.com/NowPrinceSingh)
+- 📖 Learn [**DSAwithPrinceSingh**](https://princesinghhub.github.io/DSAwithPrinceSingh/)
 
 
 ## ❤️ DSA ZONE
