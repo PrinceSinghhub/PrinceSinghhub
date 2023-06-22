@@ -133,7 +133,7 @@ Other Achievement  <br>
 </p>
 
 
-## 📝 PROJECT's ZONE
+## 📝 PROJECT's ZONE (Working on 20+ Persional Projects)
 
 🌐  MyCodingProfiles [**🔗**](https://github.com/PrinceSinghhub/MyCodingProfiles) 🌐 Shorting Algorithm Website [**🔗**](https://sortingalgorithmswebsite.netlify.app/)🌐  MYWebResume [**🔗**](https://github.com/PrinceSinghhub/MYWebResume)  <br> 
 🌐 Animated My DSA Profiles Circle [**🔗**](https://mydsacircle.netlify.app/) 🌐  ADVANCED-BINARY-CALCULATOR [**🔗**](https://github.com/PrinceSinghhub/ADVANCED-BINARY-CALCULATOR) 🌐 ChessBoard [**🔗**](https://mychessbord.netlify.app/) <br>
