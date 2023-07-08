@@ -16,7 +16,7 @@
 Ability to quickly Learn and Master a new skill and to implement it to solve a realtime problems.
 - 📔 Live [**MyResume**](https://princesinghhub.github.io/MYWebResume/)
 - 🔥 [**My DSA and Developement Skills**](https://linktr.ee/itsPrinceSingh)
-- 📞 Book Your 1:1 Call with Me For **DSA & Developement & Placement & Carrier Guidance** [**Link**](https://topmate.io/itsprincesingh)
+- 📞 Book Your 1:1 Call with Me For **DSA & Developement & Placement & Career Guidance** [**Link**](https://topmate.io/itsprincesingh)
 - 👨‍💻 Check My! [**CodingProfile**](https://princesinghhub.github.io/MyCodingProfiles/)
 - 🔭 I’m Currently Studing in **3rd Year**
 - 📘 I’m Currently learning **𝐌𝐄𝐑𝐍 𝐒𝐭𝐚𝐜𝐤 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐦𝐞𝐧𝐭**
