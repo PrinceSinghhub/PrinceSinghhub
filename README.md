@@ -51,8 +51,8 @@ Ability to quickly Learn and Master a new skill and to implement it to solve a r
 ✅ I have solved almost 1500+ DSA Problems on, Different-Different Coding Platforms. <br>
 ✅ 𝟓𝟎𝟎𝐃𝐚𝐲𝐬𝐎𝐟𝐂𝐨𝐝𝐞+ 𝐨𝐧 @𝐋𝐞𝐞𝐭𝐂𝐨𝐝𝐞 <br>
 ✅ 𝟑𝟔𝟓𝐃𝐚𝐲𝐬𝐎𝐟𝐂𝐨𝐝𝐞+ 𝐨𝐧 @𝐈𝐧𝐭𝐞𝐫𝐯𝐢𝐞𝐰𝐁𝐢𝐭 <br>
-✅ 𝟒𝟎𝟎𝐃𝐚𝐲𝐬𝐎𝐟𝐂𝐨𝐝𝐞+ 𝐨𝐧 @𝐂𝐨𝐝𝐞𝐒𝐭𝐮𝐝𝐢𝐨 <br>
-✅ 𝟐𝟎𝟎𝐃𝐚𝐲𝐬𝐎𝐟𝐂𝐨𝐝𝐞+ 𝐨𝐧 @𝐆𝐞𝐞𝐤𝐬𝐅𝐨𝐫𝐆𝐞𝐞𝐤𝐬 <br>
+✅ 𝟓𝟎𝟎𝐃𝐚𝐲𝐬𝐎𝐟𝐂𝐨𝐝𝐞+ 𝐨𝐧 @𝐂𝐨𝐝𝐞𝐒𝐭𝐮𝐝𝐢𝐨 <br>
+✅ 𝟑𝟎𝟎𝐃𝐚𝐲𝐬𝐎𝐟𝐂𝐨𝐝𝐞+ 𝐨𝐧 @𝐆𝐞𝐞𝐤𝐬𝐅𝐨𝐫𝐆𝐞𝐞𝐤𝐬 <br>
 
 ✅  LeetCode <br>
     - 900+ Problems Solved <br>
@@ -66,11 +66,11 @@ Ability to quickly Learn and Master a new skill and to implement it to solve a r
     - 3400+ Coding Score <br>
 
 ✅ CodeStudio <br>
-    - 1400+ Problems Solved <br>
+    - 1700+ Problems Solved <br>
     - Institute Rank 1. with Level 8 Master <br>
     - 1700+ Rating <br>
     - Top Performer on Leader Board <br>
-    - 79000+ Coding Score  <br>
+    - 85000+ Coding Score  <br>
 
 ✅ InterviewBit <br>
     - 560+ Problems Solved <br>
