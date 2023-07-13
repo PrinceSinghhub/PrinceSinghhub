@@ -57,7 +57,7 @@ Ability to quickly Learn and Master a new skill and to implement it to solve a r
 ✅  LeetCode <br>
     - 900+ Problems Solved <br>
     - 3.5⭐ Star || Max Rating 1740+ <br>
-    - Under the Top 10%
+    - Under the Top 10% <br>
     - Under 12K Rank. <br>
 
 ✅  GeeksForGeeks <br>
@@ -96,7 +96,7 @@ Ability to quickly Learn and Master a new skill and to implement it to solve a r
     - 100+ Problem Solved <br>
 
 ✅ CodeForces <br>
-    - Rating Max(1223) Pupil CodeForces 🎯<br>
+    - Rating Max(1223) Pupil<br>
     - 60+ Problem Solved <br>
 
 ✅ work@Tech <br>
