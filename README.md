@@ -56,7 +56,8 @@ Ability to quickly Learn and Master a new skill and to implement it to solve a r
 
 ✅  LeetCode <br>
     - 900+ Problems Solved <br>
-    - 3.5⭐ Star || Max Rating 1500+ <br>
+    - 3.5⭐ Star || Max Rating 1740+ <br>
+    - Under the Top 10%
     - Under 12K Rank. <br>
 
 ✅  GeeksForGeeks <br>
@@ -88,15 +89,15 @@ Ability to quickly Learn and Master a new skill and to implement it to solve a r
     - 5⭐ in Python || 3⭐ O(n) <br>
 
 ✅ CodeChef <br>
-    - 3⭐ Coder <br>
-    - 1600+ Rating <br>
-    - Best Contest Rank Global Rank 345 <br>
+    - 2⭐ Coder <br>
+    - Max(1595)+ Rating <br>
+    - Best Contest Rank Global Rank 202 <br>
     - Global Rank 16736 <br>
     - 100+ Problem Solved <br>
 
 ✅ CodeForces <br>
-    - 600+ Max Rating (Newbie)  <br>
-    - 40+ Problem Solved <br>
+    - Rating Max(1223) Pupil CodeForces 🎯<br>
+    - 60+ Problem Solved <br>
 
 ✅ work@Tech <br>
     - 1510 Score || 999 Rank || 40 Problem Solved <br>
