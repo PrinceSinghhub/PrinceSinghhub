@@ -43,6 +43,10 @@ Ability to quickly Learn and Master a new skill and to implement it to solve a r
 
 </p> 
 
+<br>
+
+![](https://leetcard.jacoblin.cool/PrinceSingh1?ext=heatmap)
+![](https://leetcard.jacoblin.cool/PrinceSingh2?ext=contest)
 
 ## 🏆 Achievements
 
