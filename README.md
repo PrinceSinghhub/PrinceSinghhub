@@ -59,7 +59,7 @@ Ability to quickly Learn and Master a new skill and to implement it to solve a r
     - Under In the Top 55% <br>
     - Under 9K Rank. <br>
 
-✅  Abother LeetCode <br>
+✅  LeetCode [ Second Profile ]<br>
     - 140+ Problems Solved <br>
     - 2⭐ Star || Max Rating 1804+ <br>
     - Under In the Top 7% <br>
