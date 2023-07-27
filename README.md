@@ -1,8 +1,8 @@
 <img src="lkbn.png">                     
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm <b>Prince Singh</b></h1>
-<h2 align="center"><b>I'm a Passionate for 𝐏𝐫𝐨𝐛𝐥𝐞𝐦 𝐒𝐨𝐥𝐯𝐢𝐧𝐠 and 𝐌𝐄𝐑𝐍 𝐒𝐭𝐚𝐜𝐤 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 from India 🏳️‍🌈</b></h2>
-<h4 align="center"><b>Problem Solving Enthusiast || 500DaysOfCode+ on @LeetCode || 3.5⭐ LEETCODE ||  Max(1804)+ Rating Top 7% || 500DaysOfCode Streak 🔥 || 6⭐ Problem Solving || Institute 1st🥇 Rank GFG || Global 13th🥇 Rank InterviewBit || Master on CodeStudio || Amateur HackerEarth || Max(1590) 2⭐ CodeChef || Max(1223) Pupil CodeForces 🎯 || 1500+ Problems Solved on DSA || HardCore DSA Lover ❤️ || 𝐌𝐄𝐑𝐍 𝐒𝐭𝐚𝐜𝐤 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫  
+<h2 align="center"><b>I'm a Passionate for Problem Solving and MERN Stack Developer from India 🏳️‍🌈</b></h2>
+<h4 align="center"><b>Problem Solving Enthusiast || 500DaysOfCode+ on @LeetCode || 3.5⭐ LEETCODE ||  Max(1804) Rating Top 7% || 500DaysOfCode Streak 🔥 || 6⭐ Problem Solving || Institute 1st🥇 Rank GFG || Global 13th🥇 Rank InterviewBit || Master on CodeStudio || Amateur HackerEarth || Max(1590) 2⭐ CodeChef || Max(1251) Pupil CodeForces 🎯 || 1500+ Problems Solved on DSA || HardCore DSA Lover ❤️ || <b>MERN Stack Developer</b>
 </b></h4> 
 
 
@@ -55,13 +55,13 @@ Ability to quickly Learn and Master a new skill and to implement it to solve a r
 
 ✅  LeetCode <br>
     - 900+ Problems Solved <br>
-    - 3.5⭐ Star || Max Rating 1464+ <br>
+    - 3.5⭐ Star || Max Rating 1464 <br>
     - Under In the Top 55% <br>
     - Under 9K Rank. <br>
 
 ✅  LeetCode [ Second Profile ]<br>
     - 140+ Problems Solved <br>
-    - 2⭐ Star || Max Rating 1804+ <br>
+    - 2⭐ Star || Max Rating 1804 <br>
     - Under In the Top 7% <br>
 
 ✅  GeeksForGeeks <br>
@@ -94,13 +94,13 @@ Ability to quickly Learn and Master a new skill and to implement it to solve a r
 
 ✅ CodeChef <br>
     - 2⭐ Coder <br>
-    - Max(1595)+ Rating <br>
+    - Max(1595) Rating <br>
     - Best Contest Rank Global Rank 202 <br>
     - Global Rank 16736 <br>
     - 100+ Problem Solved <br>
 
 ✅ CodeForces <br>
-    - Rating Max(1223) Pupil<br>
+    - Rating Max(1251) Pupil<br>
     - 60+ Problem Solved <br>
 
 ✅ work@Tech <br>
