@@ -61,8 +61,8 @@ Ability to quickly Learn and Master a new skill and to implement it to solve a r
 
 ✅  LeetCode [ Second Profile ]<br>
     - 140+ Problems Solved <br>
-    - 2⭐ Star || Max Rating 1804 <br>
-    - Under In the Top 7% <br>
+    - 2⭐ Star || Max Rating 1841 <br>
+    - Under In the Top 6% <br>
 
 ✅  GeeksForGeeks <br>
     - 1200+ Problems Solved <br>
@@ -109,8 +109,8 @@ Ability to quickly Learn and Master a new skill and to implement it to solve a r
 Other Achievement  <br>
 ⭐ 1000+ Students Guide for Placements || DSA || CP  <br>
 ⭐ Top performer in College " Rank 1 " [Acadiemic & Coding ] <br>
-⭐ 2M+ Views on LinkedIn <br>
-⭐ 16K+ Followers on LinkedIn <br>
+⭐ 3M+ Views on LinkedIn <br>
+⭐ 20K+ Followers on LinkedIn <br>
 
 ## 🚀 Languages and Tools:
 
