@@ -73,7 +73,7 @@ Ability to quickly Learn and Master a new skill and to implement it to solve a r
 ✅ CodeStudio <br>
     - 1700+ Problems Solved <br>
     - Institute Rank 1. with Level 8 Master <br>
-    - 1700+ Rating <br>
+    - Rating Max(1854) <br>
     - Top Performer on Leader Board <br>
     - 85000+ Coding Score  <br>
 
