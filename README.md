@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm <b>Prince Singh</b></h1>
 <h2 align="center"><b>I'm a Passionate for Problem Solving and MERN Stack Developer from India 🏳️‍🌈</b></h2>
-<h4 align="center"><b>Problem Solving Enthusiast || 500DaysOfCode+ on @LeetCode || 3.5⭐ LEETCODE ||  Max(1841) Rating Top 6% || 500DaysOfCode Streak 🔥 || 6⭐ Problem Solving || Institute 1st🥇 Rank GFG || Global 13th🥇 Rank InterviewBit || Max(1854) Rating Master on CodeStudio || Amateur HackerEarth || Max(1590) 2⭐ CodeChef || Max(1251) Pupil CodeForces 🎯 || 1500+ Problems Solved on DSA || HardCore DSA Lover ❤️ || <b>MERN Stack Developer</b>
+<h4 align="center"><b>Problem Solving Enthusiast || 500DaysOfCode+ on @LeetCode || 3.5⭐ LEETCODE ||  Max(1841) Rating Top 6% || 500DaysOfCode Streak 🔥 || 6⭐ Problem Solving || Institute 1st🥇 Rank GFG || Global 13th🥇 Rank InterviewBit || Max(1854) Rating Master on CodeStudio || Amateur HackerEarth || Max(1590) 2⭐ CodeChef || Max(1308) Pupil CodeForces 🎯 || 1500+ Problems Solved on DSA || HardCore DSA Lover ❤️ || <b>MERN Stack Developer</b>
 </b></h4> 
 
 
@@ -54,13 +54,13 @@ Ability to quickly Learn and Master a new skill and to implement it to solve a r
 ✅ 𝟑𝟎𝟎𝐃𝐚𝐲𝐬𝐎𝐟𝐂𝐨𝐝𝐞+ 𝐨𝐧 @𝐆𝐞𝐞𝐤𝐬𝐅𝐨𝐫𝐆𝐞𝐞𝐤𝐬 <br>
 
 ✅  LeetCode <br>
-    - 900+ Problems Solved <br>
+    - 1000+ Problems Solved <br>
     - 3.5⭐ Star || Max Rating 1464 <br>
     - Under In the Top 55% <br>
     - Under 9K Rank. <br>
 
 ✅  LeetCode [ Second Profile ]<br>
-    - 140+ Problems Solved <br>
+    - 180+ Problems Solved <br>
     - 2⭐ Star || Max Rating 1841 <br>
     - Under In the Top 6% <br>
 
@@ -71,7 +71,7 @@ Ability to quickly Learn and Master a new skill and to implement it to solve a r
     - 3400+ Coding Score <br>
 
 ✅ CodeStudio <br>
-    - 1700+ Problems Solved <br>
+    - 2000+ Problems Solved <br>
     - Institute Rank 1. with Level 8 Master <br>
     - Rating Max(1854) <br>
     - Top Performer on Leader Board <br>
@@ -100,8 +100,8 @@ Ability to quickly Learn and Master a new skill and to implement it to solve a r
     - 100+ Problem Solved <br>
 
 ✅ CodeForces <br>
-    - Rating Max(1251) Pupil<br>
-    - 60+ Problem Solved <br>
+    - Rating Max(1308) Pupil<br>
+    - 80+ Problem Solved <br>
 
 ✅ work@Tech <br>
     - 1510 Score || 999 Rank || 40 Problem Solved <br>
