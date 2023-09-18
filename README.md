@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm <b>Prince Singh</b></h1>
 <h2 align="center"><b>I'm a Passionate for Problem Solving and MERN Stack Developer from India 🏳️‍🌈</b></h2>
-<h4 align="center"><b>MERN Stack Developer 👨‍💻 || Problem Solving Enthusiast || 600DaysOfCode+ on @LeetCode || 3.5⭐ LEETCODE || Max(1841) Rating Top 6% || 600DaysOfCode Streak 🔥 || 6⭐ Problem Solving || Institute 1st🥇 Rank GFG || Global 13th🥇 Rank InterviewBit || Max(1854) Rating Master🌞 on CodeStudio || Amateur HackerEarth || 1500+ Problems Solved on DSA || DSA & DEV Mentor || HardCore DSA Lover ❤️ || 27K @LinkedIn & 3M+ 🔥 Views || 150 @GitHub & 10K+ 🔥 Views</b>
+<h4 align="center"><b>MERN Stack Developer 👨‍💻 || Problem Solving Enthusiast || 600DaysOfCode+ on @LeetCode || 3.5⭐ LEETCODE || Max(1841) Rating Top 6% || 600DaysOfCode Streak 🔥 || 6⭐ Problem Solving || Institute 1st🥇 Rank GFG || Global 13th🥇 Rank InterviewBit || Max(1854) Rating Master🌞 on CodeStudio || Amateur HackerEarth || 1500+ Problems Solved on DSA || DSA & DEV Mentor || HardCore DSA Lover ❤️ || 27K @LinkedIn & 4M+ 🔥 Views || 150 @GitHub & 10K+ 🔥 Views</b>
 </b></h4> 
 
 
@@ -10,18 +10,18 @@
 
 ## 🙋‍♂️ About Me
 <a><img align="right" src="MyLCGoldBedge.gif" width="350" height="240" /></a>
-- 🥋 I'm very Passionate For Programming and Problem-Solving Enthusiast. I'm always ready to learn new things with Effective ideas. HardCore DSA Lover ❤
-- 👨‍💻 Love to learn new technologies and to explore new set of areas.
+- 🥋 I'm a very Passionate For Programming and Problem-Solving Enthusiast. I'm always ready to learn new things with Effective ideas. Hardcore DSA Lover ❤
+- 👨‍💻 Love to learn new technologies and to explore new sets of areas.
 - 👁‍🗨 What's Special about me? <br>
-Ability to quickly Learn and Master a new skill and to implement it to solve a realtime problems.
+Ability to quickly Learn and Master a new skill and to implement it to solve a realtime problem.
 - 📔 Live [**MyResume**](https://princesinghhub.github.io/MYWebResume/)
-- 🔥 [**My DSA and Developement Skills**](https://linktr.ee/itsPrinceSingh)
-- 📞 Book Your 1:1 Call with Me For **DSA & Developement & Placement & Career Guidance** [**Link**](https://topmate.io/itsprincesingh)
+- 🔥 [**My DSA and Development Skills**](https://linktr.ee/itsPrinceSingh)
+- 📞 Book Your 1:1 Call with Me For **DSA & Development & Placement & Career Guidance** [**Link**](https://topmate.io/itsprincesingh)
 - 👨‍💻 Check My! [**CodingProfile**](https://princesinghhub.github.io/MyCodingProfiles/)
-- 🔭 I’m Currently Studing in **Final Year**
+- 🔭 I’m Currently Studying in **Final Year**
 - 📘 I’m Currently learning **𝐌𝐄𝐑𝐍 𝐒𝐭𝐚𝐜𝐤 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐦𝐞𝐧𝐭**
 - 👯 I’m looking to collaborate on **OpenSource Projects**
-- ⚡ For Fun **Games,Rosting,Mems,HipHop**
+- ⚡ For Fun **Games, Rosting, Mems, HipHop**
 - 📫 How to reach me **princesingh.cse.2020@gmail.com**
 - 🔗 Connect Me on [**Linkedin**](https://www.linkedin.com/in/prince-singh-314a65187/)
 - 🔗 Connect Me on [**Twitter**](https://twitter.com/NowPrinceSingh)
@@ -109,7 +109,7 @@ Ability to quickly Learn and Master a new skill and to implement it to solve a r
 Other Achievement  <br>
 ⭐ Thousand's of Students Guide for Placements || DSA || CP  || Development <br>
 ⭐ Top performer in College " Rank 1 " [Acadiemic & Coding ] <br>
-⭐ 3M+ Views on LinkedIn <br>
+⭐ 4M+ Views on LinkedIn <br>
 ⭐ 27K+ Followers on LinkedIn <br>
 
 ## 🚀 Languages and Tools:
