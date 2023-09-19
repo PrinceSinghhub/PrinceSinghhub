@@ -1,7 +1,7 @@
 <img src="lkbn.png">                     
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm <b>Prince Singh</b></h1>
-<h2 align="center"><b>I'm a Passionate for Problem Solving and MERN Stack Developer from India 🏳️‍🌈</b></h2>
+<h2 align="center"><b>I'm a Passionate for Problem Solving and MERN Stack Developer from India 🦁</b></h2>
 <h4 align="center"><b>MERN Stack Developer 👨‍💻 || Problem Solving Enthusiast || 600DaysOfCode+ on @LeetCode || 3.5⭐ LEETCODE || Max(1841) Rating Top 6% || 600DaysOfCode Streak 🔥 || 6⭐ Problem Solving || Institute 1st🥇 Rank GFG || Global 13th🥇 Rank InterviewBit || Max(1854) Rating Master🌞 on CodeStudio || Amateur HackerEarth || 1500+ Problems Solved on DSA || DSA & DEV Mentor || HardCore DSA Lover ❤️ || 27K @LinkedIn & 4M+ 🔥 Views || 150 @GitHub & 10K+ 🔥 Views</b>
 </b></h4> 
 
