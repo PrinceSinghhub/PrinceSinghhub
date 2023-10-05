@@ -109,7 +109,7 @@ Ability to quickly Learn and Master a new skill and to implement it to solve a r
 Other Achievement  <br>
 ⭐ Thousand's of Students Guide for Placements || DSA || CP  || Development <br>
 ⭐ Top performer in College " Rank 1 " [Acadiemic & Coding ] <br>
-⭐ 4M+ Views on LinkedIn <br>
+⭐ 5M+ Views on LinkedIn <br>
 ⭐ 30K+ Followers on LinkedIn <br>
 
 ## 🚀 Languages and Tools:
