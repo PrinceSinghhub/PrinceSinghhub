@@ -45,10 +45,10 @@ Ability to quickly Learn and Master a new skill and to implement it to solve a r
 
 ## 🏆 Achievements
 
-❤️ DSA ZONE
-
-✅ I have solved almost 1500+ DSA Problems on, Different-Different Coding Platforms. <br>
-✅ <b>75DaysHardPlacementChallenge <br>
+#### ❤️ DSA ZONE 
+<b>
+✅ I have Solved Thousand's of DSA Problems on, Different-Different Coding Platforms. <br>
+✅ 75DaysHardPlacementChallenge <br>
 ✅ 600DaysOfCode+ on @LeetCode <br>
 ✅ 365DaysOfCode+ on @InterviewBi𝐭 <br>
 ✅ 600DaysOfCode+ on @CodeStudio <br>
