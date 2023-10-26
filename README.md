@@ -48,10 +48,11 @@ Ability to quickly Learn and Master a new skill and to implement it to solve a r
 ❤️ DSA ZONE
 
 ✅ I have solved almost 1500+ DSA Problems on, Different-Different Coding Platforms. <br>
+✅ <b>75DaysHardPlacementChallenge</b> <br>
 ✅ 𝟔𝟎𝟎𝐃𝐚𝐲𝐬𝐎𝐟𝐂𝐨𝐝𝐞+ 𝐨𝐧 @𝐋𝐞𝐞𝐭𝐂𝐨𝐝𝐞 <br>
 ✅ 𝟑𝟔𝟓𝐃𝐚𝐲𝐬𝐎𝐟𝐂𝐨𝐝𝐞+ 𝐨𝐧 @𝐈𝐧𝐭𝐞𝐫𝐯𝐢𝐞𝐰𝐁𝐢𝐭 <br>
-✅ 𝟓𝟎𝟎𝐃𝐚𝐲𝐬𝐎𝐟𝐂𝐨𝐝𝐞+ 𝐨𝐧 @𝐂𝐨𝐝𝐞𝐒𝐭𝐮𝐝𝐢𝐨 <br>
-✅ 𝟑𝟔𝟓𝐃𝐚𝐲𝐬𝐎𝐟𝐂𝐨𝐝𝐞+ 𝐨𝐧 @𝐆𝐞𝐞𝐤𝐬𝐅𝐨𝐫𝐆𝐞𝐞𝐤𝐬 <br>
+✅ 600𝐃𝐚𝐲𝐬𝐎𝐟𝐂𝐨𝐝𝐞+ 𝐨𝐧 @𝐂𝐨𝐝𝐞𝐒𝐭𝐮𝐝𝐢𝐨 <br>
+✅ 400𝐃𝐚𝐲𝐬𝐎𝐟𝐂𝐨𝐝𝐞+ 𝐨𝐧 @𝐆𝐞𝐞𝐤𝐬𝐅𝐨𝐫𝐆𝐞𝐞𝐤𝐬 <br>
 
 ✅  LeetCode <br>
     - 1000+ Problems Solved <br>
@@ -73,6 +74,7 @@ Ability to quickly Learn and Master a new skill and to implement it to solve a r
 ✅ CodeStudio <br>
     - 2000+ Problems Solved <br>
     - Institute Rank 1. with Level 8 Master <br>
+    - Including in 0.5% Coder on @CodeStudio
     - Rating Max(1854) <br>
     - Top Performer on Leader Board <br>
     - 90000+ Coding Score  <br>
@@ -110,7 +112,7 @@ Other Achievement  <br>
 ⭐ Thousand's of Students Guide for Placements || DSA || CP  || Development <br>
 ⭐ Top performer in College " Rank 1 " [Acadiemic & Coding ] <br>
 ⭐ 5M+ Views on LinkedIn <br>
-⭐ 30K+ Followers on LinkedIn <br>
+⭐ 34K+ Followers on LinkedIn <br>
 
 ## 🚀 Languages and Tools:
 
