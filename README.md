@@ -46,73 +46,74 @@ Ability to quickly Learn and Master a new skill and to implement it to solve a r
 
 ## 🏆 Achievements
 
-#### ❤️ DSA ZONE 
-<b>
-✅ I have Solved Thousand's of DSA Problems on, Different-Different Coding Platforms. <br>
-✅ 75DaysHardPlacementChallenge <br>
-✅ 600DaysOfCode+ on @LeetCode <br>
-✅ 365DaysOfCode+ on @InterviewBi𝐭 <br>
-✅ 600DaysOfCode+ on @CodeStudio <br>
-✅ 400DaysOfCode+ on @GeeksForGeeks <br>
+#### 🎯 Data Structures & Algorithms 🎯
+<b>💥 I have Solved Thousand of DSA Problems on, Different-Different Coding Platforms.  <br>
+💥 75DaysHardPlacementChallenge  <br>
+💥 600DaysOfCode+ on @LeetCode  <br>
+💥 365DaysOfCode+ on @InterviewBi𝐭  <br>
+💥 600DaysOfCode+ on @CodeStudio  <br>
+💥 400DaysOfCode+ on @GeeksForGeeks  <br>
 
-✅  LeetCode <br>
-    - 1000+ Problems Solved <br>
-    - 3.5⭐ Star || Max Rating 1464 <br>
-    - Under In the Top 55% <br>
-    - Under 9K Rank. <br>
+🏆 LeetCode <br>
+    ⚪ 1000+ Problems Solved
+    ⚪ 3.5⭐ Star || Max Rating 1464 <br>
+    ⚪ Under In the Top 55% <br>
+    ⚪ Under 9K Rank. <br>
 
-✅  LeetCode [ Second Profile ]<br>
-    - 180+ Problems Solved <br>
-    - 2⭐ Star || Max Rating 1876 <br>
-    - Under In the Top5% Knight👑<br>
+🏆 LeetCode [ Second Profile ] <br>
+    ⚪ 200+ Problems Solved <br>
+    ⚪ 2⭐ Star || Max Rating 1876 <br>
+    ⚪ Under In the Top 5% Knight👑 <br>
 
-✅  GeeksForGeeks <br>
-    - 1200+ Problems Solved <br>
-    - Global Rank 115. and Under 100 Monthly Rank <br>
-    - Institute Rank 1 <br>
-    - 3400+ Coding Score <br>
+🏆  GeeksForGeeks <br>
+    ⚪ 1200+ Problems Solved <br>
+    ⚪ Global Rank 115. and Under 100 Monthly Rank <br>
+    ⚪ Institute Rank 1 <br>
+    ⚪ 3400+ Coding Score <br>
 
-✅ CodeStudio <br>
-    - 2000+ Problems Solved <br>
-    - Institute Rank 1. with Level 8 Master <br>
-    - Including in 0.5% Coder on @CodeStudio
-    - Rating Max(1854) <br>
-    - Top Performer on Leader Board <br>
-    - 90000+ Coding Score  <br>
+🏆 CodeStudio <br>
+    ⚪ 2000+ Problems Solved <br>
+    ⚪ Institute Rank 1. with Level 8 Master <br>
+    ⚪ Including in 0.5% Coder on @CodeStudio <br>
+    ⚪ Rating Max(1854) <br>
+    ⚪ Top Performer on Leader Board <br>
+    ⚪ 90000+ Coding Score  <br>
 
-✅ InterviewBit <br>
-    - 560+ Problems Solved <br>
-    - Global Rank 13 <br>
-    - 119000+ Coding Score  <br>
+🏆 InterviewBit <br>
+    ⚪ 560+ Problems Solved <br>
+    ⚪ Global Rank 13 <br>
+    ⚪ 119000+ Coding Score  <br>
 
-✅ HackerRank <br>
-    - 300+ Problems Solved <br>
-    - 6⭐ in Problem Solving <br>
-    - 5⭐ in Python || 5⭐ in Java || 5⭐in Days of Code || 5⭐ in JS || 5⭐ in Statistics || 2⭐ in SQL <br>
+🏆 HackerRank <br>
+    ⚪ 300+ Problems Solved <br>
+    ⚪ 6⭐ in Problem Solving <br>
+    ⚪ 5⭐ in Python || 5⭐ in Java || 5⭐in Days of Code || 5⭐ in JS || 5⭐ in Statistics || 2⭐ in SQL <br>
 
-✅ HackerEarth <br>
-    - 30+ Problem Solved <br>
-    - 630+ Points in Contest and Level Amateur <br>
-    - 5⭐ in Python || 3⭐ O(n) <br>
+🏆 HackerEarth <br>
+    ⚪ 30+ Problem Solved <br>
+    ⚪ 630+ Points in Contest and Level Amateur <br>
+    ⚪ 5⭐ in Python || 3⭐ O(n) <br>
 
-✅ CodeChef <br>
-    - 2⭐ Coder <br>
-    - Max(1595) Rating <br>
-    - Best Contest Rank Global Rank 202 <br>
-    - Global Rank 16736 <br>
-    - 100+ Problem Solved <br>
+🏆 CodeChef <br>
+    ⚪ Max(1595) Rating <br>
+    ⚪ 2⭐ Coder <br>
+    ⚪ Best Contest Rank Global Rank 202 <br>
+    ⚪ Global Rank 37470 <br>
+    ⚪ 80+ Problem Solved <br>
 
-✅ CodeForces <br>
-    - Rating Max(1308) Pupil<br>
-    - 80+ Problem Solved <br>
+🏆 CodeForces <br>
+    ⚪ Rating Max(1308) Pupil CodeForces <br>
+    ⚪ 80+ Problem Solved <br>
 
-✅ work@Tech <br>
-    - 1510 Score || 999 Rank || 40 Problem Solved <br>
+🏆 work@Tech <br>
+    ⚪ 1510 Score || 999 Rank || 40 Problem Solved <br>
 
-Other Achievement  <br>
-⭐ Thousand's of Students Guide for Placements || DSA || CP  || Development <br>
+🥇 Other Achievement 🥇 <br>
+
+⭐ Thousand's of Students Guide for Placements || DSA || CP || Development <br>
 ⭐ Top performer in College " Rank 1 " [Acadiemic & Coding ] <br>
 ⭐ 6M+ Views on LinkedIn <br>
+⭐ DSA & DEV Mentor on @TopMate ( Included in Top 1% ) <br>
 ⭐ 37K+ Followers on LinkedIn <br>
 
 </b>
