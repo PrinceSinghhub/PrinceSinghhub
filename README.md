@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm <b>Prince Singh</b></h1>
 <h2 align="center"><b>I'm a Passionate for Problem Solving and MERN Stack Developer from India 🦁</b></h2>
-<h4 align="center"><b>MERN Stack Developer 👨‍💻 || Problem Solving Enthusiast 🧠 || 600DaysOfCode+ on @LeetCode || 3.5⭐ LEETCODE || Max(1876) Rating Knight👑 Top 5% 🌍 || 600DaysOfCode Streak 🔥 || 6⭐ Problem Solving || Institute 1st🥇 Rank GFG || Global 13th🥇 Rank InterviewBit || Max(1854) Rating Master🌞 on CodeStudio || Amateur HackerEarth || 1500+ Problems Solved on DSA || DSA & DEV Mentor || HardCore DSA Lover ❤️ || 30K @LinkedIn & 4M+ 🔥 Views || 150 @GitHub & 10K+ 🔥 Views || 75DayHardPlacementChallenge 🔥</b>
+<h4 align="center"><b>MERN Stack Developer 👨‍💻 || Problem Solving Enthusiast 🧠 || 600DaysOfCode+ on @LeetCode || 3.5⭐ LEETCODE || Max(1876) Rating Knight👑 Top 5% 🌍 || 600DaysOfCode Streak 🔥 || 6⭐ Problem Solving || Institute 1st🥇 Rank GFG || Global 13th🥇 Rank InterviewBit || Max(1854) Rating Master🌞 on CodeStudio || Amateur HackerEarth || 1500+ Problems Solved on DSA || DSA & DEV Mentor || HardCore DSA Lover ❤️ || 37K @LinkedIn & 6M+ 🔥 Views || 200 @GitHub & 10K+ 🔥 Views || 75DayHardPlacementChallenge 🔥</b>
 </b></h4> 
 
 
@@ -111,8 +111,8 @@ Ability to quickly Learn and Master a new skill and to implement it to solve a r
 Other Achievement  <br>
 ⭐ Thousand's of Students Guide for Placements || DSA || CP  || Development <br>
 ⭐ Top performer in College " Rank 1 " [Acadiemic & Coding ] <br>
-⭐ 5M+ Views on LinkedIn <br>
-⭐ 34K+ Followers on LinkedIn <br>
+⭐ 6M+ Views on LinkedIn <br>
+⭐ 37K+ Followers on LinkedIn <br>
 
 </b>
 
@@ -142,7 +142,7 @@ Other Achievement  <br>
 </p>
 
 
-## 📝 PROJECT's ZONE (Working on 20+ Persional Projects)
+## 📝 PROJECT's ZONE (Working on 30+ Persional Projects)
 
 🌐  MyCodingProfiles [**🔗**](https://github.com/PrinceSinghhub/MyCodingProfiles) 🌐 Shorting Algorithm Website [**🔗**](https://sortingalgorithmswebsite.netlify.app/)🌐  MYWebResume [**🔗**](https://github.com/PrinceSinghhub/MYWebResume)  <br> 
 🌐 Animated My DSA Profiles Circle [**🔗**](https://mydsacircle.netlify.app/) 🌐  ADVANCED-BINARY-CALCULATOR [**🔗**](https://github.com/PrinceSinghhub/ADVANCED-BINARY-CALCULATOR) 🌐 ChessBoard [**🔗**](https://mychessbord.netlify.app/) <br>
@@ -153,7 +153,9 @@ Other Achievement  <br>
 🌐 Increment Decrement Calculator [**🔗**](https://incrementdecrementoperator.netlify.app/) 🌐 Share Modal [**🔗**](https://dsamodal.netlify.app/) 🌐 ToDo-List-GUI-Python [**🔗**](https://github.com/PrinceSinghhub/ToDo-List-GUI-Python) <br>
 🌐 Tick-Tak-Too Game [**🔗**](https://github.com/PrinceSinghhub/Tick-Tak-Too-Game) 🌐 Portfolio [**🔗**](https://portfolioofprince.netlify.app/) 🌐 Modern DSA Profile Sharing [**🔗**](https://moderndsaprofilesharingpage.netlify.app/) <br> 🌐 Tick-Tack-Too Game using Dev [**🔗**](https://ticktacktoogame.netlify.app/) 🌐RazorpayClone WebSite [**🔗**](https://github.com/PrinceSinghhub/RazorpayClone-WebSite) 🌐 Discord Clone [**🔗**](https://github.com/PrinceSinghhub/Discord-Clone) <br> 🌐 DSAwithPrinceSingh [**🔗**](https://princesinghhub.github.io/DSAwithPrinceSingh/) 🌐 GitHub Profile Finder [**🔗**](https://check-your-github.netlify.app/)
 🌐 Check Weather App [**🔗**](https://check-today-weather.netlify.app/)<br> 
-🌐 CORESubjectsWithME [**🔗**](https://princesinghhub.github.io/CoreSubjectsWithMe/) 🌐CPU SCHEDULING ALGORITHM VISUALISER [**🔗**](https://github.com/PrinceSinghhub/CPU-SCHEDULING-ALGORITHM-VISUALISER) 🌐MeraCodeEditor [**🔗**](https://github.com/PrinceSinghhub/MeraCodeEditor)
+🌐 CORESubjectsWithME [**🔗**](https://princesinghhub.github.io/CoreSubjectsWithMe/) 🌐CPU SCHEDULING ALGORITHM VISUALISER [**🔗**](https://github.com/PrinceSinghhub/CPU-SCHEDULING-ALGORITHM-VISUALISER) 🌐MeraCodeEditor [**🔗**](https://github.com/PrinceSinghhub/MeraCodeEditor)<br> 
+🌐Cardiac Care With Virtual Cardiologist (CCVC) [**🔗**](https://github.com/PrinceSinghhub/Cardiac-Care-With-Virtual-Cardiologist-CCVC)
+
 <p align="center">
     <a href="https://https://github.com/PrinceSinghhub/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Prince Singh streak" src="https://github-readme-streak-stats.herokuapp.com/?user=PrinceSinghhub&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
