@@ -156,7 +156,8 @@ Ability to quickly Learn and Master a new skill and to implement it to solve a r
 🌐 Tick-Tak-Too Game [**🔗**](https://github.com/PrinceSinghhub/Tick-Tak-Too-Game) 🌐 Portfolio [**🔗**](https://portfolioofprince.netlify.app/) 🌐 Modern DSA Profile Sharing [**🔗**](https://moderndsaprofilesharingpage.netlify.app/) <br> 🌐 Tick-Tack-Too Game using Dev [**🔗**](https://ticktacktoogame.netlify.app/) 🌐RazorpayClone WebSite [**🔗**](https://github.com/PrinceSinghhub/RazorpayClone-WebSite) 🌐 Discord Clone [**🔗**](https://github.com/PrinceSinghhub/Discord-Clone) <br> 🌐 DSAwithPrinceSingh [**🔗**](https://princesinghhub.github.io/DSAwithPrinceSingh/) 🌐 GitHub Profile Finder [**🔗**](https://check-your-github.netlify.app/)
 🌐 Check Weather App [**🔗**](https://check-today-weather.netlify.app/)<br> 
 🌐 CORESubjectsWithME [**🔗**](https://princesinghhub.github.io/CoreSubjectsWithMe/) 🌐CPU SCHEDULING ALGORITHM VISUALISER [**🔗**](https://github.com/PrinceSinghhub/CPU-SCHEDULING-ALGORITHM-VISUALISER) 🌐MeraCodeEditor [**🔗**](https://github.com/PrinceSinghhub/MeraCodeEditor)<br> 
-🌐Cardiac Care With Virtual Cardiologist (CCVC) [**🔗**](https://github.com/PrinceSinghhub/Cardiac-Care-With-Virtual-Cardiologist-CCVC)
+🌐Cardiac Care With Virtual Cardiologist (CCVC) [**🔗**](https://github.com/PrinceSinghhub/Cardiac-Care-With-Virtual-Cardiologist-CCVC) 🌐75DaysHardPlacementChallenge [**🔗**](https://github.com/PrinceSinghhub/Cardiac-Care-With-Virtual-Cardiologist-CCVC)
+
 
 <p align="center">
     <a href="https://https://github.com/PrinceSinghhub/github-readme-streak-stats">
