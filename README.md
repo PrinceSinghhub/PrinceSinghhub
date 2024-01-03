@@ -44,79 +44,39 @@ Ability to quickly Learn and Master a new skill and to implement it to solve a r
 
 </p> 
 
-## 🏆 Achievements
+## ⭐ Summarized My All Achievements 🎉
 
-#### 🎯 Data Structures & Algorithms 🎯
-<b>💥 I have Solved Thousand of DSA Problems on, Different-Different Coding Platforms.  <br>
-💥 75DaysHardPlacementChallenge  <br>
-💥 600DaysOfCode+ on @LeetCode  <br>
-💥 365DaysOfCode+ on @InterviewBi𝐭  <br>
-💥 600DaysOfCode+ on @CodeStudio  <br>
-💥 400DaysOfCode+ on @GeeksForGeeks  <br>
+| 🎯 Data Structures & Algorithms 🎯 | 🥇 Other Achievement 🥇 |
+|------------------------------------|----------------------------------------|
+| 💥 75DaysHardPlacementChallenge  | ⭐ Thousand's of Students Guide for Placements and DSA and CP and Development | 
+| 💥 600DaysOfCode+ on @LeetCode  | ⭐ Top performer in College " Rank 1 " [Acadiemic & Coding ] |
+| 💥 365DaysOfCode+ on @InterviewBit | ⭐ 7M+ Views on LinkedIn |
+| 💥 600DaysOfCode+ on @CodeStudio | ⭐ DSA & DEV Mentor on @TopMate ( Included in Top 1% ) |
+| 💥 400DaysOfCode+ on @GeeksForGeeks | ⭐ 37K+ Followers on LinkedIn |
 
-🏆 LeetCode <br>
-    ⚪ 1000+ Problems Solved
-    ⚪ 3.5⭐ Star || Max Rating 1464 <br>
-    ⚪ Under In the Top 55% <br>
-    ⚪ Under 9K Rank. <br>
+## DSA 🏆 Achievements
+### <b>💥 I have Solved Thousand of DSA Problems on, Different-Different Coding Platforms </b>
 
-🏆 LeetCode [ Second Profile ] <br>
-    ⚪ 200+ Problems Solved <br>
-    ⚪ 2⭐ Star || Max Rating 1876 <br>
-    ⚪ Under In the Top 5% Knight👑 <br>
+| 🏆 LeetCode                         | 🏆 LeetCode [ Second Profile ]       | 🏆  GeeksForGeeks                      |
+|------------------------------------|----------------------------------------|----------------------------------------|
+| ⚪ 1100+ Problems Solved           | ⚪ 400+ Problems Solved         | ⚪ 1200+ Problems Solved |
+| ⚪ 3.5⭐ Star and Max Rating 1464  | ⚪ 2⭐ Star and Max Rating 1876 | ⚪ Global Rank 115. and Under 100 Monthly Rank |
+| ⚪ Under In the Top 55%            | ⚪ Under In the Top 5% Knight👑. | ⚪ Institute Rank 1 |
+| ⚪ Under 9K Rank                   | ⚪ Best Contest Rank Under 1K | ⚪ 3400+ Coding Score |
 
-🏆  GeeksForGeeks <br>
-    ⚪ 1200+ Problems Solved <br>
-    ⚪ Global Rank 115. and Under 100 Monthly Rank <br>
-    ⚪ Institute Rank 1 <br>
-    ⚪ 3400+ Coding Score <br>
+| 🏆 CodeStudio                      | 🏆 InterviewBit     | 🏆 HackerRank and 🏆 HackerEarth                      |
+|------------------------------------|----------------------------------------|----------------------------------------|
+ | ⚪ 2000+ Problems Solved |  ⚪ 560+ Problems Solved | ⚪ 300+ Problems Solved |
+ | ⚪ Institute Rank 1. with Level 8 Master | ⚪ Global Rank 13  | ⚪ 6⭐ in Problem Solving |
+ | ⚪ Including in 0.5% Coder on @CodeStudio |  ⚪ 119000+ Coding Score| ⚪ 5⭐ in Python and 5⭐ in Java and 5⭐in Days of Code |
+ | ⚪ Rating Max(1854) | | ⚪ 5⭐ in JS and 5⭐ in Statistics and 2⭐ in SQL  |
+ | ⚪ Top Performer on Leader Board | | ⚪ 30+ Problem Solved and 5⭐ in Python and 3⭐ O(n) |
+ | ⚪ 90000+ Coding Score | | ⚪ 630+ Points in Contest and Level Amateur |
 
-🏆 CodeStudio <br>
-    ⚪ 2000+ Problems Solved <br>
-    ⚪ Institute Rank 1. with Level 8 Master <br>
-    ⚪ Including in 0.5% Coder on @CodeStudio <br>
-    ⚪ Rating Max(1854) <br>
-    ⚪ Top Performer on Leader Board <br>
-    ⚪ 90000+ Coding Score  <br>
-
-🏆 InterviewBit <br>
-    ⚪ 560+ Problems Solved <br>
-    ⚪ Global Rank 13 <br>
-    ⚪ 119000+ Coding Score  <br>
-
-🏆 HackerRank <br>
-    ⚪ 300+ Problems Solved <br>
-    ⚪ 6⭐ in Problem Solving <br>
-    ⚪ 5⭐ in Python || 5⭐ in Java || 5⭐in Days of Code || 5⭐ in JS || 5⭐ in Statistics || 2⭐ in SQL <br>
-
-🏆 HackerEarth <br>
-    ⚪ 30+ Problem Solved <br>
-    ⚪ 630+ Points in Contest and Level Amateur <br>
-    ⚪ 5⭐ in Python || 3⭐ O(n) <br>
-
-🏆 CodeChef <br>
-    ⚪ Max(1595) Rating <br>
-    ⚪ 2⭐ Coder <br>
-    ⚪ Best Contest Rank Global Rank 202 <br>
-    ⚪ Global Rank 37470 <br>
-    ⚪ 80+ Problem Solved <br>
-
-🏆 CodeForces <br>
-    ⚪ Rating Max(1308) Pupil CodeForces <br>
-    ⚪ 80+ Problem Solved <br>
-
-🏆 work@Tech <br>
-    ⚪ 1510 Score || 999 Rank || 40 Problem Solved <br>
-
-🥇 Other Achievement 🥇 <br>
-
-⭐ Thousand's of Students Guide for Placements || DSA || CP || Development <br>
-⭐ Top performer in College " Rank 1 " [Acadiemic & Coding ] <br>
-⭐ 6M+ Views on LinkedIn <br>
-⭐ DSA & DEV Mentor on @TopMate ( Included in Top 1% ) <br>
-⭐ 37K+ Followers on LinkedIn <br>
-
-</b>
+| 🏆 CodeChef                        | 🏆 CodeForces       | 🏆 work@Tech                     |
+|------------------------------------|----------------------------------------|----------------------------------------|
+| ⚪ 2⭐ Coder and  Max(1595) Rating and 80+ Problem Solved |  ⚪ Rating Max(1308) Pupil CodeForces | ⚪ 1510 Score and 999 Rank and 40 Problem Solved |
+| ⚪ Best Contest Rank Global Rank 202 and Global Rank 37470  | ⚪ 80+ Problem Solved | ⚪ Best Global Rank Under 1K 🚀|
 
 ## 🚀 Languages and Tools:
 
@@ -146,19 +106,20 @@ Ability to quickly Learn and Master a new skill and to implement it to solve a r
 
 ## 📝 PROJECT's ZONE (Working on 30+ Persional Projects)
 
-🌐  MyCodingProfiles [**🔗**](https://github.com/PrinceSinghhub/MyCodingProfiles) 🌐 Shorting Algorithm Website [**🔗**](https://sortingalgorithmswebsite.netlify.app/)🌐  MYWebResume [**🔗**](https://github.com/PrinceSinghhub/MYWebResume)  <br> 
-🌐 Animated My DSA Profiles Circle [**🔗**](https://mydsacircle.netlify.app/) 🌐  ADVANCED-BINARY-CALCULATOR [**🔗**](https://github.com/PrinceSinghhub/ADVANCED-BINARY-CALCULATOR) 🌐 ChessBoard [**🔗**](https://mychessbord.netlify.app/) <br>
-🌐  MY-AI-ASSISTANT [**🔗**](https://github.com/PrinceSinghhub/MY-AI-ASSISTANT) 🌐 My Resume Clone [**🔗**](https://princesinghresume.netlify.app/)
-🌐  Sorting-Algorithms-With-GUI [**🔗**](https://github.com/PrinceSinghhub/Sorting-Algorithms-With-GUI) <br>
-🌐  MyCertificatesGallary [**🔗**](https://mycertificatesgallary.netlify.app/)
-🌐  Get-System-Information [**🔗**](https://github.com/PrinceSinghhub/Get-System-Information) 🌐 My DSA Journey WebSite  [**🔗**](https://dsajourneyofprincesingh.netlify.app/) <br>
-🌐 Increment Decrement Calculator [**🔗**](https://incrementdecrementoperator.netlify.app/) 🌐 Share Modal [**🔗**](https://dsamodal.netlify.app/) 🌐 ToDo-List-GUI-Python [**🔗**](https://github.com/PrinceSinghhub/ToDo-List-GUI-Python) <br>
-🌐 Tick-Tak-Too Game [**🔗**](https://github.com/PrinceSinghhub/Tick-Tak-Too-Game) 🌐 Portfolio [**🔗**](https://portfolioofprince.netlify.app/) 🌐 Modern DSA Profile Sharing [**🔗**](https://moderndsaprofilesharingpage.netlify.app/) <br> 🌐 Tick-Tack-Too Game using Dev [**🔗**](https://ticktacktoogame.netlify.app/) 🌐RazorpayClone WebSite [**🔗**](https://github.com/PrinceSinghhub/RazorpayClone-WebSite) 🌐 Discord Clone [**🔗**](https://github.com/PrinceSinghhub/Discord-Clone) <br> 🌐 DSAwithPrinceSingh [**🔗**](https://princesinghhub.github.io/DSAwithPrinceSingh/) 🌐 GitHub Profile Finder [**🔗**](https://check-your-github.netlify.app/)
-🌐 Check Weather App [**🔗**](https://check-today-weather.netlify.app/)<br> 
-🌐 CORESubjectsWithME [**🔗**](https://princesinghhub.github.io/CoreSubjectsWithMe/) 🌐CPU SCHEDULING ALGORITHM VISUALISER [**🔗**](https://github.com/PrinceSinghhub/CPU-SCHEDULING-ALGORITHM-VISUALISER) 🌐MeraCodeEditor [**🔗**](https://github.com/PrinceSinghhub/MeraCodeEditor)<br> 
-🌐Cardiac Care With Virtual Cardiologist (CCVC) [**🔗**](https://github.com/PrinceSinghhub/Cardiac-Care-With-Virtual-Cardiologist-CCVC) 🌐75DaysHardPlacementChallenge [**🔗**](https://princesinghhub.github.io/75DaysHardPlacementChallenge/)
+| 🏆 LeetCode                         | 🏆 LeetCode [ Second Profile ]       | 🏆  GeeksForGeeks                      | 
+|------------------------------------|----------------------------------------|----------------------------------------|
+| 🌐  MyCodingProfiles [**🔗**](https://github.com/PrinceSinghhub/MyCodingProfiles) | 🌐 Shorting Algorithm Website [**🔗**](https://sortingalgorithmswebsite.netlify.app/) | 🌐  MYWebResume [**🔗**](https://github.com/PrinceSinghhub/MYWebResume)  | 
+| 🌐 Animated My DSA Profiles Circle [**🔗**](https://mydsacircle.netlify.app/) | 🌐 ADVANCED-BINARY-CALCULATOR [**🔗**](https://github.com/PrinceSinghhub/ADVANCED-BINARY-CALCULATOR) | 🌐 ChessBoard [**🔗**](https://mychessbord.netlify.app/) | 
+| 🌐 MY-AI-ASSISTANT [**🔗**](https://github.com/PrinceSinghhub/MY-AI-ASSISTANT) | 🌐 My Resume Clone [**🔗**](https://princesinghresume.netlify.app/) | 🌐 Sorting-Algorithms-With-GUI [**🔗**](https://github.com/PrinceSinghhub/Sorting-Algorithms-With-GUI) |
+| 🌐 MyCertificatesGallary [**🔗**](https://mycertificatesgallary.netlify.app/) | 🌐 Get-System-Information [**🔗**](https://github.com/PrinceSinghhub/Get-System-Information) | 🌐 My DSA Journey WebSite  [**🔗**](https://dsajourneyofprincesingh.netlify.app/) |
+| 🌐 Increment Decrement Calculator [**🔗**](https://incrementdecrementoperator.netlify.app/) | 🌐 Share Modal [**🔗**](https://dsamodal.netlify.app/) | 🌐 ToDo-List-GUI-Python [**🔗**](https://github.com/PrinceSinghhub/ToDo-List-GUI-Python) |
+| 🌐 Tick-Tak-Too Game [**🔗**](https://github.com/PrinceSinghhub/Tick-Tak-Too-Game) | 🌐 Portfolio [**🔗**](https://portfolioofprince.netlify.app/) | 🌐 Modern DSA Profile Sharing [**🔗**](https://moderndsaprofilesharingpage.netlify.app/) |
+| 🌐 Tick-Tack-Too Game using Dev [**🔗**](https://ticktacktoogame.netlify.app/) | 🌐RazorpayClone WebSite [**🔗**](https://github.com/PrinceSinghhub/RazorpayClone-WebSite) | 
+🌐 Discord Clone [**🔗**](https://github.com/PrinceSinghhub/Discord-Clone) | 🌐 DSAwithPrinceSingh [**🔗**](https://princesinghhub.github.io/DSAwithPrinceSingh/) | 🌐 GitHub Profile Finder [**🔗**](https://check-your-github.netlify.app/) | 
+| 🌐 Check Weather App [**🔗**](https://check-today-weather.netlify.app/) | 🌐 CORESubjectsWithME [**🔗**](https://princesinghhub.github.io/CoreSubjectsWithMe/) | 🌐CPU SCHEDULING ALGORITHM VISUALISER [**🔗**](https://github.com/PrinceSinghhub/CPU-SCHEDULING-ALGORITHM-VISUALISER) | 
+| 🌐MeraCodeEditor [**🔗**](https://github.com/PrinceSinghhub/MeraCodeEditor) | 🌐Cardiac Care With Virtual Cardiologist (CCVC) [**🔗**](https://github.com/PrinceSinghhub/Cardiac-Care-With-Virtual-Cardiologist-CCVC) |  🌐75DaysHardPlacementChallenge [**🔗**](https://princesinghhub.github.io/75DaysHardPlacementChallenge/) |
 
-
+<br>
 <p align="center">
     <a href="https://https://github.com/PrinceSinghhub/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Prince Singh streak" src="https://github-readme-streak-stats.herokuapp.com/?user=PrinceSinghhub&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
