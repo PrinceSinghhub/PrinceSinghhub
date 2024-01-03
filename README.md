@@ -46,13 +46,13 @@ Ability to quickly Learn and Master a new skill and to implement it to solve a r
 
 ## ⭐ Summarized My All Achievements 🎉
 
-| 🎯 Data Structures & Algorithms 🎯 | 🥇 Other Achievement 🥇 |
+| 🎯 My Prepration Challenge's 🎯 | 🥇 Other Achievement 🥇 |
 |------------------------------------|----------------------------------------|
 | 💥 75DaysHardPlacementChallenge  | ⭐ Thousand's of Students Guide for Placements and DSA and CP and Development | 
 | 💥 700DaysOfCode+ on @LeetCode  | ⭐ Top performer in College " Rank 1 " [Acadiemic & Coding ] |
-| 💥 365DaysOfCode+ on @InterviewBit | ⭐ 7M+ Views on LinkedIn |
-| 💥 600DaysOfCode+ on @CodeStudio | ⭐ DSA & DEV Mentor on @TopMate ( Included in Top 1% ) |
-| 💥 400DaysOfCode+ on @GeeksForGeeks | ⭐ 38K+ Followers on LinkedIn |
+| 💥 365DaysOfCode+ on @InterviewBit |  ⭐ DSA & DEV Highe Rated Mentor on @TopMate ( Included in Top 1% ) |
+| 💥 600DaysOfCode+ on @CodeStudio | ⭐ 38K+ Followers on LinkedIn |
+| 💥 400DaysOfCode+ on @GeeksForGeeks | ⭐ 7M+ Views on LinkedIn |
 
 ## DSA 🏆 Achievements
 
@@ -108,7 +108,7 @@ I'm proud of my continuous growth and learning in the coding world. I am looking
 
 ## 📝 PROJECT's ZONE (Working on 30+ Persional Projects)
 
-| 🏆 LeetCode                         | 🏆 LeetCode [ Second Profile ]       |
+| Project Row I                        | Project Row II      |
 |------------------------------------|----------------------------------------|
 | 🌐  MyCodingProfiles [**🔗**](https://github.com/PrinceSinghhub/MyCodingProfiles) | 🌐 Shorting Algorithm Website [**🔗**](https://sortingalgorithmswebsite.netlify.app/) | 
 | 🌐  MYWebResume [**🔗**](https://github.com/PrinceSinghhub/MYWebResume) | 🌐 Animated My DSA Profiles Circle [**🔗**](https://mydsacircle.netlify.app/) | 
