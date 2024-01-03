@@ -49,34 +49,36 @@ Ability to quickly Learn and Master a new skill and to implement it to solve a r
 | 🎯 Data Structures & Algorithms 🎯 | 🥇 Other Achievement 🥇 |
 |------------------------------------|----------------------------------------|
 | 💥 75DaysHardPlacementChallenge  | ⭐ Thousand's of Students Guide for Placements and DSA and CP and Development | 
-| 💥 600DaysOfCode+ on @LeetCode  | ⭐ Top performer in College " Rank 1 " [Acadiemic & Coding ] |
+| 💥 700DaysOfCode+ on @LeetCode  | ⭐ Top performer in College " Rank 1 " [Acadiemic & Coding ] |
 | 💥 365DaysOfCode+ on @InterviewBit | ⭐ 7M+ Views on LinkedIn |
 | 💥 600DaysOfCode+ on @CodeStudio | ⭐ DSA & DEV Mentor on @TopMate ( Included in Top 1% ) |
-| 💥 400DaysOfCode+ on @GeeksForGeeks | ⭐ 37K+ Followers on LinkedIn |
+| 💥 400DaysOfCode+ on @GeeksForGeeks | ⭐ 38K+ Followers on LinkedIn |
 
 ## DSA 🏆 Achievements
-### <b>💥 I have Solved Thousand of DSA Problems on, Different-Different Coding Platforms </b>
 
-| 🏆 LeetCode                         | 🏆 LeetCode [ Second Profile ]       | 🏆  GeeksForGeeks                      |
-|------------------------------------|----------------------------------------|----------------------------------------|
-| ⚪ 1100+ Problems Solved           | ⚪ 400+ Problems Solved         | ⚪ 1200+ Problems Solved |
-| ⚪ 3.5⭐ Star and Max Rating 1464  | ⚪ 2⭐ Star and Max Rating 1876 | ⚪ Global Rank 115. and Under 100 Monthly Rank |
-| ⚪ Under In the Top 55%            | ⚪ Under In the Top 5% Knight👑. | ⚪ Institute Rank 1 |
-| ⚪ Under 9K Rank                   | ⚪ Best Contest Rank Under 1K | ⚪ 3400+ Coding Score |
+🚀 Excited to Share My Coding Journey and Accomplishments! 🚀
 
-| 🏆 CodeStudio                      | 🏆 InterviewBit     | 🏆 HackerRank and 🏆 HackerEarth                      |
-|------------------------------------|----------------------------------------|----------------------------------------|
- | ⚪ 2000+ Problems Solved |  ⚪ 560+ Problems Solved | ⚪ 300+ Problems Solved |
- | ⚪ Institute Rank 1. with Level 8 Master | ⚪ Global Rank 13  | ⚪ 6⭐ in Problem Solving |
- | ⚪ Including in 0.5% Coder on @CodeStudio |  ⚪ 119000+ Coding Score| ⚪ 5⭐ in Python and 5⭐ in Java and 5⭐in Days of Code |
- | ⚪ Rating Max(1854) | | ⚪ 5⭐ in JS and 5⭐ in Statistics and 2⭐ in SQL  |
- | ⚪ Top Performer on Leader Board | | ⚪ 30+ Problem Solved and 5⭐ in Python and 3⭐ O(n) |
- | ⚪ 90000+ Coding Score | | ⚪ 630+ Points in Contest and Level Amateur |
+I'm thrilled to showcase my dedication and passion for problem-solving in the world of coding. Here's a snapshot of my achievements across various coding platforms and <b>💥 I have Solved Thousand of DSA Problems on, Different-Different Coding Platforms </b>
 
-| 🏆 CodeChef                        | 🏆 CodeForces       | 🏆 work@Tech                     |
-|------------------------------------|----------------------------------------|----------------------------------------|
-| ⚪ 2⭐ Coder and  Max(1595) Rating and 80+ Problem Solved |  ⚪ Rating Max(1308) Pupil CodeForces | ⚪ 1510 Score and 999 Rank and 40 Problem Solved |
-| ⚪ Best Contest Rank Global Rank 202 and Global Rank 37470  | ⚪ 80+ Problem Solved | ⚪ Best Global Rank Under 1K 🚀|
+**LeetCode and GeeksForGeeks 🏆**
+- Profile 1: 1100+ problems solved, 3.5⭐ with a max rating of 1464 and 40+ Badges 🥇.
+- Annual Awards 2022 and 2023 on LeetCode and Include Top 0.4% of the LeetCoders 🌐.
+- Profile 2: 400+ problems solved, 2⭐ with a max rating of 1876 and 10+Badges 🥇.
+- Annual Award 2023 and Include Top 4.2% of the LeetCoders 🌐.
+- GeeksForGeeks: 1200+ problems solved, Global Rank 115, and consistently under the top 100 monthly rank.
+
+**CodeStudio & InterviewBit & HackerRank & HackerEarth 🏆**
+- CodeStudio: 2000+ problems solved, including in the top 0.5% 🌟.
+- InterviewBit: 560+ problems solved, Global Rank 13, and a 6⭐ in Problem Solving 🌐.
+- HackerRank: 300+ problems solved, with a coding score of 119000+ 🚀.
+- HackerEarth: 5⭐ in Python, 5⭐ in Java, and 5⭐ in Days of Code 🌈.
+
+**CodeChef & CodeForces & work@Tech 🏆**
+- CodeChef: 2⭐ coder with a max rating of 1595 and 80+ problems solved.
+- CodeForces: Max rating of 1308, Pupil CodeForces, and a top global rank of 202 🌎.
+- work@Tech: 1510 score, 999 rank, and 40 problems solved, with the best global rank under 1K 🚀.
+
+I'm proud of my continuous growth and learning in the coding world. I am looking forward to more challenges and achievements ahead! 💻🚀
 
 ## 🚀 Languages and Tools:
 
