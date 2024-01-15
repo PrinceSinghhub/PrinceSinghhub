@@ -10,6 +10,7 @@
 
 ## 🙋‍♂️ About Me
 <a><img align="right" src="MyLCGoldBedge.gif" width="350" height="240" /></a>
+- Upcoming Junior SDE @CloudConduction
 - 🥋 I'm a very Passionate For Programming and Problem-Solving Enthusiast. I'm always ready to learn new things with Effective ideas. Hardcore DSA Lover ❤
 - 👨‍💻 Love to learn new technologies and to explore new sets of areas.
 - 📚 Founder @DSAwithPrinceSingh
