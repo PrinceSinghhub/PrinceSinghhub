@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm <b>Prince Singh</b></h1>
 <h2 align="center"><b>I'm a Passionate for Problem Solving and MERN Stack Developer from India 🦁</b></h2>
-<h4 align="center"><b>MERN Stack Developer 👨‍💻 || Founder @DSAwithPrinceSingh || Problem Solving Enthusiast 🧠 || 700DaysOfCode+ on @LeetCode || 3.5⭐ LEETCODE || Max(1876) Rating Knight👑 Top 5% 🌍 || 600DaysOfCode Streak 🔥 || 6⭐ Problem Solving || Institute 1st🥇 Rank GFG || Global 13th🥇 Rank InterviewBit || Max(1854) Rating Master🌞 on CodeStudio || Amateur HackerEarth || 1500+ Problems Solved on DSA || DSA & DEV Mentor || HardCore DSA Lover ❤️ || 38K @LinkedIn & 6M+ 🔥 Views || 250 @GitHub & 15K+ 🔥 Views || 75DayHardPlacementChallenge 🔥</b>   
+<h4 align="center"><b>MERN Stack Developer 👨‍💻 || Founder @DSAwithPrinceSingh || Problem Solving Enthusiast 🧠 || 700DaysOfCode+ on @LeetCode || 3.5⭐ LEETCODE || Max(1876) Rating Knight👑 Top 5% 🌍 || 700DaysOfCode Streak 🔥 || 6⭐ Problem Solving || Institute 1st🥇 Rank GFG || Global 13th🥇 Rank InterviewBit || Max(1854) Rating Master🌞 on CodeStudio || Amateur HackerEarth || 1500+ Problems Solved on DSA || DSA & DEV Mentor || HardCore DSA Lover ❤️ || 38K @LinkedIn & 6M+ 🔥 Views || 250 @GitHub & 15K+ 🔥 Views || 75DayHardPlacementChallenge 🔥</b>   
 </b></h4>  
   
 
