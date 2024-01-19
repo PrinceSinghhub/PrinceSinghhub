@@ -14,7 +14,7 @@
 - 🥋 I'm a very Passionate For Programming and Problem-Solving Enthusiast. I'm always ready to learn new things with Effective ideas. Hardcore DSA Lover ❤
 - 👨‍💻 Love to learn new technologies and to explore new sets of areas.
 - 📚 Founder @DSAwithPrinceSingh
-- 👁‍🗨 What's Special about me? <br>
+- 👁‍🗨 What's Special about me? <br> 
 Ability to quickly Learn and Master a new skill and to implement it to solve a realtime problem.
 - 📔 Live [**MyResume**](https://princesinghhub.github.io/MYWebResume/)
 - 🔥 [**My DSA and Development Skills**](https://linktr.ee/itsPrinceSingh)
