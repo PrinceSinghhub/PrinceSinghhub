@@ -52,8 +52,8 @@ Ability to quickly Learn and Master a new skill and to implement it to solve a r
 | 💥 75DaysHardPlacementChallenge  | ⭐ Thousand's of Students Guide for Placements and DSA and CP and Development | 
 | 💥 700DaysOfCode+ on @LeetCode  | ⭐ Top performer in College " Rank 1 " [Acadiemic & Coding ] |
 | 💥 365DaysOfCode+ on @InterviewBit |  ⭐ DSA & DEV Highe Rated Mentor on @TopMate ( Included in Top 1% ) |
-| 💥 600DaysOfCode+ on @CodeStudio | ⭐ 39K+ Followers on LinkedIn |
-| 💥 400DaysOfCode+ on @GeeksForGeeks | ⭐ 7M+ Views on LinkedIn |
+| 💥 700DaysOfCode+ on @CodeStudio | ⭐ 39K+ Followers on LinkedIn |
+| 💥 500DaysOfCode+ on @GeeksForGeeks | ⭐ 7M+ Views on LinkedIn |
 
 ## DSA 🏆 Achievements
 
@@ -64,12 +64,12 @@ I'm thrilled to showcase my dedication and passion for problem-solving in the wo
 **LeetCode and GeeksForGeeks 🏆**
 - Profile 1: 1100+ problems solved, 3.5⭐ with a max rating of 1464 and 40+ Badges 🥇.
 - Annual Awards 2022 and 2023 on LeetCode and Include Top 0.4% of the LeetCoders 🌐.
-- Profile 2: 400+ problems solved, 2⭐ with a max rating of 1876 and 10+Badges 🥇.
+- Profile 2: 400+ problems solved, 2⭐ with a max rating of 1876 and 10+Badges 🥇 with Knight 👑 Tag and Include in Top 5% Code in the World 🌎.
 - Annual Award 2023 and Include Top 4.2% of the LeetCoders 🌐.
-- GeeksForGeeks: 1200+ problems solved, Global Rank 115, and consistently under the top 100 monthly rank.
+- GeeksForGeeks: 1300+ problems solved, Global Rank 100 and Monthly Rank 99 with the Score of 4000+, and Instutie Rank 1🔥.
 
 **CodeStudio & InterviewBit & HackerRank & HackerEarth 🏆**
-- CodeStudio: 2000+ problems solved, including in the top 0.5% 🌟.
+- CodeStudio: 2000+ problems solved with 100000+ Coding Score, including in the top 0.5% 🌟.
 - InterviewBit: 560+ problems solved, Global Rank 13, and a 6⭐ in Problem Solving 🌐.
 - HackerRank: 300+ problems solved, with a coding score of 119000+ 🚀.
 - HackerEarth: 5⭐ in Python, 5⭐ in Java, and 5⭐ in Days of Code 🌈.
