@@ -1,8 +1,8 @@
 <img src="lkbn.png">                     
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm <b>Prince Singh</b></h1>
-<h2 align="center"><b>Junior SDE @CloudConduction & Cracked Remote Job As A Fresher 💯 and I'm a Passionate for Problem Solving and MERN Stack Developer from India 🦁</b></h2>
-<h4 align="center"><b>MERN Stack Developer 👨‍💻 || Founder @DSAwithPrinceSingh || Problem Solving Enthusiast 🧠 || 700DaysOfCode+ on @LeetCode || 3.5⭐ LEETCODE || Max(1876) Rating Knight👑 Top 5% 🌍 || 700DaysOfCode Streak 🔥 || 6⭐ Problem Solving || Institute 1st🥇 Rank GFG || Global 13th🥇 Rank InterviewBit || Max(1854) Rating Master🌞 on CodeStudio || Amateur HackerEarth || 1500+ Problems Solved on DSA || DSA & DEV Mentor || HardCore DSA Lover ❤️ || 39K @LinkedIn & 7M+ 🔥 Views || 250+ @GitHub & 16K+ 🔥 Views || 75DayHardPlacementChallenge 🔥</b>
+<h2 align="center"><b>Junior SDE @CloudConduction & Cracked Remote Job As A Fresher 💯 and Passionate About Crafting Efficient Code 🚀</b></h2>
+<h4 align="center"><b>Software Engineer 👨‍💻 | Building @DSAwithPrinceSingh | Problem Solving Enthusiast 🧠 | 700DaysOfCode+ on @LeetCode | 3.5⭐ LEETCODE | Max(1876) Rating Knight👑 Top 5% 🌍 | 700DaysOfCode Streak 🔥 | 6⭐ Problem Solving | Institute 1st🥇 Rank GFG | Global 13th🥇 Rank InterviewBit | Max(1854) Rating Master🌞 on CodeStudio | Amateur HackerEarth | 1500+ Problems Solved on DSA | DSA & DEV Mentor | HardCore DSA Lover ❤️ | 40K @LinkedIn & 7M+ 🔥 Views | 250+ @GitHub & 16K+ 🔥 Views | 75DayHardPlacementChallenge 🔥</b>
 </b></h4>   
   
 
@@ -20,8 +20,8 @@ Ability to quickly Learn and Master a new skill and to implement it to solve a r
 - 🔥 [**My DSA and Development Skills**](https://linktr.ee/itsPrinceSingh)
 - 📞 Book Your 1:1 Call with Me For **DSA & Development & Placement & Career Guidance** [**Link**](https://topmate.io/itsprincesingh)
 - 👨‍💻 Check My! [**CodingProfile**](https://princesinghhub.github.io/MyCodingProfiles/)
-- 🔭 I’m Currently Studying in **Final Year**
-- 📘 I’m Currently learning **𝐌𝐄𝐑𝐍 𝐒𝐭𝐚𝐜𝐤 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐦𝐞𝐧𝐭**
+- 📘 I’m Currently Studying **New New Tech Stack for Expanding My Skills set and Knowledge**
+  <!-- - 📘 I’m Currently learning **𝐌𝐄𝐑𝐍 𝐒𝐭𝐚𝐜𝐤 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐦𝐞𝐧𝐭** -->
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 - ⚡ For Fun **Games, Rosting, Mems, HipHop**
 - 📫 How to reach me **princesingh.cse.2020@gmail.com**
