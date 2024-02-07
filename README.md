@@ -10,7 +10,7 @@
 
 ## 🙋‍♂️ About Me
 <a><img align="right" src="MyLCGoldBedge.gif" width="350" height="240" /></a>
--  <b>📺 YouTube [**Amazing Things Coming Soon.....**](https://www.youtube.com/@PrinceSinghCSE)</b>
+-  <b>📺 YouTube [**Once We reach 1K subscribers on YouTube, you'll see amazing things dropping soon. Support us! Plan something different and unique**](https://www.youtube.com/@PrinceSinghCSE)</b>
 -  Junior SDE @CloudConduction & <b>Cracked Remote Job As A Fresher 💯</b>
 - 🥋 I'm a very Passionate For Programming and Problem-Solving Enthusiast. I'm always ready to learn new things with Effective ideas. Hardcore DSA Lover ❤
 - 👨‍💻 Love to learn new technologies and to explore new sets of areas.
