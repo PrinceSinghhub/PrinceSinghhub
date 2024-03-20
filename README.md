@@ -10,7 +10,6 @@
 
 ## 🙋‍♂️ About Me
 <a><img align="right" src="MyLCGoldBedge.gif" width="350" height="240" /></a>
--  <b>📺 YouTube [**YouTube**](https://www.youtube.com/@PrinceSinghCSE)</b>
 -  Junior SDE @CloudConduction & <b>Cracked Remote Job As A Fresher 💯</b>
 - 🥋 I'm a very Passionate For Programming and Problem-Solving Enthusiast. I'm always ready to learn new things with Effective ideas. Hardcore DSA Lover ❤
 - 👨‍💻 Love to learn new technologies and to explore new sets of areas.
@@ -26,6 +25,7 @@ Ability to quickly Learn and Master a new skill and to implement it to solve a r
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 - ⚡ For Fun **Games, Rosting, Mems, HipHop**
 - 📫 How to reach me **princesingh.cse.2020@gmail.com**
+- <b>📺 YouTube [**@PrinceSinghCSE**](https://www.youtube.com/@PrinceSinghCSE)</b>
 - 🔗 Connect Me on [**Linkedin**](https://www.linkedin.com/in/prince-singh-314a65187/)
 - 🔗 Connect Me on [**Twitter**](https://twitter.com/NowPrinceSingh)
 <!-- - 📖 Learn [**DSAwithPrinceSingh**](https://princesinghhub.github.io/DSAwithPrinceSingh/) -->
