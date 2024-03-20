@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm <b>Prince Singh</b></h1>
 <h2 align="center"><b>Junior SDE @CloudConduction & Cracked Remote Job As A Fresher 💯 and Passionate About Crafting Efficient Code 🚀</b></h2> 
-<h4 align="center"><b>Software Engineer 👨‍💻 | Building @DSAwithPrinceSingh | Problem Solving Enthusiast 🧠 | 700DaysOfCode+ on @LeetCode | 3.5⭐ LEETCODE | Max(1876) Rating Knight👑 Top 5% 🌍 | 700DaysOfCode Streak 🔥 | 6⭐ Problem Solving | Institute 1st🥇 Rank GFG | Global 13th🥇 Rank InterviewBit | Max(1854) Rating Master🌞 on CodeStudio | Amateur HackerEarth | 1500+ Problems Solved on DSA | DSA & DEV Mentor | HardCore DSA Lover ❤️ | 40K @LinkedIn & 7M+ 🔥 Views | 250+ @GitHub & 16K+ 🔥 Views | 75DayHardPlacementChallenge 🔥</b>
+<h4 align="center"><b>Software Engineer 👨‍💻 | Building @DSAwithPrinceSingh | Problem Solving Enthusiast 🧠 | 800DaysOfCode+ on @LeetCode | 3.5⭐ LEETCODE | Max(1876) Rating Knight👑 Top 5% 🌍 | 800DaysOfCode Streak 🔥 | 6⭐ Problem Solving | Institute 1st🥇 Rank GFG | Global 13th🥇 Rank InterviewBit | Max(1854) Rating Master🌞 on CodeStudio | Amateur HackerEarth | 1500+ Problems Solved on DSA | DSA & DEV Mentor | HardCore DSA Lover ❤️ | 40K @LinkedIn & 7M+ 🔥 Views | 360+ @GitHub & 22K+ 🔥 Views | 75DayHardPlacementChallenge 🔥</b>
 </b></h4>   
    
 
@@ -10,7 +10,7 @@
 
 ## 🙋‍♂️ About Me
 <a><img align="right" src="MyLCGoldBedge.gif" width="350" height="240" /></a>
--  <b>📺 YouTube [**Once We reach 1K subscribers on YouTube, you'll see amazing things dropping soon. Support us! Plan something different and unique**](https://www.youtube.com/@PrinceSinghCSE)</b>
+-  <b>📺 YouTube [**YouTube**](https://www.youtube.com/@PrinceSinghCSE)</b>
 -  Junior SDE @CloudConduction & <b>Cracked Remote Job As A Fresher 💯</b>
 - 🥋 I'm a very Passionate For Programming and Problem-Solving Enthusiast. I'm always ready to learn new things with Effective ideas. Hardcore DSA Lover ❤
 - 👨‍💻 Love to learn new technologies and to explore new sets of areas.
@@ -51,10 +51,10 @@ Ability to quickly Learn and Master a new skill and to implement it to solve a r
 | 🎯 My Prepration Challenge's 🎯 | 🥇 Other Achievement 🥇 |
 |------------------------------------|----------------------------------------|
 | 💥 75DaysHardPlacementChallenge  | ⭐ Thousand's of Students Guide for Placements and DSA and CP and Development | 
-| 💥 700DaysOfCode+ on @LeetCode  | ⭐ Top performer in College " Rank 1 " [Acadiemic & Coding ] |
+| 💥 800DaysOfCode+ on @LeetCode  | ⭐ Top performer in College " Rank 1 " [Acadiemic & Coding ] |
 | 💥 365DaysOfCode+ on @InterviewBit |  ⭐ DSA & DEV Highe Rated Mentor on @TopMate ( Included in Top 1% ) |
-| 💥 700DaysOfCode+ on @CodeStudio | ⭐ 39K+ Followers on LinkedIn |
-| 💥 500DaysOfCode+ on @GeeksForGeeks | ⭐ 7M+ Views on LinkedIn |
+| 💥 700DaysOfCode+ on @CodeStudio | ⭐ 46K+ Followers on LinkedIn |
+| 💥 500DaysOfCode+ on @GeeksForGeeks | ⭐ 8M+ Views on LinkedIn |
 
 ## DSA 🏆 Achievements
 
