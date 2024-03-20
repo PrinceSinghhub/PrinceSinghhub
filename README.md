@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm <b>Prince Singh</b></h1>
 <h2 align="center"><b>Junior SDE @CloudConduction & Cracked Remote Job As A Fresher 💯 and Passionate About Crafting Efficient Code 🚀</b></h2> 
-<h4 align="center"><b>Software Engineer 👨‍💻 | Building @DSAwithPrinceSingh | Problem Solving Enthusiast 🧠 | 800DaysOfCode+ on @LeetCode | 3.5⭐ LEETCODE | Max(1876) Rating Knight👑 Top 5% 🌍 | 800DaysOfCode Streak 🔥 | 6⭐ Problem Solving | Institute 1st🥇 Rank GFG | Global 13th🥇 Rank InterviewBit | Max(1854) Rating Master🌞 on CodeStudio | Amateur HackerEarth | 1500+ Problems Solved on DSA | DSA & DEV Mentor | HardCore DSA Lover ❤️ | 40K @LinkedIn & 7M+ 🔥 Views | 360+ @GitHub & 22K+ 🔥 Views | 75DayHardPlacementChallenge 🔥</b>
+<h4 align="center"><b>Software Engineer 👨‍💻 | Building @DSAwithPrinceSingh | Problem Solving Enthusiast 🧠 | 800DaysOfCode+ on @LeetCode | 3.5⭐ LEETCODE | Max(1876) Rating Knight👑 Top 5% 🌍 | 800DaysOfCode Streak 🔥 | 6⭐ Problem Solving | Institute 1st🥇 Rank GFG | Global 13th🥇 Rank InterviewBit | Max(1854) Rating Master🌞 on CodeStudio | Amateur HackerEarth | 1500+ Problems Solved on DSA | DSA & DEV Mentor | HardCore DSA Lover ❤️ | 46K @LinkedIn & 8M+ 🔥 Views | 360+ @GitHub & 22K+ 🔥 Views | 75DayHardPlacementChallenge 🔥</b>
 </b></h4>   
    
 
