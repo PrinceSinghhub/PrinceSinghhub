@@ -4,6 +4,31 @@
 <h2 align="center"><b>Junior SDE @CloudConduction & Cracked Remote Job As A Fresher 💯 and Passionate About Crafting Efficient Code 🚀</b></h2> 
 <h4 align="center"><b>Software Engineer 👨‍💻 | Building @DSAwithPrinceSingh | Problem Solving Enthusiast 🧠 | 800DaysOfCode+ on @LeetCode | 3.5⭐ LEETCODE | Max(1876) Rating Knight👑 Top 5% 🌍 | 800DaysOfCode Streak 🔥 | 6⭐ Problem Solving | Institute 1st🥇 Rank GFG | Global 13th🥇 Rank InterviewBit | Max(1854) Rating Master🌞 on CodeStudio | Amateur HackerEarth | 1500+ Problems Solved on DSA | DSA & DEV Mentor | HardCore DSA Lover ❤️ | 46K @LinkedIn & 8M+ 🔥 Views | 360+ @GitHub & 22K+ 🔥 Views | 75DayHardPlacementChallenge 🔥</b>
 </b></h4>   
+
+<p align="center">
+    <a href="https://www.youtube.com/PrinceSinghCSE" target="_blank">
+  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Prince Singh" />
+ </a> 
+ <a href="https://www.linkedin.com/in/prince-singh-314a65187/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Prince Singh"/>
+ </a>
+ <a href="https://github.com/PrinceSinghhub" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="PrinceSinghhub" />
+ </a>
+ <a href="https://twitter.com/NowPrinceSingh" target="_blank">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+ </a>
+ <a href="https://www.instagram.com/princesinghcse" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="Prince Singh" />
+ </a> 
+    <a href="https://topmate.io/itsprincesingh" target="blank">
+  <img src="https://img.shields.io/badge/Topmate-009933?style=for-the-badge&logo=appveyor&logoColor=white" alt="Topmate" />
+ </a>
+   <a href="mailto:princesingh.cse.2020@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Prince Singh" />
+ </a> 
+</p>
+
    
 
 <!-- <img align="right" alt="Coding" width="400" src="bn.gif"> -->
@@ -25,11 +50,6 @@ Ability to quickly Learn and Master a new skill and to implement it to solve a r
   <!-- - 📘 I’m Currently learning **𝐌𝐄𝐑𝐍 𝐒𝐭𝐚𝐜𝐤 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐦𝐞𝐧𝐭** -->
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 - ⚡ For Fun **Games, Rosting, Mems, HipHop**
-- 📫 How to reach me **princesingh.cse.2020@gmail.com**
-- <b>📺 YouTube 2K+ [**@PrinceSinghCSE**](https://www.youtube.com/@PrinceSinghCSE)</b>
-- 🔗 Connect Me on **49K+ Community on** [**Linkedin**](https://www.linkedin.com/in/prince-singh-314a65187/)
-- 🔗 Connect Me on **2K+ Community on** [**Twitter**](https://twitter.com/NowPrinceSingh)
-- 🔗 Connect Me on **8K+ Community on** [**Instagram**](https://www.instagram.com/princesinghcse)
 <!-- - 📖 Learn [**DSAwithPrinceSingh**](https://princesinghhub.github.io/DSAwithPrinceSingh/) -->
 
 
@@ -131,7 +151,51 @@ I'm thrilled to showcase my dedication and passion for problem-solving in the wo
 
 I'm proud of my continuous growth and learning in the coding world. I am looking forward to more challenges and achievements ahead! 💻🚀
 
-## 🚀 Languages and Tools:
+
+## 💻Use To Code
+
+![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
+![Typescript](https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)
+![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)
+![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Nodejs](https://img.shields.io/badge/Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-lightgrey?logo=mysql&style=for-the-badge&logoColor=white&labelColor=blue)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS5](https://img.shields.io/badge/CSS5-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-092749?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4&labelColor=000000)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![React Query](https://img.shields.io/badge/-React_Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white)
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![API](https://img.shields.io/badge/API-008000?style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![Visual Studio Code Professional](https://img.shields.io/badge/VS_Code_Professional-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=github&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Travis CI](https://img.shields.io/badge/Travis_CI-3EAAAF?style=for-the-badge&logo=travis-ci&logoColor=white)
+![CircleCI](https://img.shields.io/badge/CircleCI-343434?style=for-the-badge&logo=circleci&logoColor=white)
+![GitLab CI/CD](https://img.shields.io/badge/GitLab_CI%2FCD-FCA121?style=for-the-badge&logo=gitlab&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+<!-- ## 🚀 Languages and Tools:
 
 <p align="left"> 
     <a href="#"> <img src="https://img.icons8.com/color/96/000000/python--v1.png"/> </a>
@@ -154,7 +218,7 @@ I'm proud of my continuous growth and learning in the coding world. I am looking
     <a href="#"> <img src="https://img.icons8.com/ios/96/express-js.png"/> </a>  
     <a href="#"> <img src="https://img.icons8.com/officel/96/react.png"/> </a> 
     <a href="#"> <img src="https://img.icons8.com/fluency/96/node-js.png"/> </a>
-</p>
+</p> -->
 
 
 ## 📝 PROJECT's ZONE (Working on 30+ Persional Projects)
