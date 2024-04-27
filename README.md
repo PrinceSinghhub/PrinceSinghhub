@@ -18,6 +18,7 @@
 Ability to quickly Learn and Master a new skill and to implement it to solve a realtime problem.
 - 📔 Live [**MyResume**](https://princesinghhub.github.io/MYWebResume/)
 - 🔥 [**My DSA and Development Skills**](https://linktr.ee/itsPrinceSingh)
+- 👨‍🏫 Mentor on @Topmate and @Propeers
 - 📞 Book Your 1:1 Call with Me For **DSA & Development & Placement & Career Guidance** [**Link**](https://topmate.io/itsprincesingh)
 - 👨‍💻 Check My! [**CodingProfile**](https://princesinghhub.github.io/MyCodingProfiles/)
 - 📘 I’m Currently Studying **New New Tech Stack for Expanding My Skills set and Knowledge**
@@ -25,24 +26,25 @@ Ability to quickly Learn and Master a new skill and to implement it to solve a r
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 - ⚡ For Fun **Games, Rosting, Mems, HipHop**
 - 📫 How to reach me **princesingh.cse.2020@gmail.com**
-- <b>📺 YouTube [**@PrinceSinghCSE**](https://www.youtube.com/@PrinceSinghCSE)</b>
-- 🔗 Connect Me on [**Linkedin**](https://www.linkedin.com/in/prince-singh-314a65187/)
-- 🔗 Connect Me on [**Twitter**](https://twitter.com/NowPrinceSingh)
+- <b>📺 YouTube 2K+ [**@PrinceSinghCSE**](https://www.youtube.com/@PrinceSinghCSE)</b>
+- 🔗 Connect Me on **49K+ Community on** [**Linkedin**](https://www.linkedin.com/in/prince-singh-314a65187/)
+- 🔗 Connect Me on **2K+ Community on** [**Twitter**](https://twitter.com/NowPrinceSingh)
+- 🔗 Connect Me on **8K+ Community on** [**Instagram**](https://www.instagram.com/princesinghcse)
 <!-- - 📖 Learn [**DSAwithPrinceSingh**](https://princesinghhub.github.io/DSAwithPrinceSingh/) -->
 
 
-## ❤️ DSA ZONE
+## ❤️ I'm Code on (DSA)
 
 <p align="left"> 
-<img src="lc.png">
-<img src="gfg.png">
-<img src="ib.png" height="96px" width="96px">
-<img src="cn.png">
-<img src="hr.png">
-<img src="he.png" height="96px" width="96px"> 
-<img src="cc.png" height="96px" width="96px">
-<img src="cf.png">
-<img src="wk.png" height="96px" width="96px">
+<img src="lc.png" height="40px" width="40px">
+<img src="gfg.png" height="40px" width="40px">
+<img src="ib.png" height="40px" width="40px">
+<img src="cn.png" height="40px" width="40px">
+<img src="hr.png" height="40px" width="40px">
+<img src="he.png" height="40px" width="40px"> 
+<img src="cc.png" height="40px" width="40px">
+<img src="cf.png" height="40px" width="40px">
+<img src="wk.png" height="40px" width="40px">
 
 </p> 
 
@@ -100,7 +102,7 @@ Ability to quickly Learn and Master a new skill and to implement it to solve a r
 | 💥 75DaysHardPlacementChallenge  | ⭐ Thousand's of Students Guide for Placements and DSA and CP and Development | 
 | 💥 800DaysOfCode+ on @LeetCode  | ⭐ Top performer in College " Rank 1 " [Acadiemic & Coding ] |
 | 💥 365DaysOfCode+ on @InterviewBit |  ⭐ DSA & DEV Highe Rated Mentor on @TopMate ( Included in Top 1% ) |
-| 💥 700DaysOfCode+ on @CodeStudio | ⭐ 46K+ Followers on LinkedIn |
+| 💥 700DaysOfCode+ on @CodeStudio | ⭐ 49K+ Followers on LinkedIn |
 | 💥 500DaysOfCode+ on @GeeksForGeeks | ⭐ 8M+ Views on LinkedIn |
 
 ## DSA 🏆 Achievements
