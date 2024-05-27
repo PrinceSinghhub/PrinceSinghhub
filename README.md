@@ -5,7 +5,7 @@
 <h4 align="center"><b>Software Engineer 👨‍💻 | Building @DSAwithPrinceSingh | Problem Solving Enthusiast 🧠 | 800DaysOfCode+ on @LeetCode | 3.5⭐ LEETCODE | Max(1876) Rating Knight👑 Top 5% 🌍 | 800DaysOfCode Streak 🔥 | 6⭐ Problem Solving | Institute 1st🥇 Rank GFG | Global 13th🥇 Rank InterviewBit | Max(1854) Rating Master🌞 on CodeStudio | Amateur HackerEarth | 1500+ Problems Solved on DSA | DSA & DEV Mentor | HardCore DSA Lover ❤️ | 46K @LinkedIn & 8M+ 🔥 Views | 360+ @GitHub & 22K+ 🔥 Views | 75DayHardPlacementChallenge 🔥</b>
 </b></h4>   
 
-<p align="center">
+<p align="center"> 
     <a href="https://www.youtube.com/PrinceSinghCSE" target="_blank">
   <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Prince Singh" />
  </a> 
