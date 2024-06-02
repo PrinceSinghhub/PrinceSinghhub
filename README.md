@@ -1,7 +1,7 @@
 <img src="lkbn.png">                     
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm <b>Prince Singh</b></h1>
-<h2 align="center"><b>Junior SDE @CloudConduction & Cracked Remote Job As A Fresher 💯 and Passionate About Crafting Efficient Code 🚀</b></h2> 
+<h2 align="center"><b>Junior SDE @CloudConduction| Highly Motivated Junior Software Developer | Proven Success in Securing Remote Positions as a Fresh Graduate | Committed to Excellence in Crafting High-Performance Code" 🚀</b></h2> 
 <h4 align="center"><b>Software Engineer 👨‍💻 | Building @DSAwithPrinceSingh | Problem Solving Enthusiast 🧠 | 800DaysOfCode+ on @LeetCode | 3.5⭐ LEETCODE | Max(1876) Rating Knight👑 Top 5% 🌍 | 800DaysOfCode Streak 🔥 | 6⭐ Problem Solving | Institute 1st🥇 Rank GFG | Global 13th🥇 Rank InterviewBit | Max(1854) Rating Master🌞 on CodeStudio | Amateur HackerEarth | 1500+ Problems Solved on DSA | DSA & DEV Mentor | HardCore DSA Lover ❤️ | 46K @LinkedIn & 8M+ 🔥 Views | 360+ @GitHub & 22K+ 🔥 Views | 75DayHardPlacementChallenge 🔥</b>
 </b></h4>   
 
@@ -36,7 +36,7 @@
 ## 🙋‍♂️ About Me
 <a><img align="right" src="MyLCGoldBedge.gif" width="350" height="240" /></a>
 -  Junior SDE @CloudConduction & <b>Cracked Remote Job As A Fresher 💯</b>
-- 🥋 I'm a very Passionate For Programming and Problem-Solving Enthusiast. I'm always ready to learn new things with Effective ideas. Hardcore DSA Lover ❤
+- 🥋 I'm a very Passionate Programmer and Problem-Solving Enthusiast. I'm always ready to learn new things with Effective ideas. Hardcore DSA Lover ❤
 - 👨‍💻 Love to learn new technologies and to explore new sets of areas.
 - 📚 Founder @DSAwithPrinceSingh
 - 👁‍🗨 What's Special about me? <br> 
@@ -46,14 +46,14 @@ Ability to quickly Learn and Master a new skill and to implement it to solve a r
 - 👨‍🏫 Mentor on @Topmate and @Propeers
 - 📞 Book Your 1:1 Call with Me For **DSA & Development & Placement & Career Guidance** [**Link**](https://topmate.io/itsprincesingh)
 - 👨‍💻 Check My! [**CodingProfile**](https://princesinghhub.github.io/MyCodingProfiles/)
-- 📘 I’m Currently Studying **New New Tech Stack for Expanding My Skills set and Knowledge**
+- 📘 I am diligently engaged in mastering a novel technology stack to augment my expertise and knowledge base **
   <!-- - 📘 I’m Currently learning **𝐌𝐄𝐑𝐍 𝐒𝐭𝐚𝐜𝐤 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐦𝐞𝐧𝐭** -->
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 - ⚡ For Fun **Games, Rosting, Mems, HipHop**
 <!-- - 📖 Learn [**DSAwithPrinceSingh**](https://princesinghhub.github.io/DSAwithPrinceSingh/) -->
 
 
-## ❤️ I'm Code on (DSA)
+## ❤️ I Code on (DSA)
 
 <p align="left"> 
 <img src="lc.png" height="40px" width="40px">
@@ -131,7 +131,7 @@ Ability to quickly Learn and Master a new skill and to implement it to solve a r
 
 🚀 Excited to Share My Coding Journey and Accomplishments! 🚀
 
-I'm thrilled to showcase my dedication and passion for problem-solving in the world of coding. Here's a snapshot of my achievements across various coding platforms and <b>💥 I have Solved Thousand of DSA Problems on, Different-Different Coding Platforms </b>
+I'm thrilled to showcase my dedication and passion for problem-solving in the world of coding. Here's a snapshot of my achievements across various coding platforms and <b>💥 I have Solved Thousand of DSA Problems on, Different Coding Platforms </b>
 
 **LeetCode and GeeksForGeeks 🏆**
 - Profile 1: 1100+ problems solved, 3.5⭐ with a max rating of 1464 and 40+ Badges 🥇.
