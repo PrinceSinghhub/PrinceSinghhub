@@ -39,17 +39,17 @@
 - 🥋 I'm a very Passionate For Programming and Problem-Solving Enthusiast. I'm always ready to learn new things with Effective ideas. Hardcore DSA Enthusiast ❤️
 - 👨‍💻 Love to learn new technologies and to explore new sets of areas.
 - 📚 Founder @DSAwithPrinceSingh
-- 👁‍🗨 Open Source Contributer 
+- 👁‍🗨 Open Source Contributor  
 - 👨‍🏫 Mentor on @Topmate and @Propeers
 - 🚀 Passionate About Crafting Efficient Code 
 - 📘 I’m Currently Studying **Devops**
   <!-- - 📘 I’m Currently learning **𝐌𝐄𝐑𝐍 𝐒𝐭𝐚𝐜𝐤 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐦𝐞𝐧𝐭** -->
 - 👯 I’m looking to collaborate on **OpenSource Projects**
-- ⚡ For Fun **Games, Rosting, Mems, HipHop**
 - 📔 Live [**MyResume**](https://princesinghhub.github.io/MYWebResume/)
 - 🔥 [**My DSA and Development Skills**](https://linktr.ee/itsPrinceSingh)
 - 👨‍💻 Check My! [**CodingProfile**](https://princesinghhub.github.io/MyCodingProfiles/)
 - 📞 Book Your 1:1 Call with Me For **DSA & Development & Placement & Career Guidance** [**Link**](https://topmate.io/itsprincesingh)
+- ⚡ For Fun **Games, Rosting, Mems, HipHop**
 <!-- - 📖 Learn [**DSAwithPrinceSingh**](https://princesinghhub.github.io/DSAwithPrinceSingh/) -->
 
 
