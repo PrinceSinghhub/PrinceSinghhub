@@ -3,7 +3,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm <b>Prince Singh</b></h1>
 <h2 align="center"><b>I'm a Remote Developer & Software Engineer</b></h2> 
 <h2 align="center"><b>Cracked Remote Job As A Fresher, ( Back to Back ) 💯</b></h2> 
-<h4 align="center"><b>SDE @proPeers | Ex-Junior SDE Intern @CloudConduction | Mentor @proPeers & @topmate.io | 3.5⭐ LEETCODE | Max(1876) Rating Knight👑 Top 5% 🌍 | Institute 1🥇 Rank GFG | Global🥇 13th Rank InterviewBit | Specialist🌞 CodeStudio Level 9 🚀 | Cracked Remote Job As A Fresher 💯 | Building @DSAwithPrinceSingh | Problem Solving Enthusiast 🧠 | 800DaysOfCode+ on @LeetCode | 800DaysOfCode Streak 🔥 | 6⭐ Problem Solving | Max(1854) Rating Master🌞 on CodeStudio | Amateur HackerEarth | 1500+ Problems Solved on DSA | DSA & DEV Mentor | HardCore DSA Enthusiast ❤️ | 5DayHardPlacementChallenge 🔥</b>
+<h4 align="center"><b>SDE @proPeers | Ex-Junior SDE Intern @CloudConduction | Mentor @proPeers & @topmate.io | 3.5⭐ LEETCODE | Max(1876) Rating Knight👑 Top 5% 🌍 | Institute 1🥇 Rank GFG | Global🥇 13th Rank InterviewBit | Specialist🌞 CodeStudio Level 9 🚀 | Cracked Remote Job As A Fresher 💯 | Building @DSAwithPrinceSingh | Problem Solving Enthusiast 🧠 | 800DaysOfCode+ on @LeetCode | 800DaysOfCode Streak 🔥 | 6⭐ Problem Solving | Max(1854) Rating Master🌞 on CodeStudio | Amateur HackerEarth | 1500+ Problems Solved on DSA | DSA & DEV Mentor | HardCore DSA Enthusiast ❤️ | 75DayHardPlacementChallenge 🔥</b>
 </b></h4>   
 
 <p align="center"> 
