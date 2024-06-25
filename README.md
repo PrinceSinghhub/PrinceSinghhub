@@ -3,7 +3,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm <b>Prince Singh</b></h1>
 <h2 align="center"><b>I'm a Remote Developer & Software Engineer</b></h2> 
 <h2 align="center"><b>Cracked Remote Job As A Fresher, ( Back to Back ) 💯</b></h2> 
-<h4 align="center"><b>Software Engineer 👨‍💻 | Building @DSAwithPrinceSingh | Problem Solving Enthusiast 🧠 | 800DaysOfCode+ on @LeetCode | 3.5⭐ LEETCODE | Max(1876) Rating Knight👑 Top 5% 🌍 | 800DaysOfCode Streak 🔥 | 6⭐ Problem Solving | Institute 1st🥇 Rank GFG | Global 13th🥇 Rank InterviewBit | Max(1854) Rating Master🌞 on CodeStudio | Amateur HackerEarth | 1500+ Problems Solved on DSA | DSA & DEV Mentor | HardCore DSA Lover ❤️ | 46K @LinkedIn & 8M+ 🔥 Views | 360+ @GitHub & 22K+ 🔥 Views | 75DayHardPlacementChallenge 🔥</b>
+<h4 align="center"><b>SDE @proPeers | Ex-Junior SDE Intern @CloudConduction | Mentor @proPeers & @topmate.io | 3.5⭐ LEETCODE | Max(1876) Rating Knight👑 Top 5% 🌍 | Institute 1🥇 Rank GFG | Global🥇 13th Rank InterviewBit | Specialist🌞 CodeStudio Level 9 🚀 | Cracked Remote Job As A Fresher 💯 | Building @DSAwithPrinceSingh | Problem Solving Enthusiast 🧠 | 800DaysOfCode+ on @LeetCode | 800DaysOfCode Streak 🔥 | 6⭐ Problem Solving | Max(1854) Rating Master🌞 on CodeStudio | Amateur HackerEarth | 1500+ Problems Solved on DSA | DSA & DEV Mentor | HardCore DSA Enthusiast ❤️ | 5DayHardPlacementChallenge 🔥</b>
 </b></h4>   
 
 <p align="center"> 
@@ -36,22 +36,20 @@
 
 ## 🙋‍♂️ About Me
 <a><img align="right" src="MyLCGoldBedge.gif" width="350" height="240" /></a>
--  Ex-Junior SDE Intern @CloudConduction & <b>Cracked Remote Job As A Fresher 💯</b>
-- 🥋 I'm a very Passionate For Programming and Problem-Solving Enthusiast. I'm always ready to learn new things with Effective ideas. Hardcore DSA Lover ❤
+- 🥋 I'm a very Passionate For Programming and Problem-Solving Enthusiast. I'm always ready to learn new things with Effective ideas. Hardcore DSA Enthusiast ❤️
 - 👨‍💻 Love to learn new technologies and to explore new sets of areas.
 - 📚 Founder @DSAwithPrinceSingh
-- 👁‍🗨 What's Special about me? <br> 
-Ability to quickly Learn and Master a new skill and to implement it to solve a realtime problem.
-- 📔 Live [**MyResume**](https://princesinghhub.github.io/MYWebResume/)
-- 🔥 [**My DSA and Development Skills**](https://linktr.ee/itsPrinceSingh)
+- 👁‍🗨 Open Source Contributer 
 - 👨‍🏫 Mentor on @Topmate and @Propeers
-- 📞 Book Your 1:1 Call with Me For **DSA & Development & Placement & Career Guidance** [**Link**](https://topmate.io/itsprincesingh)
 - 🚀 Passionate About Crafting Efficient Code 
-- 👨‍💻 Check My! [**CodingProfile**](https://princesinghhub.github.io/MyCodingProfiles/)
-- 📘 I’m Currently Studying **New New Tech Stack for Expanding My Skills set and Knowledge**
+- 📘 I’m Currently Studying **Devops**
   <!-- - 📘 I’m Currently learning **𝐌𝐄𝐑𝐍 𝐒𝐭𝐚𝐜𝐤 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐦𝐞𝐧𝐭** -->
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 - ⚡ For Fun **Games, Rosting, Mems, HipHop**
+- 📔 Live [**MyResume**](https://princesinghhub.github.io/MYWebResume/)
+- 🔥 [**My DSA and Development Skills**](https://linktr.ee/itsPrinceSingh)
+- 👨‍💻 Check My! [**CodingProfile**](https://princesinghhub.github.io/MyCodingProfiles/)
+- 📞 Book Your 1:1 Call with Me For **DSA & Development & Placement & Career Guidance** [**Link**](https://topmate.io/itsprincesingh)
 <!-- - 📖 Learn [**DSAwithPrinceSingh**](https://princesinghhub.github.io/DSAwithPrinceSingh/) -->
 
 
@@ -126,8 +124,8 @@ Ability to quickly Learn and Master a new skill and to implement it to solve a r
 | 💥 75DaysHardPlacementChallenge  | ⭐ Thousand's of Students Guide for Placements and DSA and CP and Development | 
 | 💥 800DaysOfCode+ on @LeetCode  | ⭐ Top performer in College " Rank 1 " [Acadiemic & Coding ] |
 | 💥 365DaysOfCode+ on @InterviewBit |  ⭐ DSA & DEV Highe Rated Mentor on @TopMate ( Included in Top 1% ) |
-| 💥 700DaysOfCode+ on @CodeStudio | ⭐ 49K+ Followers on LinkedIn |
-| 💥 500DaysOfCode+ on @GeeksForGeeks | ⭐ 8M+ Views on LinkedIn |
+| 💥 700DaysOfCode+ on @CodeStudio | ⭐ 53K+ Followers on LinkedIn |
+| 💥 600DaysOfCode+ on @GeeksForGeeks | ⭐ 10M+ Views on LinkedIn |
 
 ## DSA 🏆 Achievements
 
