@@ -7,7 +7,7 @@
 </b></h4>   
 
 <p align="center"> 
-    <a href="https://www.youtube.com/PrinceSinghCSE" target="_blank">
+    <a href="https://www.youtube.com/@PrinceSinghCSE" target="_blank">
   <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Prince Singh" />
  </a> 
  <a href="https://www.linkedin.com/in/prince-singh-314a65187/" target="_blank">
