@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm <b>Prince Singh</b></h1>
 <h2 align="center"><b>I'm a Remote Developer & Software Engineer</b></h2> 
-<h2 align="center"><b>Cracked National & International Remote Job As A Fresher, ( Back to Back ) 💯</b></h2> 
+<h2 align="center"><b>Cracked National & International Remote Job As A Fresher, ( 4 Back to Back ) 💯</b></h2> 
 <h4 align="center"><b>SDE 1 @proPeers | Ex-Junior SDE Intern @CloudConduction | Mentor @proPeers & @topmate.io | 3.5⭐ LEETCODE | Max(1876) Rating Knight👑 Top 5% 🌍 | Institute 1🥇 Rank GFG | Global🥇 13th Rank InterviewBit | Max(1854) Rating Specialist🌞 CodeStudio Level 9 🚀 | Building @DSAwithPrinceSingh | Problem Solving Enthusiast 🧠 | 800DaysOfCode+ on @LeetCode | 800DaysOfCode Streak 🔥 | 6⭐ Problem Solving | Amateur HackerEarth | 1500+ Problems Solved on DSA | DSA & DEV Mentor | HardCore DSA Enthusiast ❤️ | 75DayHardPlacementChallenge 🔥</b>
 </b></h4>   
 
@@ -38,7 +38,7 @@
 <a><img align="right" src="MyLCGoldBedge.gif" width="350" height="240" /></a>
 - 🥋 I'm a very Passionate For Programming and Problem-Solving Enthusiast. I'm always ready to learn new things with Effective ideas. Hardcore DSA Enthusiast ❤️
 - 👨‍💻 Love to learn new technologies and to explore new sets of areas.
-- 📚 Founder @DSAwithPrinceSingh
+- 📚 Founder <b>[**Prepration Street**](https://www.linkedin.com/company/preparation-street)</b>
 - 👁‍🗨 Open Source Contributor  
 - 👨‍🏫 Mentor on @Topmate and @Propeers
 - 🚀 Passionate About Crafting Efficient Code 
@@ -77,6 +77,7 @@
 <img src="https://assets.leetcode.com/static_assets/marketing/2023-50.gif" width="40px"></img>
 <img src="https://assets.leetcode.com/static_assets/marketing/2023-100.gif" width="40px"></img>
 <img src="https://assets.leetcode.com/static_assets/public/images/badges/2022/gif/2022-annual.gif" width="40px"></img>
+<img src="https://assets.leetcode.com/static_assets/public/images/badges/2024/gif/2024-09.gif" width="40px"></img>
 <img src="https://assets.leetcode.com/static_assets/public/images/badges/2024/gif/2024-08.gif" width="40px"></img>
 <img src="https://assets.leetcode.com/static_assets/public/images/badges/2024/gif/2024-07.gif" width="40px"></img>
 <img src="https://assets.leetcode.com/static_assets/public/images/badges/2024/gif/2024-06.gif" width="40px"></img>
@@ -125,10 +126,10 @@
 | 🎯 My Prepration Challenge's 🎯 | 🥇 Other Achievement 🥇 |
 |------------------------------------|----------------------------------------|
 | 💥 75DaysHardPlacementChallenge  | ⭐ Thousand's of Students Guide for Placements and DSA and CP and Development | 
-| 💥 800DaysOfCode+ on @LeetCode  | ⭐ Top performer in College " Rank 1 " [Acadiemic & Coding ] |
+| 💥 1000DaysOfCode+ on @LeetCode  | ⭐ Top performer in College " Rank 1 " [Acadiemic & Coding ] |
 | 💥 365DaysOfCode+ on @InterviewBit |  ⭐ DSA & DEV Highe Rated Mentor on @TopMate ( Included in Top 1% ) |
 | 💥 700DaysOfCode+ on @CodeStudio | ⭐ 53K+ Followers on LinkedIn |
-| 💥 600DaysOfCode+ on @GeeksForGeeks | ⭐ 10M+ Views on LinkedIn |
+| 💥 800DaysOfCode+ on @GeeksForGeeks | ⭐ 10M+ Views on LinkedIn |
 
 ## DSA 🏆 Achievements
 
