@@ -61,7 +61,7 @@
 - <b>Collaboration & Leadership:</b> Partnered with <b>cross-functional teams</b> to drive seamless <b>technology integration</b> and led the <b>technical team</b> to deliver <b>high-impact projects</b> on time.  
 - <b>Deadline-Driven Execution:</b> Effectively managed and executed <b>end-to-end project tasks</b>, meeting <b>deadlines</b> with a focus on <b>accuracy</b> and <b>performance</b>.
 
-## 👨‍💻 My Key Contributions as an Intern at @CloudCounduction
+## 👨‍💻 My Key Contributions as an Intern at @CloudConduction
 - <b>Develop And Maintain:</b> All aspects of the <b>AI application</b>, including its <b>front-end</b> and <b>back-end components</b>.  
 - <b>Design Intuitive UI:</b> Designed <b>intuitive</b> and <b>responsive user interfaces</b> using <b>React</b>.  
 - <b>Backend Optimization:</b> Created and optimized <b>backend services</b> developed in <b>.NET</b>.  
