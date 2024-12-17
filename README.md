@@ -71,12 +71,20 @@
 ## All DSA Badges @LeetCode
 
 <img src="https://assets.leetcode.com/static_assets/others/Knight.gif" width="40px"></img>
+<img src="https://assets.leetcode.com/static_assets/marketing/1k.gif"  width="40px"></img>
+<img src="https://assets.leetcode.com/static_assets/marketing/500.gif"  width="40px"></img>
+<img src="https://assets.leetcode.com/static_assets/marketing/365.gif"  width="40px"></img>
+<img src="https://assets.leetcode.com/static_assets/marketing/2024.gif" width="40px"></img>
+<img src="https://assets.leetcode.com/static_assets/marketing/2024-200-lg.png" width="40px"></img>
 <img src="https://assets.leetcode.com/static_assets/marketing/2024-100-new.gif" width="40px"></img>
 <img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" width="40px"></img>
 <img src="https://assets.leetcode.com/static_assets/marketing/2023.gif" width="40px"></img>
 <img src="https://assets.leetcode.com/static_assets/marketing/2023-50.gif" width="40px"></img>
 <img src="https://assets.leetcode.com/static_assets/marketing/2023-100.gif" width="40px"></img>
 <img src="https://assets.leetcode.com/static_assets/public/images/badges/2022/gif/2022-annual.gif" width="40px"></img>
+<img src="https://assets.leetcode.com/static_assets/public/images/badges/2024/gif/2024-12.gif" width="40px"></img>
+<img src="https://assets.leetcode.com/static_assets/public/images/badges/2024/gif/2024-11.gif" width="40px"></img>
+<img src="https://assets.leetcode.com/static_assets/public/images/badges/2024/gif/2024-10.gif" width="40px"></img>
 <img src="https://assets.leetcode.com/static_assets/public/images/badges/2024/gif/2024-09.gif" width="40px"></img>
 <img src="https://assets.leetcode.com/static_assets/public/images/badges/2024/gif/2024-08.gif" width="40px"></img>
 <img src="https://assets.leetcode.com/static_assets/public/images/badges/2024/gif/2024-07.gif" width="40px"></img>
