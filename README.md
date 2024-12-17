@@ -51,6 +51,27 @@
 - 📞 Book Your 1:1 Call with Me For **DSA & Development & Placement & Career Guidance** [**Link**](https://topmate.io/itsprincesingh)
 - ⚡ For Fun **Games, Rosting, Mems, HipHop**
 <!-- - 📖 Learn [**DSAwithPrinceSingh**](https://princesinghhub.github.io/DSAwithPrinceSingh/) -->
+## 👨‍🏫 My Key Contributions as an SDE 1 & Tech Lead at @proPeers
+- <b>End-to-End Development:</b> Delivered <b>scalable</b> and <b>efficient solutions</b> for both <b>frontend</b> and <b>backend development</b> using the <b>MERN stack</b> and <b>Next.js</b>.  
+- <b>API Optimization:</b> Engineered and optimized <b>RESTful APIs</b>, reducing <b>response time</b> from <b>1.3 seconds</b> to <b>200 ms</b> through the implementation of <b>pipelines</b> and <b>advanced caching mechanisms</b>.  
+- <b>Cloud Infrastructure Management:</b> Designed and managed <b>robust cloud-based infrastructure</b> on <b>Azure</b>, overseeing <b>deployments</b> and <b>server configurations</b> for seamless <b>scalability</b> and <b>reliability</b>.  
+- <b>Cost Optimization:</b> Implemented strategies to optimize <b>server costs</b>, achieving significant reductions in <b>cloud expenditure</b> without compromising <b>performance</b>.  
+- <b>AI & Recommendations:</b> Contributed to the development of <b>AI-driven recommendation models</b>, enhancing the platform's <b>feed feature</b> for improved <b>user engagement</b>.  
+- <b>Code Quality Assurance:</b> Conducted comprehensive <b>code reviews</b>, ensuring adherence to <b>best practices</b> and maintaining high standards of <b>code quality</b> and <b>reliability</b>.  
+- <b>Collaboration & Leadership:</b> Partnered with <b>cross-functional teams</b> to drive seamless <b>technology integration</b> and led the <b>technical team</b> to deliver <b>high-impact projects</b> on time.  
+- <b>Deadline-Driven Execution:</b> Effectively managed and executed <b>end-to-end project tasks</b>, meeting <b>deadlines</b> with a focus on <b>accuracy</b> and <b>performance</b>.
+
+## 👨‍💻 My Key Contributions as an Intern at @CloudCounduction
+- <b>Develop And Maintain:</b> All aspects of the <b>AI application</b>, including its <b>front-end</b> and <b>back-end components</b>.  
+- <b>Design Intuitive UI:</b> Designed <b>intuitive</b> and <b>responsive user interfaces</b> using <b>React</b>.  
+- <b>Backend Optimization:</b> Created and optimized <b>backend services</b> developed in <b>.NET</b>.  
+- <b>AI & Cloud Integration:</b> Worked extensively with <b>AI models</b> and <b>cloud services</b>, especially <b>Azure</b>, to enhance application <b>capabilities</b>.  
+- <b>Performance & Scalability:</b> Ensured the application’s <b>performance</b>, <b>scalability</b>, and <b>security</b>.  
+- <b>Cross-Functional Collaboration:</b> Collaborated with <b>cross-functional teams</b> for seamless <b>integration</b> of technologies.  
+- <b>Code Quality Assurance:</b> Conducted <b>code reviews</b>, maintained <b>code quality</b>, and adhered to <b>best practices</b>.  
+- <b>AI Chat Application:</b> Worked on the <b>end-to-end AI chat application</b> and improved <b>60%</b> of the frontend and <b>30%</b> of the backend. Additionally, I enhanced <b>optimization</b> by <b>10%</b> and increased <b>performance</b> from <b>1.86 seconds</b> to <b>1.2 seconds</b>.  
+- <b>MERN Stack Projects:</b> Worked on <b>MERN stack end-to-end projects</b> and <b>handled</b> the project from <b>0 to production</b>.
+
 
 
 ## ❤️ I'm Code on (DSA)
