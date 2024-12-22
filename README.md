@@ -35,7 +35,8 @@
 <!-- <img align="right" alt="Coding" width="400" src="bn.gif"> -->
 
 ## 🙋‍♂️ About Me
-<a><img align="right" src="MyLCGoldBedge.gif" width="350" height="240" /></a>
+ <!-- <a><img align="right" src="MyLCGoldBedge.gif" width="350" height="240" /></a> -->
+<a><img align="right" src="https://assets.leetcode.com/static_assets/marketing/2024.gif" width="360" height="360" /></a>
 - 🥋 I'm a very Passionate For Programming and Problem-Solving Enthusiast. I'm always ready to learn new things with Effective ideas. Hardcore DSA Enthusiast ❤️
 - 👨‍💻 Love to learn new technologies and to explore new sets of areas.
 - 📚 Founder <b>[**Prepration Street**](https://www.linkedin.com/company/preparation-street)</b>
