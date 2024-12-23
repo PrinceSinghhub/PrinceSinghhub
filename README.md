@@ -163,6 +163,8 @@
 
 ## DSA 🏆 Achievements
 
+<a><img align="right" src="2024-Graph.png" width="350"/></a>
+
 🚀 Excited to Share My Coding Journey and Accomplishments! 🚀
 
 I'm thrilled to showcase my dedication and passion for problem-solving in the world of coding. Here's a snapshot of my achievements across various coding platforms and <b>💥 I have Solved Thousand of DSA Problems on, Different-Different Coding Platforms </b>
