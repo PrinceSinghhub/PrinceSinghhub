@@ -176,6 +176,8 @@ I'm thrilled to showcase my dedication and passion for problem-solving in the wo
 - Annual Award 2023 and Include Top 4.2% of the LeetCoders 🌐.
 - GeeksForGeeks: 1300+ problems solved, Global Rank 100 and Monthly Rank 99 with the Score of 4000+, and Instutie Rank 1🔥.
 
+<a><img align="right" src="https://assets.leetcode.com/static_assets/others/Knight.gif" width="360" height="360" /></a>
+
 **CodeStudio & InterviewBit & HackerRank & HackerEarth 🏆**
 - CodeStudio: 2000+ problems solved with 100000+ Coding Score, including in the top 0.5% 🌟.
 - InterviewBit: 560+ problems solved, Global Rank 13, and a 6⭐ in Problem Solving 🌐.
