@@ -6,7 +6,7 @@
 <h4 align="center"><b>SDE 1 @proPeers | Ex-Junior SDE Intern @CloudConduction | Mentor @proPeers & @topmate.io | 3.5⭐ LEETCODE | Max(1876) Rating Knight👑 Top 5% 🌍 | Institute 1🥇 Rank GFG | Global🥇 13th Rank InterviewBit | Max(1854) Rating Specialist🌞 CodeStudio Level 9 🚀 | Building @DSAwithPrinceSingh | Problem Solving Enthusiast 🧠 | 1000DaysOfCode+ on @LeetCode | 1000DaysOfCode Streak 🔥 | 6⭐ Problem Solving | Amateur HackerEarth | 1500+ Problems Solved on DSA | DSA & DEV Mentor | HardCore DSA Enthusiast ❤️ | 75DayHardPlacementChallenge 🔥</b> 
 </b></h4>   
 
-<p align="center"> 
+<p align="center">  
     <a href="https://www.youtube.com/@PrinceSinghCSE" target="_blank">
   <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Prince Singh" />
  </a> 
