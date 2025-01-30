@@ -58,8 +58,9 @@
 - <b>Cloud Infrastructure Management:</b> Designed and managed <b>robust cloud-based infrastructure</b> on <b>Azure</b>, overseeing <b>deployments</b> and <b>server configurations</b> for seamless <b>scalability</b> and <b>reliability</b>.  
 - <b>Cost Optimization:</b> Implemented strategies to optimize <b>server costs</b>, achieving significant reductions in <b>cloud expenditure</b> without compromising <b>performance</b>.  
 - <b>AI & Recommendations:</b> Contributed to the development of <b>AI-driven recommendation models</b>, enhancing the platform's <b>feed feature</b> for improved <b>user engagement</b>.  
-- <b>Code Quality Assurance:</b> Conducted comprehensive <b>code reviews</b>, ensuring adherence to <b>best practices</b> and maintaining high standards of <b>code quality</b> and <b>reliability</b>.  
-- <b>Collaboration & Leadership:</b> Partnered with <b>cross-functional teams</b> to drive seamless <b>technology integration</b> and led the <b>technical team</b> to deliver <b>high-impact projects</b> on time.  
+- <b>Code Quality Assurance:</b> Conducted comprehensive <b>code reviews</b>, ensuring adherence to <b>best practices</b> and maintaining high standards of <b>code quality</b> and <b>reliability</b>.
+- <b>Collaboration & Leadership:</b> Partnered with <b>cross-functional teams</b> to drive seamless <b>technology integration</b> and led the <b>technical team</b> to deliver <b>high-impact projects</b> on time.
+- <b>Scalable Feature:</b> Over the <b>year</b> worked extensively on a <b>large-scale codebase</b> successfully deploying <b> lot of major features</b> now live and used by <b>1.5 lakh+ users</b> and also ensuring <b>scalability</b> and <b>high availability</b>  
 - <b>Deadline-Driven Execution:</b> Effectively managed and executed <b>end-to-end project tasks</b>, meeting <b>deadlines</b> with a focus on <b>accuracy</b> and <b>performance</b>.
 
 ## 👨‍💻 My Key Contributions as an Intern at @CloudConduction
