@@ -33,8 +33,8 @@
    
 
 <!-- <img align="right" alt="Coding" width="400" src="bn.gif"> -->
-
-## 🙋‍♂️ About Me
+<img width="2500rem" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
+## About Me
  <!-- <a><img align="right" src="MyLCGoldBedge.gif" width="350" height="240" /></a> -->
 <a><img align="right" src="https://assets.leetcode.com/static_assets/marketing/2024.gif" width="360" height="360" /></a>
 - 🥋 I'm a very Passionate For Programming and Problem-Solving Enthusiast. I'm always ready to learn new things with Effective ideas. Hardcore DSA Enthusiast ❤️
@@ -52,6 +52,7 @@
 - 📞 Book Your 1:1 Guidacne **DSA & Development & Placement & Career Guidance** [**Topmate**](https://topmate.io/itsprincesingh) and [**ProPeers**](https://www.propeers.in/profile/princesingh)
 - ⚡ For Fun **Games, Rosting, Mems, HipHop**
 <!-- - 📖 Learn [**DSAwithPrinceSingh**](https://princesinghhub.github.io/DSAwithPrinceSingh/) -->
+<img width="2500rem" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 ## 👨‍🏫 My Key Contributions as an SDE 1 & Tech Lead at @proPeers
 - <b>End-to-End Development:</b> Delivered <b>scalable</b> and <b>efficient solutions</b> for both <b>frontend</b> and <b>backend development</b> using the <b>MERN stack</b> and <b>Next.js</b>.  
 - <b>API Optimization:</b> Engineered and optimized <b>RESTful APIs</b>, reducing <b>response time</b> from <b>1.3 seconds</b> to <b>200 ms</b> through the implementation of <b>pipelines</b> and <b>advanced caching mechanisms</b>.  
@@ -63,6 +64,7 @@
 - <b>Scalable Feature:</b> Over the <b>year</b> worked extensively on a <b>large-scale codebase</b> successfully deploying <b> lot of major features</b> now live and used by <b>1.5 lakh+ users</b> and also ensuring <b>scalability</b> and <b>high availability</b>  
 - <b>Deadline-Driven Execution:</b> Effectively managed and executed <b>end-to-end project tasks</b>, meeting <b>deadlines</b> with a focus on <b>accuracy</b> and <b>performance</b>.
 
+<img width="2500rem" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 ## 👨‍💻 My Key Contributions as an Intern at @CloudConduction
 - <b>Develop And Maintain:</b> All aspects of the <b>AI application</b>, including its <b>front-end</b> and <b>back-end components</b>.  
 - <b>Design Intuitive UI:</b> Designed <b>intuitive</b> and <b>responsive user interfaces</b> using <b>React</b>.  
@@ -75,7 +77,7 @@
 - <b>MERN Stack Projects:</b> Worked on <b>MERN stack end-to-end projects</b> and <b>handled</b> the project from <b>0 to production</b>.
 
 
-
+<img width="2500rem" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 ## ❤️ I'm Code on (DSA)
 
 <p align="left"> 
@@ -91,6 +93,7 @@
 
 </p> 
 
+<img width="2500rem" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 ## All DSA Badges @LeetCode
 
 <img src="https://assets.leetcode.com/static_assets/others/Knight.gif" width="40px"></img>
@@ -152,6 +155,7 @@
 <img src="https://assets.leetcode.com/static_assets/others/DS_I.png" width="40px"></img>
 <img src="https://assets.leetcode.com/static_assets/others/algorithm_I.png" width="40px"></img>
 
+<img width="2500rem" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 ## ⭐ Summarized My All Achievements 🎉
 
 | 🎯 My Prepration Challenge's 🎯 | 🥇 Other Achievement 🥇 |
@@ -162,6 +166,7 @@
 | 💥 700DaysOfCode+ on @CodeStudio | ⭐ 53K+ Followers on LinkedIn |
 | 💥 800DaysOfCode+ on @GeeksForGeeks | ⭐ 10M+ Views on LinkedIn |
 
+<img width="2500rem" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 ## DSA 🏆 Achievements
 
 <a><img align="right" src="2024-Graph.png" width="350"/></a>
@@ -192,9 +197,74 @@ I'm thrilled to showcase my dedication and passion for problem-solving in the wo
 
 I'm proud of my continuous growth and learning in the coding world. I am looking forward to more challenges and achievements ahead! 💻🚀
 
+<img width="2500rem" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Use To Code</b> 💻
 
-## 💻Use To Code
+<table align="center">
+  <tr>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=js" width="55" height="55" /><br>JavaScript</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=ts" width="55" height="55" /><br>TypeScript</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=react" width="55" height="55" /><br>React</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=nextjs" width="55" height="55" /><br>Next.js</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=nodejs" width="55" height="55" /><br>Node.js</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=express" width="55" height="55" /><br>Express.js</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=mongodb" width="55" height="55" /><br>MongoDB</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=mysql" width="55" height="55" /><br>MySQL</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=html" width="55" height="55" /><br>HTML</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=css" width="55" height="55" /><br>CSS</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=tailwind" width="55" height="55" /><br>Tailwind CSS</td>
+  </tr>
+  <tr>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=bootstrap" width="55" height="55" /><br>Bootstrap</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=redux" width="55" height="55" /><br>Redux</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=python" width="55" height="55" /><br>Python</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=redis" width="55" height="55" /><br>Redis</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=cpp" width="55" height="55" /><br>C++</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=java" width="55" height="55" /><br>Java</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=c" width="55" height="55" /><br>C</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=cs" width="55" height="55" /><br>C#</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=dotnet" width="55" height="55" /><br>.NET</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=azure" width="55" height="55" /><br>Azure</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=git" width="55" height="55" /><br>Git</td>
+  </tr>
+  <tr>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=github" width="55" height="55" /><br>GitHub</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=vscode" width="55" height="55" /><br>VS Code</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=figma" width="55" height="55" /><br>Figma</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=jenkins" width="55" height="55" /><br>Jenkins</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=githubactions" width="55" height="55" /><br>GitHub Actions</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=docker" width="55" height="55" /><br>Docker</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=kubernetes" width="55" height="55" /><br>Kubernetes</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=terraform" width="55" height="55" /><br>Terraform</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=linux" width="55" height="55" /><br>Linux</td>
+    <td align="center" width="90"><img src="https://img.shields.io/badge/scikit-learn-orange" width="55" height="55" /><br>Scikit-Learn</td>
+    <td align="center" width="90"><img src="https://img.shields.io/badge/scrapy-green" width="55" height="55" /><br>Scrapy</td>
+  </tr>
+  <tr>
+    <td align="center" width="90"><img src="https://img.shields.io/badge/reactquery-pink" width="55" height="55" /><br>React Query</td>
+    <td align="center" width="90"><img src="https://img.shields.io/badge/openai-blue" width="55" height="55" /><br>OpenAI</td>
+    <td align="center" width="90"><img src="https://img.shields.io/badge/pycharm-darkgreen" width="55" height="55" /><br>PyCharm</td>
+    <td align="center" width="90"><img src="https://img.shields.io/badge/intellijIDEA-purple" width="55" height="55" /><br>IntelliJ IDEA</td>
+    <td align="center" width="90"><img src="https://img.shields.io/badge/gitlabactions-orange" width="55" height="55" /><br>GitLab Actions</td>
+    <td align="center" width="90"><img src="https://img.shields.io/badge/githubcopilot-blue" width="55" height="55" /><br>GitHub Copilot</td>
+  </tr>
+</table>
 
+
+<p align="center">
+  <img src="https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white" />
+  <img src="https://img.shields.io/badge/Web%20Scraping-4CAF50?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  <img src="https://img.shields.io/badge/ML%20Algorithms-FF6F00?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/LLM%20Models-8E44AD?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" />
+  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitLab_CI%2FCD-FCA121?style=for-the-badge&logo=gitlab&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Copilot-00ADD8?style=for-the-badge&logo=github&logoColor=white" />
+</p>
+
+
+
+<!-- ##
 ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
 ![Typescript](https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)
 ![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)
@@ -237,7 +307,7 @@ I'm proud of my continuous growth and learning in the coding world. I am looking
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
+-->
 <!-- ## 🚀 Languages and Tools:
 
 <p align="left"> 
@@ -263,7 +333,7 @@ I'm proud of my continuous growth and learning in the coding world. I am looking
     <a href="#"> <img src="https://img.icons8.com/fluency/96/node-js.png"/> </a>
 </p> -->
 
-
+<img width="2500rem" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 ## 📝 PROJECT's ZONE (Working on 30+ Persional Projects)
 
 | Project Row I                        | Project Row II      |
@@ -284,13 +354,14 @@ I'm proud of my continuous growth and learning in the coding world. I am looking
 | 🌐 MeraCodeEditor [**🔗**](https://github.com/PrinceSinghhub/MeraCodeEditor) | 🌐 Cardiac Care With Virtual Cardiologist (CCVC) [**🔗**](https://github.com/PrinceSinghhub/Cardiac-Care-With-Virtual-Cardiologist-CCVC) |  
 | 🌐 75DaysHardPlacementChallenge [**🔗**](https://princesinghhub.github.io/75DaysHardPlacementChallenge/) | 🌐 CloudConduction Payroll 💰 [**🔗**](https://github.com/PrinceSinghhub/CloudConduction-Payroll)
 
-<br>
+
+<img width="2500rem" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 <p align="center">
     <a href="https://https://github.com/PrinceSinghhub/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Prince Singh streak" src="https://github-readme-streak-stats.herokuapp.com/?user=PrinceSinghhub&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
- 
+
 ## 📊 My Github Stats
 
    <br/>
@@ -300,13 +371,6 @@ I'm proud of my continuous growth and learning in the coding world. I am looking
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
 <br/>
-<br/>
-
-
-
-<br/>
-<br/>
-
 ## 📈 Graph
 <p align="center">
    <img src="https://github.com/killshotxd/svgIcons/blob/main/github-contribution-grid-snake.svg" alt="snake">
@@ -315,6 +379,7 @@ I'm proud of my continuous growth and learning in the coding world. I am looking
 
 [![Prince Singh GitHub activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=PrinceSinghHub&theme=github-compact)](https://github.com/PrinceSinghHub/github-readme-activity-graph)
 
+<img width="2500rem" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 ## 📧 Connect with me:
 <p align="left">
 
