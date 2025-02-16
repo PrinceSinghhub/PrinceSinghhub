@@ -212,9 +212,9 @@ I'm proud of my continuous growth and learning in the coding world. I am looking
     <td align="center" width="90"><img src="https://skillicons.dev/icons?i=mysql" width="55" height="55" /><br>MySQL</td>
     <td align="center" width="90"><img src="https://skillicons.dev/icons?i=html" width="55" height="55" /><br>HTML</td>
     <td align="center" width="90"><img src="https://skillicons.dev/icons?i=css" width="55" height="55" /><br>CSS</td>
-    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=tailwind" width="55" height="55" /><br>Tailwind CSS</td>
   </tr>
   <tr>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=tailwind" width="55" height="55" /><br>Tailwind CSS</td>
     <td align="center" width="90"><img src="https://skillicons.dev/icons?i=bootstrap" width="55" height="55" /><br>Bootstrap</td>
     <td align="center" width="90"><img src="https://skillicons.dev/icons?i=redux" width="55" height="55" /><br>Redux</td>
     <td align="center" width="90"><img src="https://skillicons.dev/icons?i=python" width="55" height="55" /><br>Python</td>
@@ -224,10 +224,10 @@ I'm proud of my continuous growth and learning in the coding world. I am looking
     <td align="center" width="90"><img src="https://skillicons.dev/icons?i=c" width="55" height="55" /><br>C</td>
     <td align="center" width="90"><img src="https://skillicons.dev/icons?i=cs" width="55" height="55" /><br>C#</td>
     <td align="center" width="90"><img src="https://skillicons.dev/icons?i=dotnet" width="55" height="55" /><br>.NET</td>
-    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=azure" width="55" height="55" /><br>Azure</td>
-    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=git" width="55" height="55" /><br>Git</td>
   </tr>
   <tr>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=azure" width="55" height="55" /><br>Azure</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=git" width="55" height="55" /><br>Git</td>
     <td align="center" width="90"><img src="https://skillicons.dev/icons?i=github" width="55" height="55" /><br>GitHub</td>
     <td align="center" width="90"><img src="https://skillicons.dev/icons?i=vscode" width="55" height="55" /><br>VS Code</td>
     <td align="center" width="90"><img src="https://skillicons.dev/icons?i=figma" width="55" height="55" /><br>Figma</td>
@@ -236,33 +236,19 @@ I'm proud of my continuous growth and learning in the coding world. I am looking
     <td align="center" width="90"><img src="https://skillicons.dev/icons?i=docker" width="55" height="55" /><br>Docker</td>
     <td align="center" width="90"><img src="https://skillicons.dev/icons?i=kubernetes" width="55" height="55" /><br>Kubernetes</td>
     <td align="center" width="90"><img src="https://skillicons.dev/icons?i=terraform" width="55" height="55" /><br>Terraform</td>
+  </tr>
+    <tr>
     <td align="center" width="90"><img src="https://skillicons.dev/icons?i=linux" width="55" height="55" /><br>Linux</td>
     <td align="center" width="90"><img src="https://img.shields.io/badge/scikit-learn-orange" width="55" height="55" /><br>Scikit-Learn</td>
     <td align="center" width="90"><img src="https://img.shields.io/badge/scrapy-green" width="55" height="55" /><br>Scrapy</td>
-  </tr>
-  <tr>
     <td align="center" width="90"><img src="https://img.shields.io/badge/reactquery-pink" width="55" height="55" /><br>React Query</td>
     <td align="center" width="90"><img src="https://img.shields.io/badge/openai-blue" width="55" height="55" /><br>OpenAI</td>
     <td align="center" width="90"><img src="https://img.shields.io/badge/pycharm-darkgreen" width="55" height="55" /><br>PyCharm</td>
     <td align="center" width="90"><img src="https://img.shields.io/badge/intellijIDEA-purple" width="55" height="55" /><br>IntelliJ IDEA</td>
     <td align="center" width="90"><img src="https://img.shields.io/badge/gitlabactions-orange" width="55" height="55" /><br>GitLab Actions</td>
     <td align="center" width="90"><img src="https://img.shields.io/badge/githubcopilot-blue" width="55" height="55" /><br>GitHub Copilot</td>
-  </tr>
+    </tr>
 </table>
-
-
-<p align="center">
-  <img src="https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white" />
-  <img src="https://img.shields.io/badge/Web%20Scraping-4CAF50?style=for-the-badge&logo=googlechrome&logoColor=white" />
-  <img src="https://img.shields.io/badge/ML%20Algorithms-FF6F00?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-  <img src="https://img.shields.io/badge/LLM%20Models-8E44AD?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" />
-  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitLab_CI%2FCD-FCA121?style=for-the-badge&logo=gitlab&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub_Copilot-00ADD8?style=for-the-badge&logo=github&logoColor=white" />
-</p>
-
-
 
 <!-- ##
 ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
