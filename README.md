@@ -237,7 +237,7 @@ I'm proud of my continuous growth and learning in the coding world. I am looking
     <td align="center" width="90"><img src="https://skillicons.dev/icons?i=kubernetes" width="55" height="55" /><br>Kubernetes</td>
     <td align="center" width="90"><img src="https://skillicons.dev/icons?i=terraform" width="55" height="55" /><br>Terraform</td>
   </tr>
-    <tr>
+   <tr>
     <td align="center" width="90"><img src="https://skillicons.dev/icons?i=linux" width="55" height="55" /><br>Linux</td>
     <td align="center" width="90"><img src="https://img.shields.io/badge/scikit-learn-orange" width="55" height="55" /><br>Scikit-Learn</td>
     <td align="center" width="90"><img src="https://img.shields.io/badge/scrapy-green" width="55" height="55" /><br>Scrapy</td>
@@ -247,7 +247,13 @@ I'm proud of my continuous growth and learning in the coding world. I am looking
     <td align="center" width="90"><img src="https://img.shields.io/badge/intellijIDEA-purple" width="55" height="55" /><br>IntelliJ IDEA</td>
     <td align="center" width="90"><img src="https://img.shields.io/badge/gitlabactions-orange" width="55" height="55" /><br>GitLab Actions</td>
     <td align="center" width="90"><img src="https://img.shields.io/badge/githubcopilot-blue" width="55" height="55" /><br>GitHub Copilot</td>
-    </tr>
+    <td align="center" width="90"><img src="https://img.shields.io/badge/selenium-darkblue" width="55" height="55" /><br>Selenium</td>
+   
+</tr>
+      <tr>
+           <td align="center" width="90"><img src="https://img.shields.io/badge/grafana-orange" width="55" height="55" /><br>Grafana</td>
+    <td align="center" width="90"><img src="https://img.shields.io/badge/prometheus-red" width="55" height="55" /><br>Prometheus</td>
+            </tr>
 </table>
 
 <!-- ##
