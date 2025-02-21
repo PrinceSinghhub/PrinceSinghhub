@@ -303,7 +303,6 @@ I'm proud of my continuous growth and learning in the coding world. I am looking
 ![](https://github-profile-trophy.vercel.app/?username=PrinceSinghhub&theme=radical&no-frame=false&no-bg=true&margin-w=20&margin-h=20)
 
 [![Prince Singh GitHub activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=PrinceSinghHub&theme=github-compact)](https://github.com/PrinceSinghHub/github-readme-activity-graph)
-[![My Gist](https://gist.github.com/PrinceSinghhub/385efae769fdad5040e565f1c9dc65e6/raw/preview.png)](https://gist.github.com/PrinceSinghhub/385efae769fdad5040e565f1c9dc65e6)
 
 <p align="center">
     <a href="https://github.com/PrinceSinghhub/75DaysHardPlacementChallenge">
