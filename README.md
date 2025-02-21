@@ -160,11 +160,11 @@
 
 | 🎯 My Prepration Challenge's 🎯 | 🥇 Other Achievement 🥇 |
 |------------------------------------|----------------------------------------|
-| 💥 75DaysHardPlacementChallenge  | ⭐ Thousand's of Students Guide for Placements and DSA and CP and Development | 
+| 💥 75DaysHardPlacementChallenge  | ⭐ 40000+ Students Guide for Placements and DSA and CP and Development | 
 | 💥 1000DaysOfCode+ on @LeetCode  | ⭐ Top performer in College " Rank 1 " [Acadiemic & Coding ] |
 | 💥 365DaysOfCode+ on @InterviewBit |  ⭐ DSA & DEV Highe Rated Mentor on @TopMate ( Included in Top 1% ) |
-| 💥 700DaysOfCode+ on @CodeStudio | ⭐ 53K+ Followers on LinkedIn |
-| 💥 800DaysOfCode+ on @GeeksForGeeks | ⭐ 10M+ Views on LinkedIn |
+| 💥 700DaysOfCode+ on @CodeStudio | ⭐ 100K+ Total Followers on LinkedIn, X, Instagram, Youtube, Github, Community |
+| 💥 800DaysOfCode+ on @GeeksForGeeks | ⭐ 11M+ Views on LinkedIn |
 
 <img width="2500rem" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 ## DSA 🏆 Achievements
