@@ -256,75 +256,6 @@ I'm proud of my continuous growth and learning in the coding world. I am looking
             </tr>
 </table>
 
-<!-- ##
-![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
-![Typescript](https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)
-![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)
-![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Nodejs](https://img.shields.io/badge/Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-lightgrey?logo=mysql&style=for-the-badge&logoColor=white&labelColor=blue)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS5](https://img.shields.io/badge/CSS5-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-092749?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4&labelColor=000000)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![React Query](https://img.shields.io/badge/-React_Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Web Scraping](https://img.shields.io/badge/Web%20Scraping-4CAF50?style=for-the-badge&logo=googlechrome&logoColor=white)
-![ML Algorithms](https://img.shields.io/badge/ML%20Algorithms-FF6F00?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![LLM Models](https://img.shields.io/badge/LLM%20Models-8E44AD?style=for-the-badge&logo=openai&logoColor=white)
-![Server & Networking](https://img.shields.io/badge/Server%20&%20Networking-0078D7?style=for-the-badge&logo=windowsserver&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white)
-![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![API](https://img.shields.io/badge/API-008000?style=for-the-badge)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
-![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![Visual Studio Code Professional](https://img.shields.io/badge/VS_Code_Professional-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=github&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![GitLab CI/CD](https://img.shields.io/badge/GitLab_CI%2FCD-FCA121?style=for-the-badge&logo=gitlab&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
--->
-<!-- ## 🚀 Languages and Tools:
-
-<p align="left"> 
-    <a href="#"> <img src="https://img.icons8.com/color/96/000000/python--v1.png"/> </a>
-    <a href="#"> <img src="https://img.icons8.com/color/96/000000/java-coffee-cup-logo--v1.png"/> </a>
-    <a href="#"> <img src="https://img.icons8.com/color/96/000000/html-5--v1.png"/> </a> 
-    <a href="#"> <img src="https://img.icons8.com/color/96/000000/css3.png"/> </a> 
-    <a href="#"> <img src="https://img.icons8.com/color/96/000000/bootstrap.png"/> </a> 
-    <a href="#"> <img src="https://img.icons8.com/color/96/000000/mysql-logo.png"/> </a>
-    <a href="#"> <img src="https://img.icons8.com/color/96/000000/git.png"/> </a>
-    <a href="#"> <img src="https://img.icons8.com/ios-filled/100/000000/github.png"/> </a> 
-    <a href="#"> <img src="https://img.icons8.com/color/96/000000/pycharm.png"/> </a>
-    <a href="#"> <img src="https://img.icons8.com/color/96/000000/intellij-idea.png"/> </a>
-    <a href="#"> <img src="https://img.icons8.com/color/96/000000/visual-studio--v2.png"/> </a>
-    <a href="#"> <img src="https://img.icons8.com/color/96/000000/linux--v1.png"/> </a> 
-    <a href="#"> <img src="https://img.icons8.com/color/96/windows-10.png"/> </a>
-    <a href="#"> <img src="https://img.icons8.com/ios-filled/100/000000/django.png"/> </a> 
-    <a href="#"> <img src="https://img.icons8.com/color/96/000000/c-sharp-logo-2.png"/> </a>
-    <a href="#"> <img src="https://img.icons8.com/color/96/000000/adobe-photoshop--v1.png"/> </a>   
-    <a href="#"> <img src="https://img.icons8.com/color/96/mongodb.png"/> </a>  
-    <a href="#"> <img src="https://img.icons8.com/ios/96/express-js.png"/> </a>  
-    <a href="#"> <img src="https://img.icons8.com/officel/96/react.png"/> </a> 
-    <a href="#"> <img src="https://img.icons8.com/fluency/96/node-js.png"/> </a>
-</p> -->
-
 <img width="2500rem" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 ## 📝 PROJECT's ZONE (Working on 30+ Persional Projects)
 
@@ -372,7 +303,28 @@ I'm proud of my continuous growth and learning in the coding world. I am looking
 ![](https://github-profile-trophy.vercel.app/?username=PrinceSinghhub&theme=radical&no-frame=false&no-bg=true&margin-w=20&margin-h=20)
 
 [![Prince Singh GitHub activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=PrinceSinghHub&theme=github-compact)](https://github.com/PrinceSinghHub/github-readme-activity-graph)
+[![My Gist](https://gist.github.com/PrinceSinghhub/385efae769fdad5040e565f1c9dc65e6/raw/preview.png)](https://gist.github.com/PrinceSinghhub/385efae769fdad5040e565f1c9dc65e6)
 
+<p align="center">
+    <a href="https://github.com/PrinceSinghhub/75DaysHardPlacementChallenge">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=PrinceSinghhub&repo=75DaysHardPlacementChallenge&theme=tokyonight&icon_color=CB9DF0&text_color=CB9DF0&bg_color=000000" />
+    </a>
+      <a href="https://github.com/Preparation-Street/Programming-Street-150">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Preparation-Street&repo=Programming-Street-150&theme=tokyonight&icon_color=CB9DF0&text_color=CB9DF0&bg_color=000000" />
+    </a>
+    <a href="https://github.com/PrinceSinghhub/PrinceSinghhub">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=PrinceSinghhub&repo=PrinceSinghhub&theme=tokyonight&icon_color=CB9DF0&text_color=CB9DF0&bg_color=000000" />
+    </a>
+  
+</p>
+<p align="center">
+    <a href="https://github.com/PrinceSinghhub/GFG-Questions">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=PrinceSinghhub&repo=GFG-Questions&theme=tokyonight&icon_color=CB9DF0&text_color=CB9DF0&bg_color=000000" />
+    </a>
+      <a href="https://github.com/PrinceSinghhub/LeetCode-POTD-2024">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=PrinceSinghhub&repo=LeetCode-POTD-2024&theme=tokyonight&icon_color=CB9DF0&text_color=CB9DF0&bg_color=000000" />
+    </a>
+</p>
 <img width="2500rem" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 ## 📧 Connect with me:
 <p align="left">
