@@ -4,7 +4,7 @@
 <!--<h2 align="center"><b>I'm a Remote Developer & Software Engineer</b></h2> -->
 <h2 align="center"><b>Cracked National & International 4 Remote Job As A Fresher, ( 4 PBC Back to Back ) 💯</b></h2> 
 <p align="center"><b>SDE 1 @proPeers | Ex-Junior SDE Intern @CloudConduction | Mentor @proPeers & @topmate.io | 3.5⭐ LEETCODE | Max(1876) Rating Knight👑 Top 5% 🌍 | Institute 1🥇 Rank GFG | Global🥇 13th Rank InterviewBit | Max(1854) Rating Specialist🌞 CodeStudio Level 9 🚀 | Building @DSAwithPrinceSingh | Problem Solving Enthusiast 🧠 | 1000DaysOfCode+ on @LeetCode | 1000DaysOfCode Streak 🔥 | 6⭐ Problem Solving | Amateur HackerEarth | 1500+ Problems Solved on DSA | DSA & DEV Mentor | HardCore DSA Enthusiast ❤️ | 75DayHardPlacementChallenge 🔥</b> 
-</b></p>  
+</b></p>
 
 <p align="center">  
     <a href="https://www.youtube.com/@PrinceSinghCSE" target="_blank">
