@@ -182,10 +182,10 @@ Junior Software Engineer · Oak Park, Michigan, United States · Remote
 I'm thrilled to showcase my dedication and passion for problem-solving in the world of coding. Here's a snapshot of my achievements across various coding platforms and <b>💥 I have Solved Thousand of DSA Problems on, Different-Different Coding Platforms </b>
 
 **LeetCode and GeeksForGeeks 🏆**
-- Profile 1: 1100+ problems solved, 3.5⭐ with a max rating of 1464 and 40+ Badges 🥇.
-- Annual Awards 2022 and 2023 on LeetCode and Include Top 0.4% of the LeetCoders 🌐.
-- Profile 2: 400+ problems solved, 2⭐ with a max rating of 1876 and 10+Badges 🥇 with Knight 👑 Tag and Include in Top 5% Code in the World 🌎.
-- Annual Award 2023 and Include Top 4.2% of the LeetCoders 🌐.
+- Profile 1: 1300+ problems solved, 3.5⭐ with a max rating of 1650+ and 60+ Badges 🥇.
+- Annual Awards 2022, 2023, 2024 on LeetCode and Include Top 17% of the LeetCoders 🌐.
+- Profile 2: 800+ problems solved, 2⭐ with a max rating of 1876 and 34+Badges 🥇 with Knight 👑 Tag and Include in Top 5% Code in the World 🌎.
+- Annual Award 2023,2024 and Include Top 4.2% of the LeetCoders 🌐.
 - GeeksForGeeks: 1300+ problems solved, Global Rank 100 and Monthly Rank 99 with the Score of 4000+, and Instutie Rank 1🔥.
 
 <a><img align="right" src="https://assets.leetcode.com/static_assets/others/Knight.gif" width="360" height="360" /></a>
