@@ -53,29 +53,35 @@
 - ⚡ For Fun **Games, Rosting, Mems, HipHop**
 <!-- - 📖 Learn [**DSAwithPrinceSingh**](https://princesinghhub.github.io/DSAwithPrinceSingh/) -->
 ---
-## 👨‍🏫 My Key Contributions as an SDE 1 & Tech Lead at @proPeers
-- <b>End-to-End Development:</b> Delivered <b>scalable</b> and <b>efficient solutions</b> for both <b>frontend</b> and <b>backend development</b> using the <b>MERN stack</b> and <b>Next.js</b>.  
-- <b>API Optimization:</b> Engineered and optimized <b>RESTful APIs</b>, reducing <b>response time</b> from <b>1.3 seconds</b> to <b>200 ms</b> through the implementation of <b>pipelines</b> and <b>advanced caching mechanisms</b>.  
-- <b>Cloud Infrastructure Management:</b> Designed and managed <b>robust cloud-based infrastructure</b> on <b>Azure</b>, overseeing <b>deployments</b> and <b>server configurations</b> for seamless <b>scalability</b> and <b>reliability</b>.  
-- <b>Cost Optimization:</b> Implemented strategies to optimize <b>server costs</b>, achieving significant reductions in <b>cloud expenditure</b> without compromising <b>performance</b>.  
-- <b>AI & Recommendations:</b> Contributed to the development of <b>AI-driven recommendation models</b>, enhancing the platform's <b>feed feature</b> for improved <b>user engagement</b>.  
-- <b>Code Quality Assurance:</b> Conducted comprehensive <b>code reviews</b>, ensuring adherence to <b>best practices</b> and maintaining high standards of <b>code quality</b> and <b>reliability</b>.
-- <b>Collaboration & Leadership:</b> Partnered with <b>cross-functional teams</b> to drive seamless <b>technology integration</b> and led the <b>technical team</b> to deliver <b>high-impact projects</b> on time.
-- <b>Scalable Feature:</b> Over the <b>year</b> worked extensively on a <b>large-scale codebase</b> successfully deploying <b> lot of major features</b> now live and used by <b>1.5 lakh+ users</b> and also ensuring <b>scalability</b> and <b>high availability</b>  
-- <b>Deadline-Driven Execution:</b> Effectively managed and executed <b>end-to-end project tasks</b>, meeting <b>deadlines</b> with a focus on <b>accuracy</b> and <b>performance</b>.
+## 👨‍🏫 My Key Experiences
 
----
-## 👨‍💻 My Key Contributions as an Intern at @CloudConduction
-- <b>Develop And Maintain:</b> All aspects of the <b>AI application</b>, including its <b>front-end</b> and <b>back-end components</b>.  
-- <b>Design Intuitive UI:</b> Designed <b>intuitive</b> and <b>responsive user interfaces</b> using <b>React</b>.  
-- <b>Backend Optimization:</b> Created and optimized <b>backend services</b> developed in <b>.NET</b>.  
-- <b>AI & Cloud Integration:</b> Worked extensively with <b>AI models</b> and <b>cloud services</b>, especially <b>Azure</b>, to enhance application <b>capabilities</b>.  
-- <b>Performance & Scalability:</b> Ensured the application’s <b>performance</b>, <b>scalability</b>, and <b>security</b>.  
-- <b>Cross-Functional Collaboration:</b> Collaborated with <b>cross-functional teams</b> for seamless <b>integration</b> of technologies.  
-- <b>Code Quality Assurance:</b> Conducted <b>code reviews</b>, maintained <b>code quality</b>, and adhered to <b>best practices</b>.  
-- <b>AI Chat Application:</b> Worked on the <b>end-to-end AI chat application</b> and improved <b>60%</b> of the frontend and <b>30%</b> of the backend. Additionally, I enhanced <b>optimization</b> by <b>10%</b> and increased <b>performance</b> from <b>1.86 seconds</b> to <b>1.2 seconds</b>.  
-- <b>MERN Stack Projects:</b> Worked on <b>MERN stack end-to-end projects</b> and <b>handled</b> the project from <b>0 to production</b>.
+### ProPeers  
+**July 2024 – Present**  
+SDE - 1 · Delhi, India · Remote 
+- **Created end-to-end roadmaps** and **delivered highly accurate customized roadmaps** used by **15K+ users**, while **improving all API responses from 2.1s to under 300ms**
+- **Developed and deployed a Session Recording bot** using **Selenium, Python**, and **headless VM servers on Azure** with deep link integration, **reducing manual effort** for session joining and recording
+- **Worked on complex APIs** to **reduce processing time** and **improved tab switching experience** for smoother navigation
+- **Reduced Total Blocking Time (TBT), LCP, and FCP from 4.4s to 990ms** and **optimized all key APIs** to respond under 300ms, **enhancing UX for 15K+ active users**
+- **Implemented advanced caching and pipeline mechanisms**, achieving **70% improvement in API fetching time**
+- **Optimized frontend performance** using **SSR, dynamic imports, and API integrations**, significantly **reducing page load time**
+- **Migrated MongoDB from Atlas to self-hosted replica sets**, wrote base scripts for **backup recovery**, set up VMs, and **automated cron-based backups to Azure Blob**
+- Utilized **Grafana and Prometheus for real-time alerting**, ensuring **system stability**, while **improving API speed and accuracy**
+- **Managed and optimized 150+ APIs** for **enhanced performance and reliability**
+- **Deployed CI/CD pipelines** via **Azure, Vercel, and GitLab**, ensuring **smooth rollout of updates**
+- **Managed end-to-end deployment** for product serving **15K+ users**, ensuring **high availability and reliability**
 
+### Cloud Conduction  
+**Jan 2024 – June 2024**  
+Junior Software Engineer · Oak Park, Michigan, United States · Remote 
+- **Worked on AI chat application from scratch** using **React and .NET**, improving **frontend efficiency by 60%** and **backend by 30%**
+- **Optimized AI model integration**, reducing response time from **1.86s to 1.2s (35% faster)** through performance tuning
+- **Designed scalable cloud architecture on Azure** for AI services, **enhancing throughput by 10%** while **reducing costs**
+- Developed **responsive UI components in React**, improving **user engagement metrics by 25%**
+- **Implemented secure API gateways in .NET** that handled **500+ concurrent requests** with **99.9% uptime**
+- **Spearheaded MERN stack implementation** for new features, **reducing development time by 40%**
+- **Established CI/CD pipelines**, decreasing **deployment failures by 75%** and **improving release velocity**
+- **Conducted code optimization reviews**, reducing **technical debt by 30%** across the codebase
+- **Managed full project lifecycle** from concept to production deployment and server
 
 ---
 ## ❤️ I'm Code on (DSA)
