@@ -187,6 +187,9 @@ I'm thrilled to showcase my dedication and passion for problem-solving in the wo
 - HackerRank: 300+ problems solved, with a coding score of 119000+ 🚀.
 - HackerEarth: 5⭐ in Python, 5⭐ in Java, and 5⭐ in Days of Code 🌈.
 - work@Tech: 1510 score, 999 rank, and 40 problems solved, with the best global rank under 1K 🚀.
+- HackerRank: 300+ problems solved, with a coding score of 119000+ 🚀.
+- HackerEarth: 5⭐ in Python, 5⭐ in Java, and 5⭐ in Days of Code 🌈.
+- work@Tech: 1510 score, 999 rank, and 40 problems solved, with the best global rank under 1K 🚀.
 
 I'm proud of my continuous growth and learning in the coding world. I am looking forward to more challenges and achievements ahead! 💻🚀
 
