@@ -35,10 +35,10 @@
 ## About Me
  <!-- <a><img align="right" src="MyLCGoldBedge.gif" width="350" height="240" /></a> -->
 <a><img align="right" src="https://assets.leetcode.com/static_assets/marketing/1000.gif" width="360" height="360" /></a>
-- 🧠 Hardcore DSA Enthusiast & Problem-Solving Addict <b>5000+ problems solved with 1200+ Days of Consistent Code</b> across all major platforms, Passionate About Crafting Efficient Code .
+- 🧠 Hardcore DSA Enthusiast & Problem-Solving Addict <b>5000+ problems solved with 1200+ Days of Consistent Code</b> across all major platforms, Passionate About Crafting Efficient Code.
 - 👨‍💻 Tech Explorer - Love to learn new technologies and explore new sets of areas.
 - ✋ Hand-Holding Expertise: MERN, DevOps, Networking, Servers, System Design, Cost Optimization
-- 🎓 Top-Rated Mentor - Mentored 40,000+ students and professionals over the last 1.5 years on DSA, Development, Career Growth & Remote Job Prep and Interview Prepration
+- 🎓 Top-Rated Mentor - Mentored 40,000+ students and professionals over the last 1.5 years on DSA, Development, Career Growth & Remote Job Prep and Interview Preparation
 - 👁‍🗨 Open Source Contributor
 - 👨‍🏫 Mentor on @Topmate and @Propeers
 - 📚 Building <b>[**Prepration Street**](https://www.preparationstreet.com/)</b>
@@ -167,7 +167,7 @@ Junior Software Engineer · Oak Park, Michigan, United States · Remote
 | 💥 900DaysOfCode+ on @GeeksForGeeks | ⭐ 10M+ Views on LinkedIn |
 
 ---
-## DSA 🏆 Achievements
+## 🏆 DSA Battleground
 
 <a><img align="right" src="2024-Graph.png" width="350"/></a>
 
@@ -175,24 +175,17 @@ Junior Software Engineer · Oak Park, Michigan, United States · Remote
 
 I'm thrilled to showcase my dedication and passion for problem-solving in the world of coding. Here's a snapshot of my achievements across various coding platforms and <b>💥 I have Solved Thousand of DSA Problems on, Different-Different Coding Platforms </b>
 
-**LeetCode and GeeksForGeeks 🏆**
-- Profile 1: 1300+ problems solved, 3.5⭐ with a max rating of 1650+ and 60+ Badges 🥇.
+**🏆 Excited to Share My Coding Battleground**
+- In 2024: 1300+ problems solved, 3.5⭐ with a max rating of 1650+ and 60+ Badges 🥇.
 - Annual Awards 2022, 2023, 2024 on LeetCode and Include Top 17% of the LeetCoders 🌐.
-- Profile 2: 800+ problems solved, 2⭐ with a max rating of 1876 and 34+Badges 🥇 with Knight 👑 Tag and Include in Top 5% Code in the World 🌎.
+- In 2025: 800+ problems solved, 2⭐ with a max rating of 1876 and 34+Badges 🥇 with Knight 👑 Tag and Include in Top 5% Code in the World 🌎.
 - Annual Award 2023,2024 and Include Top 4.2% of the LeetCoders 🌐.
 - GeeksForGeeks: 1300+ problems solved, Global Rank 100 and Monthly Rank 99 with the Score of 4000+, and Instutie Rank 1🔥.
-
 <a><img align="right" src="https://assets.leetcode.com/static_assets/others/Knight.gif" width="360" height="360" /></a>
-
-**CodeStudio & InterviewBit & HackerRank & HackerEarth 🏆**
 - CodeStudio: 2000+ problems solved with 100000+ Coding Score, including in the top 0.5% 🌟.
 - InterviewBit: 560+ problems solved, Global Rank 13, and a 6⭐ in Problem Solving 🌐.
 - HackerRank: 300+ problems solved, with a coding score of 119000+ 🚀.
 - HackerEarth: 5⭐ in Python, 5⭐ in Java, and 5⭐ in Days of Code 🌈.
-
-**CodeChef & CodeForces & work@Tech 🏆**
-- CodeChef: 2⭐ coder with a max rating of 1595 and 80+ problems solved.
-- CodeForces: Max rating of 1308, Pupil CodeForces, and a top global rank of 202 🌎.
 - work@Tech: 1510 score, 999 rank, and 40 problems solved, with the best global rank under 1K 🚀.
 
 I'm proud of my continuous growth and learning in the coding world. I am looking forward to more challenges and achievements ahead! 💻🚀
