@@ -30,27 +30,22 @@
  </a> 
 </p>
 
-   
-
 <!-- <img align="right" alt="Coding" width="400" src="bn.gif"> -->
 ---
 ## About Me
  <!-- <a><img align="right" src="MyLCGoldBedge.gif" width="350" height="240" /></a> -->
-<a><img align="right" src="https://assets.leetcode.com/static_assets/marketing/2024.gif" width="360" height="360" /></a>
-- 🥋 I'm a very Passionate For Programming and Problem-Solving Enthusiast. I'm always ready to learn new things with Effective ideas. Hardcore DSA Enthusiast ❤️
-- 👨‍💻 Love to learn new technologies and to explore new sets of areas.
-- 📚 Founder <b>[**Prepration Street**](https://www.linkedin.com/company/preparation-street)</b>
-- 👁‍🗨 Open Source Contributor  
+<a><img align="right" src="https://assets.leetcode.com/static_assets/marketing/1000.gif" width="360" height="360" /></a>
+- 🧠 Hardcore DSA Enthusiast & Problem-Solving Addict <b>5000+ problems solved with 1200+ Days of Consistent Code</b> across all major platforms, Passionate About Crafting Efficient Code .
+- 👨‍💻 Tech Explorer - Love to learn new technologies and explore new sets of areas.
+- ✋ Hand-Holding Expertise: MERN, DevOps, Networking, Servers, System Design, Cost Optimization
+- 🎓 Top-Rated Mentor - Mentored 40,000+ students and professionals over the last 1.5 years on DSA, Development, Career Growth & Remote Job Prep and Interview Prepration
+- 👁‍🗨 Open Source Contributor
 - 👨‍🏫 Mentor on @Topmate and @Propeers
-- 🚀 Passionate About Crafting Efficient Code 
-- 📘 I’m Currently Studying **Devops**
-  <!-- - 📘 I’m Currently learning **𝐌𝐄𝐑𝐍 𝐒𝐭𝐚𝐜𝐤 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐦𝐞𝐧𝐭** -->
-- 👯 I’m looking to collaborate on **OpenSource Projects**
-- 📔 Live [**MyResume**](https://princesinghhub.github.io/MYWebResume/)
-- 🔥 [**My DSA and Development Skills**](https://linktr.ee/itsPrinceSingh)
+- 📚 Building <b>[**Prepration Street**](https://www.preparationstreet.com/)</b>
+ <!--- 📔 Live [**MyResume**](https://princesinghhub.github.io/MYWebResume/)
+- 🔥 [**My DSA and Development Skills**](https://linktr.ee/itsPrinceSingh) --->
 - 📞 Book Your 1:1 Guidacne **DSA & Development & Placement & Career Guidance** [**Topmate**](https://topmate.io/itsprincesingh) and [**ProPeers**](https://www.propeers.in/profile/princesingh)
 - ⚡ For Fun **Games, Rosting, Mems, HipHop**
-<!-- - 📖 Learn [**DSAwithPrinceSingh**](https://princesinghhub.github.io/DSAwithPrinceSingh/) -->
 ---
 ## 👨‍🏫 My Key Experiences
 
