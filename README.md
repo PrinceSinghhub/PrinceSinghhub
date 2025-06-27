@@ -192,8 +192,9 @@ Junior Software Engineer · Oak Park, Michigan, United States · Remote
 
 🚀 Excited to Share My Coding Journey and Accomplishments! 🚀
 
-I'm thrilled to showcase my dedication and passion for problem-solving in the world of coding. Here's a snapshot of my achievements across various coding platforms and <b>💥 I have Solved Thousand of DSA Problems on, Different-Different Coding Platforms </b>
-
+🚀 I'm thrilled to showcase my **dedication and passion for problem-solving** in the world of coding, over the past few years, 
+I’ve **solved 5000+ DSA problems across 10+ top coding platforms** with an **unbreakable 1200+ day streak** of daily practice.
+This journey reflects my relentless focus on **logic, consistency, and mastery of core CS fundamentals**.
 
 **LeetCode and GeeksForGeeks 🏆**
 - Profile 1: 1100+ problems solved, 3.5⭐ with a max rating of 1464 and 40+ Badges 🥇.
