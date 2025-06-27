@@ -183,7 +183,7 @@ Junior Software Engineer · Oak Park, Michigan, United States · Remote
 | 💥 1200DaysOfCode+ on @LeetCode  | ⭐ Top performer in College " Rank 1 " [Acadiemic & Coding ] |
 | 💥 365DaysOfCode+ on @InterviewBit |  ⭐ DSA & DEV Highe Rated Mentor on @TopMate ( Included in Top 1% ) |
 | 💥 700DaysOfCode+ on @CodeStudio | ⭐ 100K+ Total Followers on LinkedIn, X, Instagram, Youtube, Github, Community |
-| 💥 900DaysOfCode+ on @GeeksForGeeks | ⭐ 10M+ Views on LinkedIn |
+| 💥 1000DaysOfCode+ on @GeeksForGeeks | ⭐ 10M+ Views on LinkedIn |
 
 ---
 ## 🏆 DSA Battleground
