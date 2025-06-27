@@ -47,7 +47,7 @@
 - 📞 Book Your 1:1 Guidacne **DSA & Development & Placement & Career Guidance** [**Topmate**](https://topmate.io/itsprincesingh) and [**ProPeers**](https://www.propeers.in/profile/princesingh)
 - ⚡ For Fun **Games, Rosting, Mems, HipHop**
 ---
-## 👨‍🏫 Professional Experience (From Jan 2024 - Present )
+## 👨‍🏫 Professional Experience (From Jan 2024 - Present)
 
 ### ProPeers  
 **July 2024 – Present**  
