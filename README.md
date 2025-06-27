@@ -52,32 +52,51 @@
 ### ProPeers  
 **July 2024 – Present**  
 SDE - 1 · Delhi, India · Remote 
-- **Created end-to-end roadmaps** and **delivered highly accurate customized roadmaps** used by **15K+ users**, while **improving all API responses from 2.1s to under 300ms**
-- **Developed and deployed a Session Recording bot** using **Selenium, Python**, and **headless VM servers on Azure** with deep link integration, **reducing manual effort** for session joining and recording
-- **Worked on complex APIs** to **reduce processing time** and **improved tab switching experience** for smoother navigation
-- **Reduced Total Blocking Time (TBT), LCP, and FCP from 4.4s to 990ms** and **optimized all key APIs** to respond under 300ms, **enhancing UX for 15K+ active users**
-- **Implemented advanced caching and pipeline mechanisms**, achieving **70% improvement in API fetching time**
-- **Optimized frontend performance** using **SSR, dynamic imports, and API integrations**, significantly **reducing page load time**
-- **Migrated MongoDB from Atlas to self-hosted replica sets**, wrote base scripts for **backup recovery**, set up VMs, and **automated cron-based backups to Azure Blob**
-- Utilized **Grafana and Prometheus for real-time alerting**, ensuring **system stability**, while **improving API speed and accuracy**
-- **Managed and optimized 150+ APIs** for **enhanced performance and reliability**
-- **Deployed CI/CD pipelines** via **Azure, Vercel, and GitLab**, ensuring **smooth rollout of updates**
-- **Managed end-to-end deployment** for product serving **15K+ users**, ensuring **high availability and reliability**
+* 🚀 **Built and scaled the flagship "Roadmaps" feature**, delivering **100+ curated learning paths** across DSA, Development, and System Design — **used by 100K+ users**. Improved personalization and relevance, while reducing API response time from **2.1s to < 300ms**, resulting in a **7x faster experience** and **40% higher user engagement**.
+
+* 🤖 **Developed and integrated the "AskAI + Discussion Forum"**, an intelligent peer-programming assistant where users can **interact with AI** to solve DSA/Dev doubts and collaborate with others — enabling **on-demand doubt resolution** and **community learning**.
+
+* 📹 **Engineered a Session Recording Bot** using **Python, Selenium**, and **headless Azure VMs** with deep link automation — automating session joining and recording, cutting down **100% of manual effort** and improving reliability.
+
+* ⚙️ **Optimized 150+ APIs** by implementing **advanced caching layers, async processing, and API pipelines**, reducing backend latency by **up to 70%** and improving system throughput.
+
+* 🎯 **Reduced core web vitals**  **TBT, LCP, and FCP from 4.4s to 990ms** through advanced frontend optimizations (SSR, dynamic imports, lazy-loading APIs), significantly boosting **UX for 15K+ monthly active users**.
+
+* 🧠 **Led the end-to-end performance overhaul** of the platform, focusing on smoother tab-switching experiences, minimal downtime, and blazing-fast navigation across the app.
+
+* 🗃️ **Migrated MongoDB from Atlas to self-hosted replica sets**, wrote automated **backup & recovery scripts**, set up VMs, and integrated **cron-based backups to Azure Blob**, ensuring **data durability and cost-efficiency**.
+
+* 📊 Set up **real-time monitoring and alerting** with **Prometheus and Grafana**, ensuring **system health**, proactive issue resolution, and enhanced DevOps visibility.
+
+* 🚢 **Deployed scalable CI/CD pipelines** using **Azure, GitLab, and Vercel**, ensuring **zero-downtime deployments** and faster iteration cycles across teams.
+
+* 🔧 **Handled end-to-end production deployment** and scaling for a system serving **15K+ users**, maintaining **high availability, fault tolerance**, and robust performance at scale.
+
+---
 
 ### Cloud Conduction  
 **Jan 2024 – June 2024**  
 Junior Software Engineer · Oak Park, Michigan, United States · Remote 
-- **Worked on AI chat application from scratch** using **React and .NET**, improving **frontend efficiency by 60%** and **backend by 30%**
-- **Optimized AI model integration**, reducing response time from **1.86s to 1.2s (35% faster)** through performance tuning
-- **Designed scalable cloud architecture on Azure** for AI services, **enhancing throughput by 10%** while **reducing costs**
-- Developed **responsive UI components in React**, improving **user engagement metrics by 25%**
-- **Implemented secure API gateways in .NET** that handled **500+ concurrent requests** with **99.9% uptime**
-- **Spearheaded MERN stack implementation** for new features, **reducing development time by 40%**
-- **Established CI/CD pipelines**, decreasing **deployment failures by 75%** and **improving release velocity**
-- **Conducted code optimization reviews**, reducing **technical debt by 30%** across the codebase
-- **Managed full project lifecycle** from concept to production deployment and server
+* 💬 **Built an AI-powered chat application** from the ground up using **React and .NET**, improving **frontend efficiency by 60%** and backend performance by **30%**, delivering a highly responsive user experience.
+
+* ⚡ **Integrated and optimized AI model responses**, reducing latency from **1.86s to 1.2s (35% faster)** through strategic API design, caching, and performance tuning.
+
+* ☁️ **Designed scalable cloud architecture on Microsoft Azure** for AI workloads, improving system **throughput by 10%** while significantly **reducing infrastructure costs** via autoscaling and resource optimization.
+
+* 🎨 **Developed modern, responsive UI components** in React that improved **user engagement metrics by 25%**, including better retention and interaction rates.
+
+* 🔐 **Implemented secure, scalable API gateways in .NET Core**, capable of handling **500+ concurrent requests** with **99.9% uptime**, supporting production-level reliability.
+
+* 🚀 **Led the implementation of new features** using the **MERN stack**, cutting down **development time by 40%**, and accelerating product iteration cycles.
+
+* 🛠️ **Established CI/CD pipelines** (Azure DevOps & GitHub Actions), reducing **deployment failures by 75%** and enabling **faster, automated releases**.
+
+* 🧹 **Conducted in-depth code reviews and optimization**, reducing **technical debt by 30%**, standardizing best practices across teams, and improving maintainability.
+
+* 🔄 **Owned and managed the complete project lifecycle**, from initial system design and dev planning to **production deployment**, server setup, and post-launch support.
 
 ---
+
 ## ❤️ I'm Code on (DSA)
 
 <p align="left"> 
