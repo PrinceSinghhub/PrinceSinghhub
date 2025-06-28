@@ -197,9 +197,9 @@ I’ve **solved 5000+ DSA problems across 10+ top coding platforms** with an **u
 This journey reflects my relentless focus on **logic, consistency, and mastery of core CS fundamentals**.
 
 **LeetCode and GeeksForGeeks 🏆**
-- Profile 1: 1100+ problems solved, 3.5⭐ with a max rating of 1464 and 40+ Badges 🥇.
+- Profile 1: 1200+ problems solved, 3.5⭐ with a max rating of 1660 and 50+ Badges 🥇.
 - Annual Awards 2022 and 2023 on LeetCode and Include Top 0.4% of the LeetCoders 🌐.
-- Profile 2: 400+ problems solved, 2⭐ with a max rating of 1876 and 10+Badges 🥇 with Knight 👑 Tag and Include in Top 5% Code in the World 🌎.
+- Profile 2: 800+ problems solved, 2⭐ with a max rating of 1876 and 10+Badges 🥇 with Knight 👑 Tag and Include in Top 5% Code in the World 🌎.
 - Annual Award 2023 and Include Top 4.2% of the LeetCoders 🌐.
 - GeeksForGeeks: 1300+ problems solved, Global Rank 100 and Monthly Rank 99 with the Score of 4000+, and Instutie Rank 1🔥.
 
