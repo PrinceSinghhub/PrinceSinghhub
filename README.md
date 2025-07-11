@@ -49,8 +49,27 @@
 ---
 ## 👨‍🏫 Professional Experience (From Jan 2024 - Present)
 
-### ProPeers  
-**July 2024 – Present**  
+### **ProPeers**
+
+#### **Founding Engineer (July 2025 – Present)**
+
+* 🌟 **Led AI innovation with the launch of Roadmap AI**, a personalized AI roadmap assistant powered by **RAG (Retrieval-Augmented Generation)**, **OpenAI text-embedding-ada-002**, and **Modal** for scalable inference.
+
+  * Integrated **MCP (Modular Content Pipeline)** to contextually index 100+ roadmaps and learning paths.
+  * Supported **fine-grained AI subscriptions** (one-time, monthly, yearly), and managed **token usage, speed optimization, and upgrade flows**.
+  * Resulted in **instant intelligent roadmap recommendations**, reducing user decision fatigue and increasing retention.
+
+* ⚡ Achieved **sub-1s AI response times**, enabling smooth in-app AI chat and query resolution across large-scale learning data.
+
+* 👥 Addressed scaling issues for AI usage among **power users and high-frequency learners**, ensuring consistent performance and cost-effectiveness.
+
+* 🔍 Extended "AskAI" to leverage **contextual roadmap nodes + discussion data**, improving solution relevance and real-time suggestions.
+
+* 💡 Drove AI product strategy in alignment with user needs and industry demands — transforming the platform into an **AI-first learning ecosystem**.
+
+---
+
+**July 2024 – July 2025**  
 SDE - 1 · Delhi, India · Remote 
 * 🚀 **Built and scaled the flagship "Roadmaps" feature**, delivering **100+ curated learning paths** across DSA, Development, and System Design — **used by 100K+ users**. Improved personalization and relevance, while reducing API response time from **2.1s to < 300ms**, resulting in a **7x faster experience** and **40% higher user engagement**.
 
