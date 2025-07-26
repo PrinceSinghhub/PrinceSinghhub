@@ -53,19 +53,25 @@
 
 #### **Founding Engineer (July 2025 – Present)**
 
-* 🌟 **Led AI innovation with the launch of Roadmap AI**, a personalized AI roadmap assistant powered by **RAG (Retrieval-Augmented Generation)**, **OpenAI text-embedding-ada-002**, and **Modal** for scalable inference.
+* 🌟 **Led the launch of Roadmap AI**, a fully personalized learning assistant powered by **RAG (Retrieval-Augmented Generation)**, **OpenAI’s `text-embedding-ada-002`**, **Chroma Vector DB**, and **Modal** for real-time, scalable inference.
 
-  * Integrated **MCP (Modular Content Pipeline)** to contextually index 100+ roadmaps and learning paths.
-  * Supported **fine-grained AI subscriptions** (one-time, monthly, yearly), and managed **token usage, speed optimization, and upgrade flows**.
-  * Resulted in **instant intelligent roadmap recommendations**, reducing user decision fatigue and increasing retention.
+  * Architected a **self-learning dynamic RAG pipeline**:
+    `[JSON → Embedding → Chroma DB → Query Context Retrieval → Prompt Masking → Model → Nested JSON Output]`
 
-* ⚡ Achieved **sub-1s AI response times**, enabling smooth in-app AI chat and query resolution across large-scale learning data.
+    * Dynamically decides whether to **retrieve existing context** or **generate a roadmap from scratch**, enabling **zero-friction personalization** for every user query.
+    * Injects prompt templates based on match confidence and automatically re-embeds new data into the vector store — making the system truly **adaptive and self-updating**.
 
-* 👥 Addressed scaling issues for AI usage among **power users and high-frequency learners**, ensuring consistent performance and cost-effectiveness.
+* 🧠 Integrated **MCP (Modular Content Pipeline)** to process and vectorize 100+ roadmaps, enabling semantic search and structured AI roadmap generation.
 
-* 🔍 Extended "AskAI" to leverage **contextual roadmap nodes + discussion data**, improving solution relevance and real-time suggestions.
+* ⚙️ Developed token-based access with **one-time/monthly/yearly tiers**, including real-time **token usage tracking**, **speed controls**, and **upsell modals** for premium upgrades.
 
-* 💡 Drove AI product strategy in alignment with user needs and industry demands — transforming the platform into an **AI-first learning ecosystem**.
+* ⚡ Achieved **<1s latency** for AI responses at scale, improving retention and enabling smooth, conversational AskAI interactions.
+
+* 🛠️ Built an **AI-powered DSA Code Editor** supporting Run/Submit/Save, tightly integrated with Roadmap AI and backed by `gpt-3.5-turbo`, `o3-mini`, and `o1` models for contextual code assistance.
+
+* 🔍 Enhanced AskAI with **contextual node + discussion integration**, improving answer relevance and surfacing smarter suggestions.
+
+* 📈 Resulted in 3x higher roadmap completions, reduced user drop-offs, and transformed the platform into a **self-evolving AI-first learning ecosystem**.
 
 ---
 
