@@ -83,6 +83,8 @@ SDE - 1 · Delhi, India · Remote
 
 * 🤖 **Developed and integrated the "AskAI + Discussion Forum"**, an intelligent peer-programming assistant where users can **interact with AI** to solve DSA/Dev doubts and collaborate with others — enabling **on-demand doubt resolution** and **community learning**.
 
+* Worked on complex APIs to reduce processing time and improved tab switching experience for smoother navigation
+  
 * 📹 **Engineered a Session Recording Bot** using **Python, Selenium**, and **headless Azure VMs** with deep link automation — automating session joining and recording, cutting down **100% of manual effort** and improving reliability.
 
 * ⚙️ **Optimized 150+ APIs** by implementing **advanced caching layers, async processing, and API pipelines**, reducing backend latency by **up to 70%** and improving system throughput.
