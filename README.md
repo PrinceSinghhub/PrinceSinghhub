@@ -31,7 +31,7 @@
 </p>
 
 <!-- <img align="right" alt="Coding" width="400" src="bn.gif"> -->
----
+--- 
 ## About Me
  <!-- <a><img align="right" src="MyLCGoldBedge.gif" width="350" height="240" /></a> -->
 <a><img align="right" src="https://assets.leetcode.com/static_assets/marketing/1000.gif" width="360" height="360" /></a>
