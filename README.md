@@ -64,7 +64,7 @@
 
 * 🧠 Integrated **MCP (Modular Content Pipeline)** to process and vectorize 100+ roadmaps, enabling semantic search and structured AI roadmap generation.
 
-* Engineered a **Model Context Protocol (MCP)** to standardize context injection for the model — combining retrieved chunks, user metadata, prompt masks, and query scaffolding — ensuring consistent and accurate outputs at sub-second latency.
+* Engineered a **Model Context Protocol (MCP)** to standardize context injection for the model — combining retrieved chunks, user metadata, prompt masks, and query scaffolding — ensuring consistent and accurate outputs at sub-second latency. 
 
 * ⚙️ Developed token-based access with **one-time/monthly/yearly tiers**, including real-time **token usage tracking**, **speed controls**, and **upsell modals** for premium upgrades.
 
