@@ -218,7 +218,7 @@ Junior Software Engineer · Oak Park, Michigan, United States · Remote
 ---
 ## 🏆 DSA Battleground
 
-<a><img align="right" src="2024-Graph.png" width="350"/></a>
+<a><img align="right" src="Graph-2025.png" width="350"/></a>
 
 🚀 Excited to Share My Coding Journey and Accomplishments! 🚀
 
@@ -233,7 +233,7 @@ This journey reflects my relentless focus on **logic, consistency, and mastery o
 - Annual Award 2023 and Include Top 4.2% of the LeetCoders 🌐.
 - GeeksForGeeks: 1300+ problems solved, Global Rank 100 and Monthly Rank 99 with the Score of 4000+, and Instutie Rank 1🔥.
 
-<a><img align="right" src="https://assets.leetcode.com/static_assets/others/Knight.gif" width="360" height="360" /></a>
+<a><img align="right" src="DevGraph.png" width="350"/></a>
 
 **CodeStudio & InterviewBit & HackerRank & HackerEarth 🏆**
 - CodeStudio: 2000+ problems solved with 100000+ Coding Score, including in the top 0.5% 🌟.
