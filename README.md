@@ -218,7 +218,7 @@ Junior Software Engineer · Oak Park, Michigan, United States · Remote
 ---
 ## 🏆 DSA Battleground
 
-<a><img align="right" src="Graph-2025.png" width="350"/></a>
+<a><img align="right" src="2024-Graph.png" width="350"/></a>
 
 🚀 Excited to Share My Coding Journey and Accomplishments! 🚀
 
