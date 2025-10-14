@@ -3,7 +3,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm <b>Prince Singh (Founding Engineer & Tech Lead)</b></h1>
 <!--<h2 align="center"><b>I'm a Remote Developer & Software Engineer</b></h2> -->
 <h2 align="center"><b>Cracked National & International 4 Remote Job As A Fresher, ( 4x Remote SDE ) 💯</b></h2> 
-<p align="center"><b>Founding Engineer | SDE 1 @proPeers | Ex-Junior SDE Intern @CloudConduction | Mentor @proPeers & @topmate.io | 3.5⭐ LEETCODE | Max(1876) Rating Knight👑 Top 5% 🌍 | Institute 1🥇 Rank GFG | Global🥇 13th Rank InterviewBit | Max(1854) Rating Specialist🌞 CodeStudio Level 9 🚀 | Building @DSAwithPrinceSingh | Problem Solving Enthusiast 🧠 | 1200DaysOfCode+ on @LeetCode | 1200DaysOfCode Streak 🔥 | 6⭐ Problem Solving | Amateur HackerEarth | 1500+ Problems Solved on DSA | DSA & DEV Mentor | HardCore DSA Enthusiast ❤️ | 75DayHardPlacementChallenge 🔥</b> 
+<p align="center"><b>Founding Engineer | SDE 1 @proPeers | Ex-Junior SDE Intern @CloudConduction | Mentor @proPeers & @topmate.io | 3.5⭐ LEETCODE | Max(1876) Rating Knight👑 Top 5% 🌍 | Institute 1🥇 Rank GFG | Global🥇 13th Rank InterviewBit | Max(1854) Rating Specialist🌞 CodeStudio Level 9 🚀 | Building @DSAwithPrinceSingh | Problem Solving Enthusiast 🧠 | 1400DaysOfCode+ on @LeetCode | 1400DaysOfCode Streak 🔥 | 6⭐ Problem Solving | Amateur HackerEarth | 5000+ Problems Solved on DSA | DSA & DEV Mentor | HardCore DSA Enthusiast ❤️ | 75DayHardPlacementChallenge 🔥</b> 
 </b></p>
 
 <p align="center">
@@ -36,7 +36,7 @@
  <!-- <a><img align="right" src="MyLCGoldBedge.gif" width="350" height="240" /></a> -->
 <a><img align="right" src="https://assets.leetcode.com/static_assets/marketing/1000.gif" width="360" height="360" /></a>
 - 🔥 AboutMe (Skills) <b>[**Why I Fit in Your Bucket**](https://www.princesinghdev.com/)</b>
-- 🧠 Hardcore DSA Enthusiast & Problem-Solving Addict <b>5000+ problems solved with 1200+ Days of Consistent Code</b> across all major platforms, Passionate About Crafting Efficient Code.
+- 🧠 Hardcore DSA Enthusiast & Problem-Solving Addict <b>5000+ problems solved with 1400+ Days of Consistent Code</b> across all major platforms, Passionate About Crafting Efficient Code.
 - 👨‍💻 Tech Explorer - Love to learn new technologies and explore new sets of areas.
 - ✋ Hand-Holding Expertise: MERN, DevOps, Networking, Servers, System Design, Cost Optimization
 - 🎓 Top-Rated Mentor - Mentored 40,000+ students and professionals over the last 1.5 years on DSA, Development, Career Growth & Remote Job Prep and Interview Preparation
@@ -210,7 +210,7 @@ Junior Software Engineer · Oak Park, Michigan, United States · Remote
 | 🎯 My Prepration Challenge's 🎯 | 🥇 Other Achievement 🥇 |
 |------------------------------------|----------------------------------------|
 | 💥 75DaysHardPlacementChallenge  | ⭐ 40000+ Students Guide for Placements and DSA and CP and Development | 
-| 💥 1200DaysOfCode+ on @LeetCode  | ⭐ Top performer in College " Rank 1 " [Acadiemic & Coding ] |
+| 💥 1400DaysOfCode+ on @LeetCode  | ⭐ Top performer in College " Rank 1 " [Acadiemic & Coding ] |
 | 💥 365DaysOfCode+ on @InterviewBit |  ⭐ DSA & DEV Highe Rated Mentor on @TopMate ( Included in Top 1% ) |
 | 💥 700DaysOfCode+ on @CodeStudio | ⭐ 100K+ Total Followers on LinkedIn, X, Instagram, Youtube, Github, Community |
 | 💥 1000DaysOfCode+ on @GeeksForGeeks | ⭐ 10M+ Views on LinkedIn |
@@ -223,11 +223,11 @@ Junior Software Engineer · Oak Park, Michigan, United States · Remote
 🚀 Excited to Share My Coding Journey and Accomplishments! 🚀
 
 🚀 I'm thrilled to showcase my **dedication and passion for problem-solving** in the world of coding, over the past few years, 
-I’ve **solved 5000+ DSA problems across 10+ top coding platforms** with an **unbreakable 1200+ day streak** of daily practice.
+I’ve **solved 5000+ DSA problems across 10+ top coding platforms** with an **unbreakable 1400+ day streak** of daily practice.
 This journey reflects my relentless focus on **logic, consistency, and mastery of core CS fundamentals**.
 
 **LeetCode and GeeksForGeeks 🏆**
-- Profile 1: 1200+ problems solved, 3.5⭐ with a max rating of 1660 and 50+ Badges 🥇.
+- Profile 1: 1300+ problems solved, 3.5⭐ with a max rating of 1660 and 50+ Badges 🥇.
 - Annual Awards 2022 and 2023 on LeetCode and Include Top 0.4% of the LeetCoders 🌐.
 - Profile 2: 800+ problems solved, 2⭐ with a max rating of 1876 and 10+Badges 🥇 with Knight 👑 Tag and Include in Top 5% Code in the World 🌎.
 - Annual Award 2023 and Include Top 4.2% of the LeetCoders 🌐.
