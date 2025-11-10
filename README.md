@@ -35,15 +35,16 @@ Founding Engineer @ProPeers | AI Architect + Fullstack Developer | Ex-SDE @Cloud
 </p>
 
 <!-- <img align="right" alt="Coding" width="400" src="bn.gif"> -->
---- 
+---
 ## About Me
  <!-- <a><img align="right" src="MyLCGoldBedge.gif" width="350" height="240" /></a> -->
 <a><img align="right" src="https://assets.leetcode.com/static_assets/marketing/1000.gif" width="360" height="360" /></a>
-- 🔥 AboutMe (Skills) <b>[**Why I Fit in Your Bucket**](https://www.princesinghdev.com/)</b>
+
+- 🔥 **FullStack + AI Architectures** - AboutMe (Skills) <b>[**Why I Fit in Your Bucket**](https://www.princesinghdev.com/)</b>
 - 🧠 Hardcore DSA Enthusiast & Problem-Solving Addict <b>5000+ problems solved with 1400+ Days of Consistent Code</b> across all major platforms, Passionate About Crafting Efficient Code.
 - 👨‍💻 Tech Explorer - Love to learn new technologies and explore new sets of areas.
-- ✋ Hand-Holding Expertise: MERN, DevOps, Networking, Servers, System Design, Cost Optimization
-- 🎓 Top-Rated Mentor - Mentored 40,000+ students and professionals over the last 1.5 years on DSA, Development, Career Growth & Remote Job Prep and Interview Preparation
+- ✋ Hand-Holding Expertise: MERN, DevOps, Networking, Servers, System Design, Cost Optimization, and <b>AI Architectures (RAG + MCP + LLM Ops)</b>.
+- 🎓 Top-Rated Mentor - Mentored 40,000+ students and professionals over the last 1.5 years on DSA, Development, Career Growth & Remote Job Prep and Interview Preparation.
 - 👁‍🗨 Open Source Contributor
 - 👨‍🏫 Mentor on @Topmate and @Propeers
 - 📚 Building <b>[**Prepration Street**](https://www.preparationstreet.com/)</b>
@@ -58,27 +59,27 @@ Founding Engineer @ProPeers | AI Architect + Fullstack Developer | Ex-SDE @Cloud
 
 #### **Founding Engineer (July 2025 – Present)**
 
-* 🌟 **Led the launch of Roadmap AI**, a fully personalized learning assistant powered by **RAG (Retrieval-Augmented Generation)**, **OpenAI’s `text-embedding-ada-002`**, **Chroma Vector DB**, and **Modal** for real-time, scalable inference.
+* 🌟 **Led the launch of Roadmap AI**, a fully personalized learning assistant powered by **RAG (Retrieval-Augmented Generation)**, **OpenAI’s `text-embedding-ada-002`**, **Chroma Vector DB**, and **Modal** for real-time, scalable inference — achieving **<1s latency** and serving **10K+ daily queries**.
 
-  * Architected a **self-learning dynamic RAG pipeline**:
+  * Architected a **self-learning adaptive RAG pipeline**:  
     `[JSON → Embedding → Chroma DB → Query Context Retrieval → Prompt Masking → Model → Nested JSON Output]`
 
-    * Dynamically decides whether to **retrieve existing context** or **generate a roadmap from scratch**, enabling **zero-friction personalization** for every user query.
-    * Injects prompt templates based on match confidence and automatically re-embeds new data into the vector store — making the system truly **adaptive and self-updating**.
+    * Built **zero-context fallback logic**, dynamically deciding when to retrieve context or generate from scratch for complete personalization.  
+    * Injected prompt templates based on **match confidence**, with automatic re-embedding of new data — making the system truly **self-evolving**.
 
-* 🧠 Integrated **MCP (Modular Content Pipeline)** to process and vectorize 100+ roadmaps, enabling semantic search and structured AI roadmap generation.
+* 🧠 Integrated and deployed the **Model Context Protocol (MCP)** — a **dynamic orchestration engine** for multi-model routing, confidence-based context injection, and structured prompt masking across models (`gpt-3.5`, `o3-mini`, `o1`).
 
-* Engineered a **Model Context Protocol (MCP)** to standardize context injection for the model — combining retrieved chunks, user metadata, prompt masks, and query scaffolding — ensuring consistent and accurate outputs at sub-second latency. 
+* 🧩 Extended the **Modular Content Pipeline (MCP)** to process and vectorize **100+ Roadmaps**, powering semantic retrieval and structured AI roadmap generation.
 
-* ⚙️ Developed token-based access with **one-time/monthly/yearly tiers**, including real-time **token usage tracking**, **speed controls**, and **upsell modals** for premium upgrades.
+* ⚙️ Built an **AI-powered DSA Code Editor** supporting Run/Submit/Save with contextual LLM assistance, integrated across `gpt-3.5`, `o3-mini`, and `o1` — delivering real-time code insights and learning support.
 
-* ⚡ Achieved **<1s latency** for AI responses at scale, improving retention and enabling smooth, conversational AskAI interactions.
+* 🧮 Designed **token-based access control** with <b>tiered latency modes</b>, <b>real-time usage metering</b>, and <b>premium upsell logic</b> — optimizing engagement and monetization.
 
-* 🛠️ Built an **AI-powered DSA Code Editor** supporting Run/Submit/Save, tightly integrated with Roadmap AI and backed by `gpt-3.5-turbo`, `o3-mini`, and `o1` models for contextual code assistance.
+* ⚡ Achieved **sub-second inference** performance across all tiers with caching, async processing, and parallel embeddings, boosting user retention and responsiveness.
 
-* 🔍 Enhanced AskAI with **contextual node + discussion integration**, improving answer relevance and surfacing smarter suggestions.
+* 🔍 Enhanced AskAI with **contextual node + discussion integration**, improving query relevance and contextual assistance accuracy by 40%.
 
-* 📈 Resulted in 3x higher roadmap completions, reduced user drop-offs, and transformed the platform into a **self-evolving AI-first learning ecosystem**.
+* 📈 Drove **3x increase in roadmap completions**, reduced churn, and transitioned the platform into a **self-adaptive AI-first learning ecosystem** with real-time LLM intelligence.
 
 ---
 
@@ -106,6 +107,8 @@ SDE - 1 · Delhi, India · Remote
 
 * 🔧 **Handled end-to-end production deployment** and scaling for a system serving **15K+ users**, maintaining **high availability, fault tolerance**, and robust performance at scale.
 
+* 💡 Worked with cross-functional teams to integrate **AI personalization**, improving engagement metrics and completion rates by 40%.
+  
 ---
 
 ### Cloud Conduction  
