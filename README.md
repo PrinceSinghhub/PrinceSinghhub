@@ -1,10 +1,14 @@
 <img src="updatedBanner.png">                     
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm <b>Prince Singh (Founding Engineer & Tech Lead)</b></h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm <b>Prince Singh (Founding Engineer & AI Architect & Tech Lead)</b></h1>
 <!--<h2 align="center"><b>I'm a Remote Developer & Software Engineer</b></h2> -->
 <h2 align="center"><b>Cracked National & International 4 Remote Job As A Fresher, ( 4x Remote SDE ) 💯</b></h2> 
-<p align="center"><b>Founding Engineer | SDE 1 @proPeers | Ex-Junior SDE Intern @CloudConduction | Mentor @proPeers & @topmate.io | 3.5⭐ LEETCODE | Max(1876) Rating Knight👑 Top 5% 🌍 | Institute 1🥇 Rank GFG | Global🥇 13th Rank InterviewBit | Max(1854) Rating Specialist🌞 CodeStudio Level 9 🚀 | Building @DSAwithPrinceSingh | Problem Solving Enthusiast 🧠 | 1400DaysOfCode+ on @LeetCode | 1400DaysOfCode Streak 🔥 | 6⭐ Problem Solving | Amateur HackerEarth | 5000+ Problems Solved on DSA | DSA & DEV Mentor | HardCore DSA Enthusiast ❤️ | 75DayHardPlacementChallenge 🔥</b> 
-</b></p>
+<p align="center">
+<b>
+Founding Engineer @ProPeers | AI Architect + Fullstack Developer | Ex-SDE @CloudConduction | Mentor @proPeers & @topmate.io | Agentic AI, GenAI, LLMs, RAG, MCP Systems | LangChain, ChromaDB | DevOps, AIOps | DSA, System Design | 66K+ @LinkedIn 💼 | 3.5⭐ LeetCode | Max(1876) Rating Knight👑 Top 5% 🌍 | Institute 1🥇 Rank GFG | Global🥇 13th Rank InterviewBit | Max(1854) Rating Specialist🌞 CodeStudio Level 9 🚀 | Building @DSAwithPrinceSingh | Problem Solving Enthusiast 🧠 | 1400+ DaysOfCode on @LeetCode 🔥 | 6⭐ Problem Solving | Amateur @HackerEarth | 5000+ Problems Solved on DSA 🚀 | DSA & DEV Mentor | HardCore DSA Lover ❤️ | 75DaysHardPlacementChallenge 💪
+</b>
+</p>
+
 
 <p align="center">
     <a href="https://www.youtube.com/@PrinceSinghCSE" target="_blank">
