@@ -53,6 +53,39 @@ Founding Engineer @ProPeers | AI Architect + Fullstack Developer | Ex-SDE @Cloud
 - 📞 Book Your 1:1 Guidacne **DSA & Development & Placement & Career Guidance** [**Topmate**](https://topmate.io/itsprincesingh) and [**ProPeers**](https://www.propeers.in/profile/princesingh)
 - ⚡ For Fun **Games, Rosting, Mems, HipHop**
 ---
+
+## <a href="https://www.youtube.com/@PrinceSinghCSE" target="_blank">
+  <img src="https://www.svgrepo.com/show/13671/youtube.svg" title="YouTube Channel" alt="YouTube Channel" width="30" style="vertical-align: middle;"/>
+</a> YouTube Channel  
+
+<a href="https://www.youtube.com/@PrinceSinghCSE" target="_blank">https://www.youtube.com/@PrinceSinghCSE</a>
+
+---
+
+## 🎥 Recent Videos on YouTube  
+
+<div align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
+
+  <a href="https://youtu.be/S9Y7cCDf-So" target="_blank">
+    <img src="https://img.youtube.com/vi/S9Y7cCDf-So/maxresdefault.jpg" width="250" alt="The ULTIMATE LeetCode Guide | Smartest Way to Solve, Practice & Master Coding Interviews 🔥" style="border-radius: 10px;">
+  </a>
+
+  <a href="https://youtu.be/CeOB_7ENXDk" target="_blank">
+    <img src="https://img.youtube.com/vi/CeOB_7ENXDk/maxresdefault.jpg" width="250" alt="5 Signs You’re Memorizing DSA Solutions (Not Understanding the Logic 😬)" style="border-radius: 10px;">
+  </a>
+
+  <a href="https://youtu.be/O-76OmVEsBc" target="_blank">
+    <img src="https://img.youtube.com/vi/O-76OmVEsBc/maxresdefault.jpg" width="250" alt="What I Learned After Solving 5000+ DSA PROBLEMS in 5 Years 😱" style="border-radius: 10px;">
+  </a>
+
+  <a href="https://youtu.be/98dTuYlT3pI" target="_blank">
+    <img src="https://img.youtube.com/vi/98dTuYlT3pI/maxresdefault.jpg" width="250" alt="My 4-Year College Coding Journey (2020–2024) | From Noob to Top Coder 🔥" style="border-radius: 10px;">
+  </a>
+
+</div>
+
+---
+  
 ## 👨‍🏫 Professional Experience (From Jan 2024 - Present)
 
 ### **ProPeers**
