@@ -52,13 +52,6 @@ Founding Engineer @ProPeers | AI Architect + Fullstack Developer | Ex-SDE @Cloud
 - 🔥 [**My DSA and Development Skills**](https://linktr.ee/itsPrinceSingh) --->
 - 📞 Book Your 1:1 Guidacne **DSA & Development & Placement & Career Guidance** [**Topmate**](https://topmate.io/itsprincesingh) and [**ProPeers**](https://www.propeers.in/profile/princesingh)
 - ⚡ For Fun **Games, Rosting, Mems, HipHop**
----
-
-## <a href="https://www.youtube.com/@PrinceSinghCSE" target="_blank">
-  <img src="https://www.svgrepo.com/show/13671/youtube.svg" title="YouTube Channel" alt="YouTube Channel" width="30" style="vertical-align: middle;"/>
-</a> YouTube Channel  
-
-<a href="https://www.youtube.com/@PrinceSinghCSE" target="_blank">https://www.youtube.com/@PrinceSinghCSE</a>
 
 ---
 
@@ -80,6 +73,14 @@ Founding Engineer @ProPeers | AI Architect + Fullstack Developer | Ex-SDE @Cloud
 
   <a href="https://youtu.be/98dTuYlT3pI" target="_blank">
     <img src="https://img.youtube.com/vi/98dTuYlT3pI/maxresdefault.jpg" width="250" alt="My 4-Year College Coding Journey (2020–2024) | From Noob to Top Coder 🔥" style="border-radius: 10px;">
+  </a>
+
+  <a href="https://youtu.be/woDpVMgw6vI" target="_blank">
+    <img src="https://img.youtube.com/vi/woDpVMgw6vI/maxresdefault.jpg" width="250" alt="Why You Can't Solve DSA Problems ?? (Fix These 3 Core Gaps!)" style="border-radius: 10px;">
+  </a>
+
+  <a href="https://youtu.be/72II6u4Tdjc" target="_blank">
+    <img src="https://img.youtube.com/vi/72II6u4Tdjc/maxresdefault.jpg" width="250" alt="GITHUB Profile Guide 🔥 | How to Create a Professional GitHub (Step-by-Step)" style="border-radius: 10px;">
   </a>
 
 </div>
