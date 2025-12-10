@@ -4,7 +4,7 @@
 <!--<h2 align="center"><b>I'm a Remote Developer & Software Engineer</b></h2> -->
 <h2 align="center"><b>Cracked National & International 4 Remote Job As A Fresher, ( 4x Remote SDE )</b></h2> 
 <p align="center">
-Founding Engineer <b>@ProPeers</b> | <b>AI Architect</b> + <b>Fullstack Developer</b> | Ex-SDE <b>@CloudConduction</b> | Mentor <b>@ProPeers</b> & <b>@Topmate.io</b> | Agentic AI, GenAI, LLMs, RAG, MCP Systems | LangChain, ChromaDB | DevOps, AIOps | DSA, System Design | <b>66K+ @LinkedIn</b> | 3.5⭐ LeetCode | Max(1876) Rating <b>Knight (Top 5%)</b> | Institute <b>Rank 1</b> GFG | Global <b>Rank 13</b> InterviewBit | Max(1854) Rating <b>Specialist</b> CodeStudio Level 9 | Building <b>@PreparationStreet</b> | Problem Solving Enthusiast | 1400+ DaysOfCode on <b>@LeetCode</b> | 6⭐ Problem Solving | Amateur <b>@HackerEarth</b> | <b>5000+ Problems Solved</b> on DSA | <b>DSA & DEV Mentor</b> | HardCore <b>DSA Lover</b> | <b>75DaysHardPlacementChallenge</b>
+<b>Founding Engineer & AI Architect</b> @ProPeers | Ex-SDE <b>@CloudConduction</b> | Mentor <b>@ProPeers</b> & <b>@Topmate.io</b> | Agentic AI, GenAI, LLMs, RAG, MCP Systems | LangChain, ChromaDB | DevOps, AIOps | DSA, System Design | <b>66K+ @LinkedIn</b> | 3.5⭐ LeetCode | Max(1876) Rating <b>Knight (Top 5%)</b> | Institute <b>Rank 1</b> GFG | Global <b>Rank 13</b> InterviewBit | Max(1854) Rating <b>Specialist</b> CodeStudio Level 9 | Building <b>@PreparationStreet</b> | Problem Solving Enthusiast | 1400+ DaysOfCode on <b>@LeetCode</b> | 6⭐ Problem Solving | Amateur <b>@HackerEarth</b> | <b>5000+ Problems Solved</b> on DSA | <b>DSA & DEV Mentor</b> | HardCore <b>DSA Lover</b> | <b>75DaysHardPlacementChallenge</b>
 </p>
 
 
