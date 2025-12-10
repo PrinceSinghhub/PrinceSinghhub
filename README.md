@@ -38,7 +38,7 @@ Founding Engineer <b>@ProPeers</b> | <b>AI Architect</b> + <b>Fullstack Develope
  <!-- <a><img align="right" src="MyLCGoldBedge.gif" width="350" height="240" /></a> -->
 <a><img align="right" src="https://assets.leetcode.com/static_assets/marketing/1000.gif" width="360" height="360" /></a>
 
-- 🔥 **FullStack + AI Architectures** - <b>[**Why I Fit in Your Bucket**](https://www.princesinghdev.com/)</b>
+- 🔥 **Founding Engineer & AI Architect** - <b>[**Why I Fit in Your Bucket**](https://www.princesinghdev.com/)</b>
 - 🧠 Hardcore DSA Enthusiast & Problem-Solving Addict <b>5000+ problems solved with 1400+ Days of Consistent Code</b> across all major platforms, Passionate About Crafting Efficient Code.
 - 👨‍💻 Tech Explorer - Love to learn new technologies and explore new sets of areas.
 - ✋ Hand-Holding Expertise: MERN, DevOps, Networking, Servers, System Design, Cost Optimization, and <b>AI Architectures (RAG + MCP + LLM Ops)</b>.
