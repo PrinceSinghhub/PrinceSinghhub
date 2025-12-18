@@ -32,7 +32,6 @@
  </a> 
 </p>
 
-<!-- <img align="right" alt="Coding" width="400" src="bn.gif"> -->
 ---
 ## About Me
  <!-- <a><img align="right" src="MyLCGoldBedge.gif" width="350" height="240" /></a> -->
@@ -84,7 +83,11 @@
 </div>
 
 ---
-  
+
+<a href="https://www.princesinghdev.com/" target="_blank">
+  <img src="princesinghdev.png" alt="Prince Singh Dev">
+</a>
+
 ## 👨‍🏫 Professional Experience (From Jan 2024 - Present)
 
 ### **ProPeers**
