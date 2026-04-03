@@ -1,10 +1,13 @@
 <img src="updatedBanner.png">                     
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm <b>Prince Singh <br/> (Founding Engineer & AI Architect & Tech Lead)</b></h1>
-<!--<h2 align="center"><b>I'm a Remote Developer & Software Engineer</b></h2> -->
-<h2 align="center"><b>Cracked National & International 4 Remote Job As A Fresher, ( 4x Remote SDE )</b></h2> 
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm <b>Prince Singh</b></h1>
+
+<h2 align="center"><b>Founding Engineer & AI Architect · Building AI Systems at Scale</b></h2>
+
+<h3 align="center"><b>4x Remote Engineer · Cracked National & International Remote Jobs as a Fresher</b></h3>
+
 <p align="center">
-<b>Founding Engineer & AI Architect</b> @ProPeers | Ex-SDE <b>@CloudConduction</b> | Mentor <b>@ProPeers</b> & <b>@Topmate.io</b> | Agentic AI, GenAI, LLMs, RAG, MCP Systems | LangChain, ChromaDB | DevOps, AIOps | DSA, System Design | <b>66K+ @LinkedIn</b> | 3.5⭐ LeetCode | Max(1876) Rating <b>Knight (Top 5%)</b> | Institute <b>Rank 1</b> GFG | Global <b>Rank 13</b> InterviewBit | Max(1854) Rating <b>Specialist</b> CodeStudio Level 9 | Building <b>@PreparationStreet</b> | Problem Solving Enthusiast | 1400+ DaysOfCode on <b>@LeetCode</b> | 6⭐ Problem Solving | Amateur <b>@HackerEarth</b> | <b>5000+ Problems Solved</b> on DSA | <b>DSA & DEV Mentor</b> | HardCore <b>DSA Lover</b> | <b>75DaysHardPlacementChallenge</b>
+<b>Founding Engineer & AI Architect</b> @ProPeers | Ex-SDE <b>@CloudConduction</b> | Mentor <b>@ProPeers</b> & <b>@Topmate.io</b> | Building <b>@PreparationStreet</b> | Architecting Agentic AI · RAG · MCP · Multi-Model LLM Orchestration · AWS · Azure · AIOps · DevOps | LangChain · ChromaDB | <b>600K+ Users</b> | Mentored <b>40K+ Students</b> | <b>67K+ @LinkedIn</b> | LeetCode <b>Knight 👑</b> 3.5⭐ Top 5% Max(1876) | <b>1500+ DaysOfCode</b> @LeetCode | GFG Institute <b>Rank 1</b> | InterviewBit Global <b>Rank 13</b> | CodeStudio <b>Specialist</b> Max(1854) | <b>6⭐ Problem Solving</b> | Amateur <b>@HackerEarth</b> | <b>5000+ Problems Solved</b> | DSA & DEV Mentor | HardCore <b>DSA Lover</b> ❤️ | <b>75DaysHardPlacementChallenge</b> | System Design · Full-Stack · Open Source
 </p>
 
 
@@ -33,22 +36,23 @@
 </p>
 
 ---
-## About Me
- <!-- <a><img align="right" src="MyLCGoldBedge.gif" width="350" height="240" /></a> -->
-<a><img align="right" src="https://assets.leetcode.com/static_assets/marketing/1000.gif" width="360" height="360" /></a>
 
-- 🔥 **Founding Engineer & AI Architect** - <b>[**Why I Fit in Your Bucket**](https://www.princesinghdev.com/)</b>
-- 🧠 Hardcore DSA Enthusiast & Problem-Solving Addict <b>5000+ problems solved with 1400+ Days of Consistent Code</b> across all major platforms, Passionate About Crafting Efficient Code.
-- 👨‍💻 Tech Explorer - Love to learn new technologies and explore new sets of areas.
-- ✋ Hand-Holding Expertise: MERN, DevOps, Networking, Servers, System Design, Cost Optimization, and <b>AI Architectures (RAG + MCP + LLM Ops)</b>.
-- 🎓 Top-Rated Mentor - Mentored 40,000+ students and professionals over the last 1.5 years on DSA, Development, Career Growth & Remote Job Prep and Interview Preparation.
+## About Me
+<!-- <a><img align="right" src="MyLCGoldBedge.gif" width="350" height="240" /></a> -->
+<a><img align="right" src="https://assets.leetcode.com/static_assets/marketing/1000.gif" width="360" height="360" /></a>
+- 🏗️ **Founding Engineer & AI Architect** - <b>[**Why I Fit in Your Bucket**](https://www.princesinghai.com/)</b>
+- 🚀 Architecting **Agentic AI · RAG Pipelines · MCP · Multi-Model LLM Orchestration** at scale for **600K+ Users** across AWS & Azure
+- 🧠 Hardcore DSA Enthusiast & Problem-Solving Addict - <b>5000+ problems solved with 1500+ Days of Consistent Code</b> across all major platforms, Passionate About Crafting Efficient Code
+- 👨‍💻 Tech Explorer - Love to learn new technologies and explore new sets of areas
+- ✋ Hand-Holding Expertise: MERN · DevOps · AIOps · Networking · Servers · System Design · Cost Optimization · <b>AI Architectures (RAG + MCP + LLM Ops + Agentic AI)</b>
+- 🎓 Top-Rated Mentor - Mentored **40,000+ students** and professionals over the last 1.5 years on DSA, Development, Career Growth, Remote Job Prep & Interview Preparation
 - 👁‍🗨 Open Source Contributor
-- 👨‍🏫 Mentor on @Topmate and @Propeers
-- 📚 Building <b>[**Prepration Street**](https://www.preparationstreet.com/)</b>
+- 👨‍🏫 Mentor on [@Topmate](https://topmate.io/itsprincesingh) and [@ProPeers](https://www.propeers.in/profile/princesingh)
+- 📚 Building <b>[**Multi Model AI Orchestration Platform**](https://ai.princesinghai.com/)</b>, <b>[**PrinceSinghAI**](https://www.princesinghai.com/)</b>, <b>[**PrinceSinghDev**](https://www.princesinghdev.com/)</b>, <b>[**Preparation Street**](https://www.preparationstreet.com/)</b>
  <!--- 📔 Live [**MyResume**](https://princesinghhub.github.io/MYWebResume/)
 - 🔥 [**My DSA and Development Skills**](https://linktr.ee/itsPrinceSingh) --->
-- 📞 Book Your 1:1 Guidacne **DSA & Development & Placement & Career Guidance** [**Topmate**](https://topmate.io/itsprincesingh) and [**ProPeers**](https://www.propeers.in/profile/princesingh)
-- ⚡ For Fun **Games, Rosting, Mems, HipHop**
+- 📞 Book Your 1:1 Guidance **DSA & Development & Placement & Career Guidance** - [**Topmate**](https://topmate.io/itsprincesingh) and [**ProPeers**](https://www.propeers.in/profile/princesingh)
+- ⚡ For Fun **Games, Roasting, Memes, HipHop**
 
 ---
 
