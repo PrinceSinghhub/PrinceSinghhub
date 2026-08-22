@@ -48,7 +48,7 @@
 - 🎓 Top-Rated Mentor - Mentored **40,000+ students** and professionals over the last 1.5 years on DSA, Development, Career Growth, Remote Job Prep & Interview Preparation
 - 👁‍🗨 Open Source Contributor
 - 👨‍🏫 Mentor on [@PreparationStreet](https://www.preparationstreet.com/mentorship) and [@ProPeers](https://www.propeers.in/profile/princesingh)
-- 📚 Building <b>[**Multi Model AI Orchestration Platform**](https://ai.princesinghai.com/)</b>, <b>[**PrinceSinghAI**](https://www.princesinghai.com/)</b>, <b>[**PrinceSinghDev**](https://www.princesinghdev.com/)</b>, <b>[**Preparation Street**](https://www.preparationstreet.com/)</b>, <b>[**Arx**](https://www.princesinghai.com/arx)</b>, <b>[**Versus**](https://www.princesinghai.com/versus)</b>, <b>[**Voice with 24+ LLMs**](https://www.princesinghai.com/voice)</b>, <b>[**askDSA**](https://askdsa.princesingh.work/)</b>
+- 📚 Building <b>[**PrinceSinghAI**](https://www.princesinghai.com/)</b>, <b>[**PrinceSinghDev**](https://www.princesinghdev.com/)</b>, <b>[**Preparation Street**](https://www.preparationstreet.com/)</b>, <b>[**Arx**](https://www.princesinghai.com/arx)</b>, <b>[**Versus Multi LLM**](https://www.princesinghai.com/versus)</b>, <b>[**Voice with 24+ LLMs**](https://www.princesinghai.com/voice)</b>, <b>[**askDSA**](https://askdsa.princesingh.work/)</b>
  <!--- 📔 Live [**MyResume**](https://princesinghhub.github.io/MYWebResume/)
 - 🔥 [**My DSA and Development Skills**](https://linktr.ee/itsPrinceSingh) --->
 - 📞 One Click Ahead to Become Architect - [**1:1 Full Time Personalized Mentorship**](https://www.preparationstreet.com/ftm)
