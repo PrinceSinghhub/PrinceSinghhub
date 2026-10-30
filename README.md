@@ -40,7 +40,7 @@
 ## About Me
 <!-- <a><img align="right" src="MyLCGoldBedge.gif" width="350" height="240" /></a> -->
 <a><img align="right" src="https://assets.leetcode.com/static_assets/marketing/1000.gif" width="360" height="360" /></a>
-- 🏗️ **Founding Engineer & AI Architect** - <b>[**Why I Fit in Your Bucket**](https://www.princesinghai.com/)</b>
+- **AI Software Engineer** @ York Solutions (Optum) · Ex-**Founding Engineer & AI Architect** @ProPeers - <b>[**Why I Fit in Your Bucket**](https://www.princesinghai.com/)</b>
 - 🚀 Architecting **Agentic AI · RAG Pipelines · MCP · Multi-Model LLM Orchestration** at scale for **600K+ Users** across AWS & Azure
 - 🧠 Hardcore DSA Enthusiast & Problem-Solving Addict - <b>5000+ problems solved with 1500+ Days of Consistent Code</b> across all major platforms, Passionate About Crafting Efficient Code
 - 👨‍💻 Tech Explorer - Love to learn new technologies and explore new sets of areas
