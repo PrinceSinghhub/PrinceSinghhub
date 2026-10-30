@@ -91,11 +91,29 @@
   <img src="princesinghdev.png" alt="Prince Singh Dev">
 </a>
 
-## 👨‍🏫 Professional Experience (From Jan 2024 - Present)
+## 👨‍🏫 Professional Experience
+
+### **York Solutions (Optum)**
+
+#### **AI Software Engineer (Nov 2026 – Present)**
+
+* 🤖 Building and shipping **AI/LLM-powered features** for an enterprise **healthcare** platform, working in a remote, cross-functional team on production-grade solutions.
+
+* 🔎 Developing **RAG and agentic workflows** to turn large volumes of enterprise data into accurate, context-aware answers, with a focus on **retrieval quality** and **response reliability**.
+
+* 🧩 Designing and maintaining **scalable backend services and APIs** with clean, testable code, **code reviews** and thorough documentation.
+
+* ☁️ Deploying and operating services in **cloud environments** with **CI/CD**, monitoring and observability for dependable releases.
+
+* 🔐 Delivering within strict **enterprise security, compliance and data-privacy** standards at every stage of the development lifecycle.
+
+* 🤝 Collaborating with product, QA and platform teams through **agile ceremonies**, sprint planning and regular knowledge-sharing.
+
+---
 
 ### **ProPeers**
 
-#### **Founding Engineer (July 2025 – Present)**
+#### **Founding Engineer & AI Architect (July 2025 – Oct 2026)**
 
 * 🌟 **Led the launch of Roadmap AI**, a fully personalized learning assistant powered by **RAG (Retrieval-Augmented Generation)**, **OpenAI’s `text-embedding-ada-002`**, **Chroma Vector DB**, and **Modal** for real-time, scalable inference — achieving **<1s latency** and serving **10K+ daily queries**.
 
