@@ -2,12 +2,12 @@
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm <b>Prince Singh</b></h1>
 
-<h2 align="center"><b>Founding Engineer & AI Architect · Building AI Systems at Scale</b></h2>
+<h2 align="center"><b>AI Software Engineer & AI Architect · Building AI Systems at Scale</b></h2>
 
 <h3 align="center"><b>4x Remote Engineer · Cracked National & International Remote Jobs as a Fresher</b></h3>
 
 <p align="center">
-<b>Founding Engineer & AI Architect</b> @ProPeers | Ex-SDE <b>@CloudConduction</b> | Mentor <b>@ProPeers</b> & <b>@Topmate.io</b> | Building <b>@PreparationStreet</b> | Architecting Agentic AI · RAG · MCP · Multi-Model LLM Orchestration · AWS · Azure · AIOps · DevOps | LangChain · ChromaDB | <b>600K+ Users</b> | Mentored <b>40K+ Students</b> | <b>67K+ @LinkedIn</b> | LeetCode <b>Knight 👑</b> 3.5⭐ Top 5% Max(1876) | <b>1500+ DaysOfCode</b> @LeetCode | GFG Institute <b>Rank 1</b> | InterviewBit Global <b>Rank 13</b> | CodeStudio <b>Specialist</b> Max(1854) | <b>6⭐ Problem Solving</b> | Amateur <b>@HackerEarth</b> | <b>5000+ Problems Solved</b> | DSA & DEV Mentor | HardCore <b>DSA Lover</b> ❤️ | <b>75DaysHardPlacementChallenge</b> | System Design · Full-Stack · Open Source
+<b>AI Software Engineer</b> @YorkSolutions, @Optum | Ex-<b>Founding Engineer & AI Architect</b> @ProPeers | Mentor <b>@ProPeers</b> & <b>@Topmate.io</b> | Building <b>@PreparationStreet</b> | Architecting Agentic AI · RAG · MCP · Multi-Model LLM Orchestration · AWS · Azure · AIOps · DevOps | LangChain · ChromaDB | <b>600K+ Users</b> | Mentored <b>40K+ Students</b> | <b>80K+ @LinkedIn</b> | LeetCode <b>Knight 👑</b> 3.5⭐ Top 5% Max(1876) | <b>1800+ DaysOfCode</b> @LeetCode | GFG Institute <b>Rank 1</b> | InterviewBit Global <b>Rank 13</b> | CodeStudio <b>Specialist</b> Max(1854) | <b>6⭐ Problem Solving</b> | Amateur <b>@HackerEarth</b> | <b>5000+ Problems Solved</b> | DSA & DEV Mentor | HardCore <b>DSA Lover</b> ❤️ | <b>75DaysHardPlacementChallenge</b> | System Design · Full-Stack · Open Source
 </p>
 
 
