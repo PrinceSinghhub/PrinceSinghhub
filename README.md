@@ -87,8 +87,8 @@
 
 ---
 
-<a href="https://www.princesinghdev.com/" target="_blank">
-  <img src="princesinghdev.png" alt="Prince Singh Dev">
+<a href="https://www.princesingh.work" target="_blank">
+  <img src="princesingh_port.png" alt="Prince Singh Dev">
 </a>
 
 ## 👨‍🏫 Professional Experience
